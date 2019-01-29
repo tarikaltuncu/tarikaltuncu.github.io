@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-%https://guides.github.com/features/mastering-markdown/
+
+#https://guides.github.com/features/mastering-markdown/
 
 This page is about me.
 
