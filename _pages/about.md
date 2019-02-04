@@ -15,9 +15,9 @@ Intended to be an engineer since young.
 Graduated as an Electrical & Electronics Engineer from Bogazici University.
 But decided to be a marketing professional specialised in Digital Media.
 Saw something charming in Finance, had an MSc in Finance from Sabanci University.
-Worked for companies at various sizes in telecommunication and media industies.
-Decided to stitch it to Social Data Science.
-Got afilliated to @TRTWorld Digital's Audience Insights team.
+Worked for companies at various sizes in telecommunication and media industries.
+Decided to stick it to Social Data Science.
+Got affiliated to @TRTWorld Digital's Audience Insights team.
 Now studying hard to get a PhD degree from Imperial College London in Applied Mathematics field.
 Pushing hard to be "jack of all trades, master of data"
 
