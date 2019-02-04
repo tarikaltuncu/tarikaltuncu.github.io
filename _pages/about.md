@@ -10,9 +10,24 @@ redirect_from:
 
 [comment]: <> (https://guides.github.com/features/mastering-markdown/)
 
-This page is about me.
+Originally an Istanbulite, but temporarily Londoner.
+Intended to be an engineer since young. 
+Graduated as an Electrical & Electronics Engineer from Bogazici University.
+But decided to be a marketing professional specialised in Digital Media.
+Saw something charming in Finance, had an MSc in Finance from Sabanci University.
+Worked for companies at various sizes in telecommunication and media industies.
+Decided to stitch it to Social Data Science.
+Got afilliated to @TRTWorld Digital's Audience Insights team.
+Now studying hard to get a PhD degree from Imperial College London in Applied Mathematics field.
+Pushing hard to be "jack of all trades, master of data"
 
-# Research Interests:
+# Research Interests
+
+My research interests lie where #Mathematics joins #Humanities on #Data. 
+There has to be people and algorithms involved in. 
+
+In general, I touch various subjects related to Natural Language, Graphs Theory, Network Community Detection, and People-Centric Data Science. 
+Hint: I like the term Computational Social Science.
 
 # News
 
