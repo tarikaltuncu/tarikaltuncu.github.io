@@ -23,10 +23,10 @@ Pushing hard to be "jack of all trades, master of data"
 
 # Research Interests
 
-My research interests lie where #Mathematics joins #Humanities on #Data. 
+My research interests lie where #Mathematics joins #Humanities based on #Data. 
 There has to be people and algorithms involved in. 
 
-In general, I touch various subjects related to Natural Language, Graphs Theory, Network Community Detection, and People-Centric Data Science. 
+In general, I like working on various subjects related to Natural Language, Graph Theory, Networks & Community Detection, and Social Data Science. 
 Hint: I like the term Computational Social Science.
 
 # News
