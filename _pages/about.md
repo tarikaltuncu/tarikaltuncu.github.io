@@ -31,9 +31,13 @@ Hint: I like the term Computational Social Science.
 
 # News
 
+* [2019/07/08] - We joined [NetMob 2019](https://netmob.org/program.html) for Data for Refugees Special Session.
+
+* [2019/03/01] - We presented our D4R project at [Data Natives 2019](https://twitter.com/mTarikAltuncu/status/1098910885542850562).
+
 * [2019/01/24] - Our paper ["From free text to clusters of content in health records: an unsupervised graph partitioning approach"](https://rdcu.be/biiix) is out on [Applied Network Science](https://appliednetsci.springeropen.com/) from [SpringerOpen](https://www.springeropen.com/).
 
-* [2019/01/21] - We presented our [poster](bit.ly/refugee_poster) at [Data for Refugees (D4R)](http://d4r.turktelekom.com.tr/) Closing Workshop at Bogazici University, Istanbul - Turkey. More to come soon about this study.
+* [2019/01/21] - We presented our [poster](http://bit.ly/refugee_poster) at [Data for Refugees (D4R)](http://d4r.turktelekom.com.tr/) Closing Workshop at Bogazici University, Istanbul - Turkey. More to come soon about this study.
 
 * [2018/09/25] - I made an [oral presentation](http://ccs2018.web.auth.gr/free-text-clusters-content-health-records-unsupervised-graph-partitioning-approach) at [CCS'2018](http://ccs2018.web.auth.gr/) in Thessaloniki - Greece.
 
