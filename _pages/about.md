@@ -30,6 +30,9 @@ In general, I like working on various subjects related to Natural Language, Grap
 Hint: I like the term Computational Social Science.
 
 # News
+* [20019/09/25] - I am presenting my PhD work on Imperial's [FoNS Research Showcase](https://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/2019/07/16/faculty-of-natural-sciences-research-showcase-2019-25-september-2019/). Find me in the [full day program](http://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/files/2019/07/FoNS-Showcase-2019-full-programme-1.pdf), and [booklet](http://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/files/2019/07/FoNS-Research-Showcase-booklet-2019-final.pdf) with abstracts.
+
+* [20019/09/10] - #D4R book is published! We have two contributed chapters in it: [Optimizing the Access to Healthcare Services in Dense Refugee Hosting Urban Areas: A Case for Istanbul](https://link.springer.com/chapter/10.1007/978-3-030-12554-7_20) and [Policy Implications of the D4R Challenge](https://link.springer.com/chapter/10.1007/978-3-030-12554-7_25)
 
 * [2019/07/08] - We joined [NetMob 2019](https://netmob.org/program.html) for Data for Refugees Special Session.
 
