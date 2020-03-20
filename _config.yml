@@ -172,22 +172,34 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _posts
   - scope:
       path: ""
