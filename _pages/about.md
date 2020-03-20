@@ -17,7 +17,7 @@ But decided to be a marketing professional specialised in Digital Media.
 Saw something charming in Finance, had an MSc in Finance from Sabanci University.
 Worked for companies at various sizes in telecommunication and media industries.
 Decided to stick it to Social Data Science.
-Got affiliated to @TRTWorld Digital's Audience Insights team.
+Got affiliated to TRT Network's Audience Insights team.
 Now studying hard to get a PhD degree from Imperial College London in Applied Mathematics field.
 Pushing hard to be "jack of all trades, master of data"
 
@@ -26,8 +26,7 @@ Pushing hard to be "jack of all trades, master of data"
 My research interests lie where #Mathematics joins #Humanities based on #Data. 
 There has to be people and algorithms involved in. 
 
-In general, I like working on various subjects related to Natural Language, Graph Theory, Networks & Community Detection, and Social Data Science. 
-Hint: I like the term Computational Social Science.
+In general, I like working on various subjects related to Natural Language, Networks & Community Detection, and Social Data Science. 
 
 # News
 * [20019/09/25] - I am presenting my PhD work on Imperial's [FoNS Research Showcase](https://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/2019/07/16/faculty-of-natural-sciences-research-showcase-2019-25-september-2019/). Find me in the [full day program](http://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/files/2019/07/FoNS-Showcase-2019-full-programme-1.pdf), and [booklet](http://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/files/2019/07/FoNS-Research-Showcase-booklet-2019-final.pdf) with abstracts.
