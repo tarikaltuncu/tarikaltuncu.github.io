@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(12,101)" font-size="78" style="fill:rgb(117, 208, 84)">stranger things</text>
+<text transform="translate(229,574)" font-size="62" style="fill:rgb(72, 36, 117)">suicide squad</text>
+<text transform="translate(126,810)" font-size="56" style="fill:rgb(49, 102, 142)">star trek</text>
+<text transform="translate(326,235)" font-size="50" style="fill:rgb(61, 77, 138)">comic book</text>
+<text transform="translate(325,368)" font-size="49" style="fill:rgb(248, 230, 33)">augment reality</text>
+<text transform="translate(31,273)" font-size="48" style="fill:rgb(55, 91, 141)">vice principals</text>
+<text transform="translate(108,682)" font-size="48" style="fill:rgb(229, 228, 25)">luke cage</text>
+<text transform="translate(297,466)" font-size="48" style="fill:rgb(39, 128, 142)">harry potter</text>
+<text transform="translate(430,702)" font-size="47" style="fill:rgb(31, 152, 139)">second season</text>
+<text transform="translate(204,742)" font-size="47" style="fill:rgb(192, 223, 37)">first season</text>
+<text transform="translate(250,183)" font-size="44" style="fill:rgb(71, 14, 97)">todd vanderwerff</text>
+<text transform="translate(454,314)" font-size="43" style="fill:rgb(59, 82, 139)">curse child</text>
+<text transform="translate(31,602)" font-size="42" style="fill:rgb(61, 78, 138)">new york</text>
+<text transform="translate(264,626)" font-size="41" style="fill:rgb(181, 222, 43)">game throne</text>
+<text transform="translate(17,406)" font-size="40" style="fill:rgb(82, 197, 105)">people simpson</text>
+<text transform="translate(47,502)" font-size="40" style="fill:rgb(53, 183, 121)">batman superman</text>
+<text transform="translate(37,328)" font-size="40" style="fill:rgb(76, 194, 108)">jason bourne</text>
+<text transform="translate(446,808)" font-size="39" style="fill:rgb(56, 89, 140)">first episode</text>
+<text transform="translate(520,503)" font-size="39" style="fill:rgb(144, 215, 67)">pop culture</text>
+<text transform="translate(15,219)" font-size="39" style="fill:rgb(70, 50, 126)">pokémon game</text>
+<text transform="translate(425,402)" font-size="39" style="fill:rgb(57, 85, 140)">taylor swift</text>
+<text transform="translate(1,463)" font-size="39" style="fill:rgb(47, 107, 142)">real world</text>
+<text transform="translate(560,733)" font-size="39" style="fill:rgb(31, 162, 135)">tell story</text>
+<text transform="translate(469,272)" font-size="39" style="fill:rgb(38, 130, 142)">test card</text>
+<text transform="translate(90,366)" font-size="39" style="fill:rgb(127, 211, 78)">box office</text>
+<text transform="translate(411,656)" font-size="39" style="fill:rgb(56, 185, 119)">american crime</text>
+<text transform="translate(337,134)" font-size="39" style="fill:rgb(30, 157, 137)">warner bros</text>
+<text transform="translate(2,148)" font-size="39" style="fill:rgb(110, 206, 88)">little bite</text>
+<text transform="translate(479,769)" font-size="36" style="fill:rgb(208, 225, 28)">limit series</text>
+<text transform="translate(540,617)" font-size="35" style="fill:rgb(37, 131, 142)">drama series</text>
+<text transform="translate(12,532)" font-size="35" style="fill:rgb(165, 219, 54)">wonder woman</text>
+<text transform="translate(12,561)" font-size="34" style="fill:rgb(47, 108, 142)">blair witch</text>
+<text transform="translate(23,713)" font-size="34" style="fill:rgb(223, 227, 24)">much more</text>
+<text transform="translate(485,426)" font-size="31" style="fill:rgb(54, 92, 141)">caroline framke</text>
+<text transform="translate(25,173)" font-size="31" style="fill:rgb(63, 71, 136)">pitt jolie</text>
+<text transform="translate(24,637)" font-size="31" style="fill:rgb(34, 167, 133)">social media</text>
+<text transform="translate(35,764)" font-size="30" style="fill:rgb(197, 224, 33)">real life</text>
+<text transform="translate(209,765)" font-size="30" style="fill:rgb(59, 187, 117)">halt catch</text>
+<text transform="translate(453,533)" font-size="27" style="fill:rgb(110, 206, 88)">halt catch fire</text>
+<text transform="translate(587,138)" font-size="23" style="fill:rgb(30, 156, 137)">bojack horseman</text>
+<text transform="translate(646,453)" font-size="23" style="fill:rgb(45, 178, 125)">video game</text>
+<text transform="translate(629,213)" font-size="23" style="fill:rgb(70, 7, 90)">take place</text>
+<text transform="translate(253,52)" font-size="23" style="fill:rgb(194, 223, 35)">third season</text>
+<text transform="translate(200,291)" font-size="23" style="fill:rgb(62, 73, 137)">good place</text>
+<text transform="translate(23,733)" font-size="23" style="fill:rgb(42, 176, 127)">calvin harris</text>
+<text transform="translate(9,808)" font-size="23" style="fill:rgb(33, 144, 141)">year old</text>
+<text transform="translate(378,332)" font-size="23" style="fill:rgb(103, 204, 92)">comic con</text>
+<text transform="translate(308,424)" font-size="23" style="fill:rgb(60, 79, 138)">crime story</text>
+<text transform="translate(234,593)" font-size="22" style="fill:rgb(160, 218, 57)">leslie jones</text>
+<text transform="translate(98,422)" font-size="20" style="fill:rgb(117, 208, 84)">catch pokémon</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - Q3-2016 - Comm. 4 w. 428 documents</text>
+</svg>

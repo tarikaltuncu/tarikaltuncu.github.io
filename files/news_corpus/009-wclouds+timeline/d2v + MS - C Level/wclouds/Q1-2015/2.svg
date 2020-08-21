@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(27,664)" font-size="97" style="fill:rgb(68, 58, 131)">charlie hebdo</text>
+<text transform="translate(35,754)" font-size="88" style="fill:rgb(35, 169, 131)">foreign policy</text>
+<text transform="translate(278,440)" font-size="78" style="fill:rgb(70, 7, 90)">white house</text>
+<text transform="translate(11,199)" font-size="76" style="fill:rgb(72, 40, 120)">prime minister</text>
+<text transform="translate(79,553)" font-size="75" style="fill:rgb(52, 97, 141)">president obama</text>
+<text transform="translate(306,117)" font-size="72" style="fill:rgb(231, 228, 25)">state union</text>
+<text transform="translate(28,350)" font-size="72" style="fill:rgb(173, 220, 48)">saudi arabia</text>
+<text transform="translate(303,263)" font-size="69" style="fill:rgb(70, 51, 127)">jeb bush</text>
+<text transform="translate(305,811)" font-size="47" style="fill:rgb(56, 89, 140)">washington post</text>
+<text transform="translate(48,80)" font-size="47" style="fill:rgb(99, 203, 95)">new york</text>
+<text transform="translate(68,475)" font-size="45" style="fill:rgb(42, 118, 142)">unauthorized immigrants</text>
+<text transform="translate(5,274)" font-size="45" style="fill:rgb(31, 153, 138)">unite state</text>
+<text transform="translate(316,581)" font-size="36" style="fill:rgb(36, 170, 131)">obama administration</text>
+<text transform="translate(346,59)" font-size="34" style="fill:rgb(31, 150, 139)">executive action</text>
+<text transform="translate(25,804)" font-size="32" style="fill:rgb(45, 113, 142)">daily show</text>
+<text transform="translate(5,376)" font-size="30" style="fill:rgb(58, 84, 140)">benjamin netanyahu</text>
+<text transform="translate(78,121)" font-size="30" style="fill:rgb(51, 99, 141)">scott walker</text>
+<text transform="translate(551,306)" font-size="29" style="fill:rgb(72, 37, 118)">israeli prime</text>
+<text transform="translate(427,369)" font-size="23" style="fill:rgb(115, 208, 86)">israeli prime minister</text>
+<text transform="translate(66,225)" font-size="23" style="fill:rgb(31, 158, 137)">middle east</text>
+<text transform="translate(301,692)" font-size="23" style="fill:rgb(160, 218, 57)">minister benjamin</text>
+<text transform="translate(467,134)" font-size="20" style="fill:rgb(132, 212, 75)">minister benjamin netanyahu</text>
+<text transform="translate(2,426)" font-size="20" style="fill:rgb(197, 224, 33)">prime minister benjamin</text>
+<text transform="translate(6,499)" font-size="20" style="fill:rgb(119, 209, 83)">north korea</text>
+<text transform="translate(116,569)" font-size="20" style="fill:rgb(210, 226, 27)">nuclear program</text>
+<text transform="translate(628,205)" font-size="20" style="fill:rgb(58, 186, 118)">civil right</text>
+<text transform="translate(140,682)" font-size="20" style="fill:rgb(53, 94, 141)">rand paul</text>
+<text transform="translate(609,491)" font-size="20" style="fill:rgb(66, 63, 133)">george bush</text>
+<text transform="translate(539,771)" font-size="20" style="fill:rgb(34, 141, 141)">free speech</text>
+<text transform="translate(384,281)" font-size="20" style="fill:rgb(35, 136, 142)">barack obama</text>
+<text transform="translate(588,339)" font-size="20" style="fill:rgb(213, 226, 26)">mitt romney</text>
+<text transform="translate(656,272)" font-size="20" style="fill:rgb(38, 173, 129)">human right</text>
+<text transform="translate(155,141)" font-size="20" style="fill:rgb(205, 225, 29)">hillary clinton</text>
+<text transform="translate(617,384)" font-size="20" style="fill:rgb(55, 90, 140)">supreme court</text>
+<text transform="translate(26,398)" font-size="20" style="fill:rgb(49, 181, 123)">palestinian state</text>
+<text transform="translate(116,821)" font-size="20" style="fill:rgb(63, 188, 115)">new york time</text>
+<text transform="translate(668,690)" font-size="20" style="fill:rgb(61, 78, 138)">york time</text>
+<text transform="translate(42,770)" font-size="20" style="fill:rgb(42, 176, 127)">zionist union</text>
+<text transform="translate(109,597)" font-size="20" style="fill:rgb(39, 126, 142)">run president</text>
+<text transform="translate(43,296)" font-size="20" style="fill:rgb(72, 32, 113)">dhs fund</text>
+<text transform="translate(38,441)" font-size="20" style="fill:rgb(49, 102, 142)">iran nuclear</text>
+<text transform="translate(628,247)" font-size="20" style="fill:rgb(178, 221, 45)">defer action</text>
+<text transform="translate(228,297)" font-size="20" style="fill:rgb(33, 165, 133)">secretary state</text>
+<text transform="translate(652,170)" font-size="20" style="fill:rgb(61, 188, 116)">john boehner</text>
+<text transform="translate(290,826)" font-size="20" style="fill:rgb(72, 29, 111)">north korean</text>
+<text transform="translate(150,493)" font-size="20" style="fill:rgb(66, 65, 134)">boko haram</text>
+<text transform="translate(32,46)" font-size="17" style="fill:rgb(45, 113, 142)">homeland security</text>
+<text transform="translate(331,489)" font-size="17" style="fill:rgb(90, 200, 100)">eastern ukraine</text>
+<text transform="translate(524,72)" font-size="17" style="fill:rgb(165, 219, 54)">chris christie</text>
+<text transform="translate(679,220)" font-size="17" style="fill:rgb(72, 32, 113)">same sex</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.272727272727273" style="fill:rgb(0, 0, 0)">d2v + MS - C Level - Q1-2015 - Comm. 2 w. 581 documents</text>
+</svg>

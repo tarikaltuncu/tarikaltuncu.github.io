@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(43,450)" font-size="77" style="fill:rgb(46, 110, 142)">samaritan purse</text>
+<text transform="translate(468,96)" font-size="59" style="fill:rgb(72, 22, 104)">purse sim</text>
+<text transform="translate(108,317)" font-size="59" style="fill:rgb(51, 99, 141)">samaritan purse sim</text>
+<text transform="translate(21,518)" font-size="52" style="fill:rgb(36, 135, 142)">emory university hospital</text>
+<text transform="translate(83,651)" font-size="49" style="fill:rgb(38, 130, 142)">university hospital</text>
+<text transform="translate(33,576)" font-size="45" style="fill:rgb(132, 212, 75)">emory university</text>
+<text transform="translate(71,243)" font-size="45" style="fill:rgb(63, 71, 136)">move liberia</text>
+<text transform="translate(178,708)" font-size="45" style="fill:rgb(72, 32, 113)">need time together</text>
+<text transform="translate(348,373)" font-size="45" style="fill:rgb(72, 31, 112)">thank samaritan</text>
+<text transform="translate(26,801)" font-size="45" style="fill:rgb(197, 224, 33)">thank samaritan purse</text>
+<text transform="translate(209,167)" font-size="43" style="fill:rgb(45, 112, 142)">people liberia</text>
+<text transform="translate(386,203)" font-size="41" style="fill:rgb(32, 163, 134)">west africa</text>
+<text transform="translate(69,102)" font-size="41" style="fill:rgb(70, 8, 92)">nancy writebol</text>
+<text transform="translate(75,742)" font-size="40" style="fill:rgb(49, 104, 142)">release hospital</text>
+<text transform="translate(436,239)" font-size="40" style="fill:rgb(70, 8, 92)">isolation unit</text>
+<text transform="translate(46,364)" font-size="38" style="fill:rgb(66, 65, 134)">time together</text>
+<text transform="translate(46,61)" font-size="36" style="fill:rgb(40, 124, 142)">need time</text>
+<text transform="translate(501,563)" font-size="33" style="fill:rgb(71, 17, 100)">friends family</text>
+<text transform="translate(625,159)" font-size="32" style="fill:rgb(45, 113, 142)">add pose</text>
+<text transform="translate(505,749)" font-size="32" style="fill:rgb(218, 227, 25)">add pose public</text>
+<text transform="translate(473,595)" font-size="32" style="fill:rgb(34, 167, 133)">africa encourage</text>
+<text transform="translate(373,394)" font-size="28" style="fill:rgb(32, 146, 140)">africa encourage position</text>
+<text transform="translate(484,273)" font-size="28" style="fill:rgb(184, 222, 41)">africa midst</text>
+<text transform="translate(479,120)" font-size="25" style="fill:rgb(58, 83, 139)">africa midst epidemic</text>
+<text transform="translate(19,131)" font-size="25" style="fill:rgb(55, 91, 141)">africa quick</text>
+<text transform="translate(21,671)" font-size="25" style="fill:rgb(72, 29, 111)">africa quick end</text>
+<text transform="translate(55,157)" font-size="25" style="fill:rgb(53, 183, 121)">again slip</text>
+<text transform="translate(62,393)" font-size="25" style="fill:rgb(38, 173, 129)">again slip want</text>
+<text transform="translate(10,196)" font-size="25" style="fill:rgb(31, 152, 139)">airport return state</text>
+<text transform="translate(476,820)" font-size="25" style="fill:rgb(39, 126, 142)">alive well reunite</text>
+<text transform="translate(119,819)" font-size="24" style="fill:rgb(129, 211, 77)">also complete strangers</text>
+<text transform="translate(209,594)" font-size="24" style="fill:rgb(134, 213, 73)">also spiritually</text>
+<text transform="translate(276,51)" font-size="23" style="fill:rgb(31, 154, 138)">also spiritually important</text>
+<text transform="translate(9,265)" font-size="23" style="fill:rgb(31, 160, 136)">also take precaution</text>
+<text transform="translate(28,474)" font-size="23" style="fill:rgb(61, 188, 116)">amaze crew elwa</text>
+<text transform="translate(593,775)" font-size="23" style="fill:rgb(53, 183, 121)">amber children</text>
+<text transform="translate(206,120)" font-size="20" style="fill:rgb(72, 23, 105)">amber children airport</text>
+<text transform="translate(241,463)" font-size="20" style="fill:rgb(46, 109, 142)">answer prayers care</text>
+<text transform="translate(163,536)" font-size="20" style="fill:rgb(149, 216, 64)">answer thousands thousands</text>
+<text transform="translate(387,765)" font-size="20" style="fill:rgb(65, 66, 135)">apart appreciate</text>
+<text transform="translate(4,757)" font-size="19" style="fill:rgb(63, 72, 137)">apart appreciate opportunity</text>
+<text transform="translate(498,664)" font-size="17" style="fill:rgb(122, 209, 81)">appreciate opportunity spend</text>
+<text transform="translate(596,464)" font-size="17" style="fill:rgb(42, 119, 142)">arrive ready course</text>
+<text transform="translate(305,257)" font-size="17" style="fill:rgb(184, 222, 41)">ask heal recovery</text>
+<text transform="translate(490,331)" font-size="16" style="fill:rgb(115, 208, 86)">atlanta emory university</text>
+<text transform="translate(430,608)" font-size="16" style="fill:rgb(52, 182, 121)">attention sickness</text>
+<text transform="translate(157,331)" font-size="16" style="fill:rgb(74, 193, 109)">attention sickness attract</text>
+<text transform="translate(1,698)" font-size="16" style="fill:rgb(36, 135, 142)">attract plight</text>
+<text transform="translate(9,601)" font-size="16" style="fill:rgb(50, 100, 142)">attract plight west</text>
+<text transform="translate(609,788)" font-size="16" style="fill:rgb(53, 95, 141)">away period</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.703703703703702" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Q3-2014 - Comm. 4 w. 1 documents</text>
+</svg>

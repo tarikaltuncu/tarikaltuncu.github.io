@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(105,498)" font-size="138" style="fill:rgb(103, 204, 92)">bin lade</text>
+<text transform="translate(5,159)" font-size="120" style="fill:rgb(41, 123, 142)">middle east</text>
+<text transform="translate(18,290)" font-size="115" style="fill:rgb(157, 217, 59)">unite state</text>
+<text transform="translate(4,585)" font-size="110" style="fill:rgb(103, 204, 92)">iran nuclear</text>
+<text transform="translate(1,788)" font-size="89" style="fill:rgb(105, 205, 91)">nuclear program</text>
+<text transform="translate(135,663)" font-size="83" style="fill:rgb(70, 8, 92)">saudi arabia</text>
+<text transform="translate(126,364)" font-size="83" style="fill:rgb(55, 90, 140)">max fisher</text>
+<text transform="translate(397,711)" font-size="62" style="fill:rgb(72, 35, 116)">world cup</text>
+<text transform="translate(344,80)" font-size="52" style="fill:rgb(44, 177, 126)">islamic state</text>
+<text transform="translate(6,698)" font-size="45" style="fill:rgb(173, 220, 48)">prime minister</text>
+<text transform="translate(205,192)" font-size="42" style="fill:rgb(43, 117, 142)">foreign policy</text>
+<text transform="translate(50,816)" font-size="35" style="fill:rgb(59, 81, 139)">fyodor lukyanov</text>
+<text transform="translate(615,374)" font-size="32" style="fill:rgb(200, 224, 32)">cold war</text>
+<text transform="translate(6,54)" font-size="28" style="fill:rgb(31, 158, 137)">greek government</text>
+<text transform="translate(583,184)" font-size="28" style="fill:rgb(38, 130, 142)">nuclear bomb</text>
+<text transform="translate(26,604)" font-size="23" style="fill:rgb(42, 120, 142)">iran nuclear program</text>
+<text transform="translate(558,205)" font-size="22" style="fill:rgb(39, 126, 142)">nuclear deal</text>
+<text transform="translate(40,386)" font-size="21" style="fill:rgb(47, 180, 124)">enrich uranium</text>
+<text transform="translate(330,419)" font-size="20" style="fill:rgb(155, 217, 60)">white house</text>
+<text transform="translate(369,728)" font-size="20" style="fill:rgb(31, 152, 139)">iraqi army</text>
+<text transform="translate(233,720)" font-size="20" style="fill:rgb(62, 74, 137)">north korea</text>
+<text transform="translate(85,310)" font-size="20" style="fill:rgb(213, 226, 26)">world war</text>
+<text transform="translate(645,339)" font-size="20" style="fill:rgb(70, 11, 94)">right wing</text>
+<text transform="translate(508,387)" font-size="20" style="fill:rgb(41, 122, 142)">iran get</text>
+<text transform="translate(3,344)" font-size="20" style="fill:rgb(72, 41, 121)">civil war</text>
+<text transform="translate(570,307)" font-size="20" style="fill:rgb(41, 123, 142)">european union</text>
+<text transform="translate(230,517)" font-size="20" style="fill:rgb(40, 125, 142)">south africa</text>
+<text transform="translate(498,727)" font-size="20" style="fill:rgb(132, 212, 75)">eastern ukraine</text>
+<text transform="translate(373,602)" font-size="20" style="fill:rgb(38, 173, 129)">russian military</text>
+<text transform="translate(641,816)" font-size="20" style="fill:rgb(221, 227, 24)">arab spring</text>
+<text transform="translate(282,382)" font-size="20" style="fill:rgb(41, 122, 142)">evgeny buzhinsky</text>
+<text transform="translate(8,195)" font-size="20" style="fill:rgb(51, 99, 141)">soviet union</text>
+<text transform="translate(496,411)" font-size="20" style="fill:rgb(71, 42, 122)">shia militias</text>
+<text transform="translate(346,454)" font-size="20" style="fill:rgb(71, 14, 97)">deal iran</text>
+<text transform="translate(598,514)" font-size="20" style="fill:rgb(69, 53, 129)">nuclear weapons</text>
+<text transform="translate(5,654)" font-size="20" style="fill:rgb(59, 187, 117)">west bank</text>
+<text transform="translate(20,216)" font-size="20" style="fill:rgb(34, 139, 141)">central bank</text>
+<text transform="translate(47,514)" font-size="20" style="fill:rgb(64, 189, 114)">president obama</text>
+<text transform="translate(452,804)" font-size="20" style="fill:rgb(42, 120, 142)">east policy</text>
+<text transform="translate(369,824)" font-size="20" style="fill:rgb(64, 69, 136)">obama administration</text>
+<text transform="translate(262,217)" font-size="19" style="fill:rgb(234, 229, 26)">european central bank</text>
+<text transform="translate(57,711)" font-size="17" style="fill:rgb(92, 200, 99)">european central</text>
+<text transform="translate(684,399)" font-size="17" style="fill:rgb(162, 218, 55)">iraqi force</text>
+<text transform="translate(215,306)" font-size="17" style="fill:rgb(112, 207, 87)">osama bin</text>
+<text transform="translate(53,175)" font-size="17" style="fill:rgb(101, 203, 94)">osama bin lade</text>
+<text transform="translate(27,323)" font-size="17" style="fill:rgb(55, 91, 141)">iran cheat</text>
+<text transform="translate(444,516)" font-size="17" style="fill:rgb(33, 144, 141)">isis lose</text>
+<text transform="translate(29,728)" font-size="17" style="fill:rgb(40, 125, 142)">other european</text>
+<text transform="translate(683,220)" font-size="17" style="fill:rgb(184, 222, 41)">arm control</text>
+<text transform="translate(211,731)" font-size="14" style="fill:rgb(72, 23, 105)">middle east policy</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.857142857142858" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Q2-2015 - Comm. 5 w. 124 documents</text>
+</svg>

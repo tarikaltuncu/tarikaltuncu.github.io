@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(11,591)" font-size="99" style="fill:rgb(59, 81, 139)">new horizons</text>
+<text transform="translate(83,719)" font-size="81" style="fill:rgb(144, 215, 67)">true detective</text>
+<text transform="translate(33,480)" font-size="77" style="fill:rgb(239, 229, 28)">ant man</text>
+<text transform="translate(197,149)" font-size="77" style="fill:rgb(48, 106, 142)">daily show</text>
+<text transform="translate(301,299)" font-size="69" style="fill:rgb(210, 226, 27)">first season</text>
+<text transform="translate(59,390)" font-size="68" style="fill:rgb(72, 37, 118)">comic book</text>
+<text transform="translate(84,232)" font-size="67" style="fill:rgb(71, 45, 123)">fantastic four</text>
+<text transform="translate(443,501)" font-size="62" style="fill:rgb(115, 208, 86)">walk dead</text>
+<text transform="translate(391,801)" font-size="62" style="fill:rgb(202, 225, 31)">game throne</text>
+<text transform="translate(17,805)" font-size="62" style="fill:rgb(103, 204, 92)">comic con</text>
+<text transform="translate(306,638)" font-size="61" style="fill:rgb(70, 48, 126)">drama series</text>
+<text transform="translate(235,69)" font-size="47" style="fill:rgb(155, 217, 60)">orange new black</text>
+<text transform="translate(494,339)" font-size="47" style="fill:rgb(205, 225, 29)">orange new</text>
+<text transform="translate(406,430)" font-size="46" style="fill:rgb(35, 138, 141)">taylor swift</text>
+<text transform="translate(10,309)" font-size="46" style="fill:rgb(41, 121, 142)">new black</text>
+<text transform="translate(10,634)" font-size="45" style="fill:rgb(236, 229, 27)">jon stewart</text>
+<text transform="translate(189,756)" font-size="45" style="fill:rgb(32, 164, 134)">second season</text>
+<text transform="translate(29,82)" font-size="44" style="fill:rgb(31, 158, 137)">mad men</text>
+<text transform="translate(35,418)" font-size="36" style="fill:rgb(72, 37, 118)">todd vanderwerff</text>
+<text transform="translate(9,132)" font-size="36" style="fill:rgb(42, 120, 142)">new york</text>
+<text transform="translate(29,516)" font-size="36" style="fill:rgb(213, 226, 26)">red dragon</text>
+<text transform="translate(527,378)" font-size="35" style="fill:rgb(74, 193, 109)">solar system</text>
+<text transform="translate(532,179)" font-size="35" style="fill:rgb(35, 138, 141)">amy schumer</text>
+<text transform="translate(31,264)" font-size="34" style="fill:rgb(67, 62, 133)">warner bros</text>
+<text transform="translate(539,93)" font-size="31" style="fill:rgb(55, 91, 141)">dwarf planet</text>
+<text transform="translate(111,661)" font-size="30" style="fill:rgb(41, 121, 142)">diego comic</text>
+<text transform="translate(123,172)" font-size="29" style="fill:rgb(124, 210, 80)">diego comic con</text>
+<text transform="translate(511,523)" font-size="28" style="fill:rgb(160, 218, 57)">san diego comic</text>
+<text transform="translate(578,741)" font-size="28" style="fill:rgb(31, 152, 139)">man bun</text>
+<text transform="translate(622,243)" font-size="28" style="fill:rgb(70, 11, 94)">key peele</text>
+<text transform="translate(2,333)" font-size="28" style="fill:rgb(37, 171, 130)">nicki minaj</text>
+<text transform="translate(290,503)" font-size="27" style="fill:rgb(35, 169, 131)">san diego</text>
+<text transform="translate(273,325)" font-size="27" style="fill:rgb(60, 80, 139)">comedy series</text>
+<text transform="translate(482,825)" font-size="27" style="fill:rgb(72, 27, 109)">limit series</text>
+<text transform="translate(4,745)" font-size="27" style="fill:rgb(80, 196, 106)">first time</text>
+<text transform="translate(645,211)" font-size="27" style="fill:rgb(55, 91, 141)">star war</text>
+<text transform="translate(373,89)" font-size="25" style="fill:rgb(184, 222, 41)">late night</text>
+<text transform="translate(655,659)" font-size="25" style="fill:rgb(178, 221, 45)">show hero</text>
+<text transform="translate(283,530)" font-size="25" style="fill:rgb(72, 33, 115)">much more</text>
+<text transform="translate(6,100)" font-size="22" style="fill:rgb(66, 64, 134)">how get away</text>
+<text transform="translate(662,130)" font-size="22" style="fill:rgb(58, 83, 139)">make sense</text>
+<text transform="translate(465,657)" font-size="22" style="fill:rgb(72, 26, 108)">fear walk</text>
+<text transform="translate(507,394)" font-size="21" style="fill:rgb(31, 154, 138)">miley cyrus</text>
+<text transform="translate(603,448)" font-size="21" style="fill:rgb(33, 143, 141)">learn more</text>
+<text transform="translate(355,457)" font-size="20" style="fill:rgb(37, 133, 142)">los angeles</text>
+<text transform="translate(104,821)" font-size="20" style="fill:rgb(71, 47, 125)">outstanding lead</text>
+<text transform="translate(660,760)" font-size="20" style="fill:rgb(94, 201, 98)">color book</text>
+<text transform="translate(4,760)" font-size="20" style="fill:rgb(32, 147, 140)">kuiper belt</text>
+<text transform="translate(17,529)" font-size="16" style="fill:rgb(45, 112, 142)">olive kitteridge</text>
+<text transform="translate(507,251)" font-size="16" style="fill:rgb(34, 167, 133)">pop culture</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q3-2015 - Comm. 3 w. 381 documents</text>
+</svg>

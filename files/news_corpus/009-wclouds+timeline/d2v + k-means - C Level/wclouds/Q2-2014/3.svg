@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(14,398)" font-size="145" style="fill:rgb(56, 89, 140)">say novel</text>
+<text transform="translate(19,169)" font-size="142" style="fill:rgb(69, 55, 129)">star war</text>
+<text transform="translate(190,603)" font-size="141" style="fill:rgb(213, 226, 26)">del rey</text>
+<text transform="translate(64,723)" font-size="135" style="fill:rgb(46, 179, 124)">hip hop</text>
+<text transform="translate(39,268)" font-size="119" style="fill:rgb(41, 175, 127)">lana del</text>
+<text transform="translate(238,475)" font-size="94" style="fill:rgb(157, 217, 59)">novel dead</text>
+<text transform="translate(315,804)" font-size="64" style="fill:rgb(32, 163, 134)">lana del rey</text>
+<text transform="translate(6,797)" font-size="47" style="fill:rgb(68, 58, 131)">balluga bed</text>
+<text transform="translate(386,68)" font-size="46" style="fill:rgb(72, 26, 108)">say novel dead</text>
+<text transform="translate(440,514)" font-size="45" style="fill:rgb(231, 228, 25)">novel die</text>
+<text transform="translate(343,306)" font-size="43" style="fill:rgb(36, 134, 142)">online service</text>
+<text transform="translate(15,63)" font-size="39" style="fill:rgb(55, 90, 140)">normcore fashion</text>
+<text transform="translate(20,469)" font-size="37" style="fill:rgb(59, 81, 139)">non white</text>
+<text transform="translate(57,298)" font-size="37" style="fill:rgb(160, 218, 57)">years slave</text>
+<text transform="translate(417,636)" font-size="37" style="fill:rgb(41, 175, 127)">fashion trend</text>
+<text transform="translate(180,190)" font-size="26" style="fill:rgb(39, 128, 142)">mother daughters</text>
+<text transform="translate(6,575)" font-size="26" style="fill:rgb(39, 128, 142)">gay men</text>
+<text transform="translate(20,541)" font-size="26" style="fill:rgb(71, 14, 97)">spell bee</text>
+<text transform="translate(29,506)" font-size="26" style="fill:rgb(165, 219, 54)">say novel die</text>
+<text transform="translate(670,157)" font-size="26" style="fill:rgb(46, 110, 142)">new york</text>
+<text transform="translate(591,194)" font-size="26" style="fill:rgb(32, 147, 140)">joe katan</text>
+<text transform="translate(301,747)" font-size="26" style="fill:rgb(76, 194, 108)">deborah tannen</text>
+<text transform="translate(589,239)" font-size="26" style="fill:rgb(152, 216, 62)">larry kramer</text>
+<text transform="translate(377,825)" font-size="26" style="fill:rgb(72, 24, 106)">normal heart</text>
+<text transform="translate(29,747)" font-size="26" style="fill:rgb(189, 223, 38)">easter bunny</text>
+<text transform="translate(201,633)" font-size="26" style="fill:rgb(202, 225, 31)">start finish</text>
+<text transform="translate(2,603)" font-size="26" style="fill:rgb(47, 108, 142)">lupita nyong</text>
+<text transform="translate(573,742)" font-size="24" style="fill:rgb(69, 55, 129)">pre release test</text>
+<text transform="translate(13,418)" font-size="24" style="fill:rgb(60, 80, 139)">release test</text>
+<text transform="translate(634,680)" font-size="24" style="fill:rgb(56, 89, 140)">blue dot</text>
+<text transform="translate(191,81)" font-size="24" style="fill:rgb(223, 227, 24)">asian american</text>
+<text transform="translate(74,826)" font-size="23" style="fill:rgb(70, 8, 92)">michael heilemann</text>
+<text transform="translate(647,706)" font-size="23" style="fill:rgb(31, 151, 139)">take days</text>
+<text transform="translate(600,262)" font-size="22" style="fill:rgb(168, 219, 52)">mother daughter</text>
+<text transform="translate(246,413)" font-size="20" style="fill:rgb(70, 52, 128)">joe katan balluga</text>
+<text transform="translate(569,821)" font-size="20" style="fill:rgb(71, 17, 100)">katan balluga</text>
+<text transform="translate(536,82)" font-size="18" style="fill:rgb(251, 231, 35)">hip hop generation</text>
+<text transform="translate(635,651)" font-size="18" style="fill:rgb(69, 4, 87)">hop generation</text>
+<text transform="translate(636,414)" font-size="18" style="fill:rgb(46, 111, 142)">ability see</text>
+<text transform="translate(116,314)" font-size="18" style="fill:rgb(37, 133, 142)">asian americans</text>
+<text transform="translate(594,214)" font-size="18" style="fill:rgb(70, 50, 126)">bottom check click</text>
+<text transform="translate(615,764)" font-size="18" style="fill:rgb(55, 90, 140)">care fuchsia</text>
+<text transform="translate(13,432)" font-size="18" style="fill:rgb(52, 182, 121)">care fuchsia job</text>
+<text transform="translate(242,488)" font-size="15" style="fill:rgb(239, 229, 28)">chart show occupations</text>
+<text transform="translate(691,521)" font-size="15" style="fill:rgb(69, 53, 129)">check click</text>
+<text transform="translate(1,482)" font-size="15" style="fill:rgb(47, 108, 142)">check click image</text>
+<text transform="translate(356,759)" font-size="15" style="fill:rgb(44, 177, 126)">click image version</text>
+<text transform="translate(652,121)" font-size="15" style="fill:rgb(69, 4, 87)">cluster top food</text>
+<text transform="translate(305,161)" font-size="15" style="fill:rgb(108, 205, 90)">cod industry few</text>
+<text transform="translate(51,553)" font-size="15" style="fill:rgb(49, 102, 142)">create very long</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.694915254237287" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q2-2014 - Comm. 3 w. 33 documents</text>
+</svg>

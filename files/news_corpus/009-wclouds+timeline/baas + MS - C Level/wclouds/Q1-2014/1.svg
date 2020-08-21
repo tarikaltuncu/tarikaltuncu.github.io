@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,342)" font-size="82" style="fill:rgb(53, 94, 141)">payment network</text>
+<text transform="translate(10,447)" font-size="77" style="fill:rgb(61, 78, 138)">medical marijuana</text>
+<text transform="translate(12,230)" font-size="75" style="fill:rgb(226, 228, 24)">network bitcoin</text>
+<text transform="translate(33,651)" font-size="74" style="fill:rgb(69, 4, 87)">bitcoin base</text>
+<text transform="translate(251,532)" font-size="73" style="fill:rgb(61, 77, 138)">credit card</text>
+<text transform="translate(151,146)" font-size="71" style="fill:rgb(41, 121, 142)">nausea loss</text>
+<text transform="translate(14,746)" font-size="65" style="fill:rgb(72, 35, 116)">nausea loss appetite</text>
+<text transform="translate(4,800)" font-size="63" style="fill:rgb(239, 229, 28)">loss appetite</text>
+<text transform="translate(201,572)" font-size="51" style="fill:rgb(44, 115, 142)">bitcoin currency</text>
+<text transform="translate(60,69)" font-size="48" style="fill:rgb(70, 8, 92)">study conclude marijuana</text>
+<text transform="translate(51,265)" font-size="45" style="fill:rgb(51, 99, 141)">conclude marijuana</text>
+<text transform="translate(289,378)" font-size="44" style="fill:rgb(41, 121, 142)">crohn disease</text>
+<text transform="translate(105,679)" font-size="36" style="fill:rgb(66, 65, 134)">study find marijuana</text>
+<text transform="translate(539,260)" font-size="35" style="fill:rgb(34, 139, 141)">bitcoin atm</text>
+<text transform="translate(508,811)" font-size="35" style="fill:rgb(68, 1, 84)">bitcoin value</text>
+<text transform="translate(558,662)" font-size="34" style="fill:rgb(67, 61, 132)">many bitcoin</text>
+<text transform="translate(406,602)" font-size="33" style="fill:rgb(42, 118, 142)">value bitcoin</text>
+<text transform="translate(106,475)" font-size="33" style="fill:rgb(72, 193, 110)">find marijuana</text>
+<text transform="translate(3,520)" font-size="32" style="fill:rgb(68, 59, 132)">western union</text>
+<text transform="translate(195,93)" font-size="30" style="fill:rgb(112, 207, 87)">money transfer</text>
+<text transform="translate(572,769)" font-size="27" style="fill:rgb(71, 46, 124)">study conclude</text>
+<text transform="translate(52,288)" font-size="27" style="fill:rgb(32, 164, 134)">bitcoin network</text>
+<text transform="translate(15,168)" font-size="27" style="fill:rgb(110, 206, 88)">financial network</text>
+<text transform="translate(560,620)" font-size="24" style="fill:rgb(32, 164, 134)">disease marijuana</text>
+<text transform="translate(345,162)" font-size="20" style="fill:rgb(37, 172, 130)">epilepsy foundation argue</text>
+<text transform="translate(544,686)" font-size="20" style="fill:rgb(35, 138, 141)">marijuana painkiller</text>
+<text transform="translate(30,377)" font-size="20" style="fill:rgb(31, 148, 140)">millions patients use</text>
+<text transform="translate(20,699)" font-size="20" style="fill:rgb(62, 73, 137)">pain sleep</text>
+<text transform="translate(495,481)" font-size="20" style="fill:rgb(72, 41, 121)">patients use plant</text>
+<text transform="translate(515,96)" font-size="20" style="fill:rgb(72, 36, 117)">plant need understand</text>
+<text transform="translate(628,126)" font-size="20" style="fill:rgb(49, 102, 142)">use plant need</text>
+<text transform="translate(1,821)" font-size="20" style="fill:rgb(40, 174, 128)">epilepsy foundation</text>
+<text transform="translate(26,586)" font-size="17" style="fill:rgb(33, 143, 141)">pharmaceutical treatments</text>
+<text transform="translate(300,817)" font-size="17" style="fill:rgb(78, 195, 107)">epilepsy seizures</text>
+<text transform="translate(630,145)" font-size="17" style="fill:rgb(108, 205, 90)">suit treat</text>
+<text transform="translate(331,396)" font-size="17" style="fill:rgb(35, 137, 142)">little surprise then</text>
+<text transform="translate(337,701)" font-size="17" style="fill:rgb(38, 130, 142)">come little surprise</text>
+<text transform="translate(462,280)" font-size="17" style="fill:rgb(65, 66, 135)">evidence remain</text>
+<text transform="translate(398,465)" font-size="17" style="fill:rgb(48, 106, 142)">ron paul</text>
+<text transform="translate(9,558)" font-size="17" style="fill:rgb(241, 229, 29)">marijuana treatment</text>
+<text transform="translate(665,385)" font-size="17" style="fill:rgb(71, 17, 100)">more research</text>
+<text transform="translate(28,96)" font-size="17" style="fill:rgb(92, 200, 99)">foundation argue</text>
+<text transform="translate(673,159)" font-size="17" style="fill:rgb(34, 140, 141)">study find</text>
+<text transform="translate(26,488)" font-size="17" style="fill:rgb(162, 218, 55)">alternative credit</text>
+<text transform="translate(551,824)" font-size="17" style="fill:rgb(69, 5, 89)">alternative credit card</text>
+<text transform="translate(74,760)" font-size="17" style="fill:rgb(34, 139, 141)">bitcoin base financial</text>
+<text transform="translate(598,400)" font-size="17" style="fill:rgb(31, 151, 139)">bitcoin base service</text>
+<text transform="translate(642,366)" font-size="17" style="fill:rgb(50, 182, 122)">bitcoin instead</text>
+<text transform="translate(1,535)" font-size="17" style="fill:rgb(46, 110, 142)">bitcoin instead cash</text>
+<text transform="translate(142,701)" font-size="17" style="fill:rgb(31, 161, 136)">bitcoin payment</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.703703703703702" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Q1-2014 - Comm. 1 w. 2 documents</text>
+</svg>

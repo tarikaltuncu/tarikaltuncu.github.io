@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(161,731)" font-size="132" style="fill:rgb(63, 188, 115)">star war</text>
+<text transform="translate(1,594)" font-size="106" style="fill:rgb(70, 192, 111)">force awaken</text>
+<text transform="translate(81,258)" font-size="81" style="fill:rgb(129, 211, 77)">walk dead</text>
+<text transform="translate(200,153)" font-size="80" style="fill:rgb(71, 19, 101)">comic book</text>
+<text transform="translate(113,370)" font-size="77" style="fill:rgb(134, 213, 73)">jessica jones</text>
+<text transform="translate(190,466)" font-size="70" style="fill:rgb(122, 209, 81)">second season</text>
+<text transform="translate(205,791)" font-size="68" style="fill:rgb(32, 146, 140)">image credit</text>
+<text transform="translate(59,521)" font-size="67" style="fill:rgb(50, 100, 142)">charlie brown</text>
+<text transform="translate(3,75)" font-size="54" style="fill:rgb(35, 137, 142)">hunger game</text>
+<text transform="translate(358,640)" font-size="53" style="fill:rgb(253, 231, 37)">first season</text>
+<text transform="translate(472,76)" font-size="52" style="fill:rgb(122, 209, 81)">home alone</text>
+<text transform="translate(162,410)" font-size="49" style="fill:rgb(192, 223, 37)">star trek</text>
+<text transform="translate(536,258)" font-size="48" style="fill:rgb(47, 180, 124)">new year</text>
+<text transform="translate(103,297)" font-size="47" style="fill:rgb(80, 196, 106)">todd vanderwerff</text>
+<text transform="translate(537,210)" font-size="47" style="fill:rgb(70, 52, 128)">new york</text>
+<text transform="translate(124,187)" font-size="43" style="fill:rgb(52, 96, 141)">stream service</text>
+<text transform="translate(534,412)" font-size="43" style="fill:rgb(192, 223, 37)">box office</text>
+<text transform="translate(23,626)" font-size="43" style="fill:rgb(48, 106, 142)">master none</text>
+<text transform="translate(559,308)" font-size="42" style="fill:rgb(72, 24, 106)">steve job</text>
+<text transform="translate(3,816)" font-size="33" style="fill:rgb(72, 37, 118)">harry potter</text>
+<text transform="translate(17,446)" font-size="33" style="fill:rgb(39, 127, 142)">han solo</text>
+<text transform="translate(607,517)" font-size="32" style="fill:rgb(162, 218, 55)">late night</text>
+<text transform="translate(11,128)" font-size="32" style="fill:rgb(45, 178, 125)">even more</text>
+<text transform="translate(370,818)" font-size="32" style="fill:rgb(34, 141, 141)">star war force</text>
+<text transform="translate(3,648)" font-size="27" style="fill:rgb(37, 132, 142)">war force awaken</text>
+<text transform="translate(21,708)" font-size="27" style="fill:rgb(56, 88, 140)">war force</text>
+<text transform="translate(487,172)" font-size="24" style="fill:rgb(41, 121, 142)">captain america</text>
+<text transform="translate(16,726)" font-size="24" style="fill:rgb(35, 137, 142)">pop culture</text>
+<text transform="translate(12,782)" font-size="24" style="fill:rgb(71, 14, 97)">christmas tree</text>
+<text transform="translate(27,674)" font-size="24" style="fill:rgb(40, 124, 142)">night vale</text>
+<text transform="translate(654,817)" font-size="24" style="fill:rgb(248, 230, 33)">right now</text>
+<text transform="translate(9,410)" font-size="24" style="fill:rgb(31, 150, 139)">much more</text>
+<text transform="translate(8,149)" font-size="24" style="fill:rgb(66, 190, 113)">damon lindelof</text>
+<text transform="translate(648,99)" font-size="24" style="fill:rgb(68, 57, 131)">far more</text>
+<text transform="translate(22,366)" font-size="24" style="fill:rgb(76, 194, 108)">new hope</text>
+<text transform="translate(11,207)" font-size="24" style="fill:rgb(72, 27, 109)">back future</text>
+<text transform="translate(68,751)" font-size="24" style="fill:rgb(70, 11, 94)">learn more</text>
+<text transform="translate(343,318)" font-size="24" style="fill:rgb(178, 221, 45)">video store</text>
+<text transform="translate(158,315)" font-size="24" style="fill:rgb(72, 38, 119)">comic strip</text>
+<text transform="translate(435,740)" font-size="24" style="fill:rgb(234, 229, 26)">civil war</text>
+<text transform="translate(583,485)" font-size="24" style="fill:rgb(70, 192, 111)">science fiction</text>
+<text transform="translate(427,710)" font-size="20" style="fill:rgb(48, 106, 142)">hocus pocus</text>
+<text transform="translate(64,102)" font-size="18" style="fill:rgb(122, 209, 81)">brooklyn nine</text>
+<text transform="translate(29,314)" font-size="18" style="fill:rgb(205, 225, 29)">nine nine</text>
+<text transform="translate(1,169)" font-size="18" style="fill:rgb(68, 58, 131)">jane virgin</text>
+<text transform="translate(714,788)" font-size="18" style="fill:rgb(71, 44, 122)">box day</text>
+<text transform="translate(30,460)" font-size="18" style="fill:rgb(155, 217, 60)">great pumpkin</text>
+<text transform="translate(364,73)" font-size="18" style="fill:rgb(119, 209, 83)">soul patch</text>
+<text transform="translate(232,745)" font-size="17" style="fill:rgb(65, 68, 135)">practical magic</text>
+<text transform="translate(379,99)" font-size="17" style="fill:rgb(34, 168, 132)">carly rae</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q4-2015 - Comm. 3 w. 372 documents</text>
+</svg>

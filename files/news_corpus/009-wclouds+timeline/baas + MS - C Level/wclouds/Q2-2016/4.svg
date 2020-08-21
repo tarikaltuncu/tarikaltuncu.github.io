@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(11,307)" font-size="94" style="fill:rgb(173, 220, 48)">new york value</text>
+<text transform="translate(147,106)" font-size="94" style="fill:rgb(61, 78, 138)">york value</text>
+<text transform="translate(76,392)" font-size="75" style="fill:rgb(155, 217, 60)">new york</text>
+<text transform="translate(123,653)" font-size="67" style="fill:rgb(221, 227, 24)">black people</text>
+<text transform="translate(171,769)" font-size="65" style="fill:rgb(52, 97, 141)">lgbt individuals</text>
+<text transform="translate(93,544)" font-size="63" style="fill:rgb(202, 225, 31)">sandy hook</text>
+<text transform="translate(162,174)" font-size="59" style="fill:rgb(61, 78, 138)">end disgrace</text>
+<text transform="translate(245,456)" font-size="59" style="fill:rgb(70, 7, 90)">gun violence</text>
+<text transform="translate(4,223)" font-size="55" style="fill:rgb(72, 31, 112)">never change</text>
+<text transform="translate(246,809)" font-size="51" style="fill:rgb(119, 209, 83)">hillary clinton</text>
+<text transform="translate(465,381)" font-size="51" style="fill:rgb(72, 22, 104)">mass shoot</text>
+<text transform="translate(149,708)" font-size="50" style="fill:rgb(72, 26, 108)">believe value</text>
+<text transform="translate(495,501)" font-size="49" style="fill:rgb(56, 89, 140)">love ones</text>
+<text transform="translate(274,581)" font-size="47" style="fill:rgb(59, 82, 139)">lgbt community</text>
+<text transform="translate(443,221)" font-size="46" style="fill:rgb(33, 143, 141)">make america</text>
+<text transform="translate(545,685)" font-size="39" style="fill:rgb(40, 125, 142)">new yorkers</text>
+<text transform="translate(33,579)" font-size="39" style="fill:rgb(41, 123, 142)">bet award</text>
+<text transform="translate(483,529)" font-size="35" style="fill:rgb(71, 47, 125)">accept script</text>
+<text transform="translate(620,624)" font-size="35" style="fill:rgb(64, 69, 136)">say know</text>
+<text transform="translate(525,410)" font-size="35" style="fill:rgb(71, 45, 123)">america first</text>
+<text transform="translate(1,435)" font-size="32" style="fill:rgb(50, 100, 142)">america great</text>
+<text transform="translate(16,775)" font-size="32" style="fill:rgb(144, 215, 67)">year old</text>
+<text transform="translate(11,475)" font-size="32" style="fill:rgb(194, 223, 35)">equal right</text>
+<text transform="translate(48,248)" font-size="32" style="fill:rgb(59, 81, 139)">radical islam</text>
+<text transform="translate(589,137)" font-size="32" style="fill:rgb(48, 105, 142)">black pain</text>
+<text transform="translate(432,333)" font-size="32" style="fill:rgb(51, 99, 141)">first mean</text>
+<text transform="translate(1,805)" font-size="25" style="fill:rgb(44, 114, 142)">democratic party</text>
+<text transform="translate(596,173)" font-size="25" style="fill:rgb(37, 133, 142)">want change</text>
+<text transform="translate(12,732)" font-size="25" style="fill:rgb(56, 88, 140)">change go</text>
+<text transform="translate(225,489)" font-size="25" style="fill:rgb(173, 220, 48)">black live matter</text>
+<text transform="translate(397,130)" font-size="25" style="fill:rgb(41, 123, 142)">live matter</text>
+<text transform="translate(377,602)" font-size="25" style="fill:rgb(35, 138, 141)">black live</text>
+<text transform="translate(553,713)" font-size="25" style="fill:rgb(72, 32, 113)">nomination first</text>
+<text transform="translate(17,596)" font-size="22" style="fill:rgb(31, 149, 139)">america first mean</text>
+<text transform="translate(14,338)" font-size="19" style="fill:rgb(61, 78, 138)">political revolution</text>
+<text transform="translate(19,46)" font-size="17" style="fill:rgb(37, 172, 130)">background check bill</text>
+<text transform="translate(576,823)" font-size="17" style="fill:rgb(234, 229, 26)">cultural appropriation</text>
+<text transform="translate(43,175)" font-size="17" style="fill:rgb(162, 218, 55)">lgbt people</text>
+<text transform="translate(114,499)" font-size="17" style="fill:rgb(31, 149, 139)">want thank</text>
+<text transform="translate(477,244)" font-size="17" style="fill:rgb(57, 85, 140)">mother emanuel</text>
+<text transform="translate(657,48)" font-size="17" style="fill:rgb(31, 148, 140)">unite state</text>
+<text transform="translate(280,823)" font-size="17" style="fill:rgb(251, 231, 35)">white fragility</text>
+<text transform="translate(23,658)" font-size="17" style="fill:rgb(55, 184, 120)">check bill</text>
+<text transform="translate(668,567)" font-size="17" style="fill:rgb(30, 156, 137)">williams say</text>
+<text transform="translate(632,333)" font-size="17" style="fill:rgb(110, 206, 88)">love give</text>
+<text transform="translate(313,406)" font-size="17" style="fill:rgb(178, 221, 45)">want ask someone</text>
+<text transform="translate(8,132)" font-size="17" style="fill:rgb(30, 155, 138)">abuse bury</text>
+<text transform="translate(336,46)" font-size="16" style="fill:rgb(157, 217, 59)">abuse bury black</text>
+<text transform="translate(2,108)" font-size="16" style="fill:rgb(35, 138, 141)">award year bet</text>
+<text transform="translate(13,826)" font-size="16" style="fill:rgb(124, 210, 80)">better establish record</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.272727272727273" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Q2-2016 - Comm. 4 w. 13 documents</text>
+</svg>

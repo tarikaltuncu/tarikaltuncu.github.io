@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(227,731)" font-size="102" style="fill:rgb(67, 61, 132)">same sex</text>
+<text transform="translate(3,401)" font-size="74" style="fill:rgb(54, 92, 141)">same sex marriages</text>
+<text transform="translate(222,581)" font-size="74" style="fill:rgb(251, 231, 35)">sex marriages</text>
+<text transform="translate(38,254)" font-size="68" style="fill:rgb(132, 212, 75)">same sex marriage</text>
+<text transform="translate(117,495)" font-size="68" style="fill:rgb(72, 20, 103)">sex marriage</text>
+<text transform="translate(125,176)" font-size="53" style="fill:rgb(58, 84, 140)">marriage equality</text>
+<text transform="translate(68,632)" font-size="53" style="fill:rgb(39, 173, 129)">same sex couple</text>
+<text transform="translate(112,320)" font-size="53" style="fill:rgb(31, 161, 135)">sex couple</text>
+<text transform="translate(241,111)" font-size="49" style="fill:rgb(71, 46, 124)">sex marriage ban</text>
+<text transform="translate(267,788)" font-size="49" style="fill:rgb(194, 223, 35)">marriage ban</text>
+<text transform="translate(73,68)" font-size="46" style="fill:rgb(178, 221, 45)">allow same sex</text>
+<text transform="translate(253,530)" font-size="45" style="fill:rgb(71, 13, 96)">allow same</text>
+<text transform="translate(87,434)" font-size="42" style="fill:rgb(221, 227, 24)">work appeal</text>
+<text transform="translate(472,822)" font-size="41" style="fill:rgb(94, 201, 98)">ban same sex</text>
+<text transform="translate(45,821)" font-size="41" style="fill:rgb(84, 197, 104)">ban same</text>
+<text transform="translate(439,321)" font-size="40" style="fill:rgb(71, 45, 123)">supreme court</text>
+<text transform="translate(26,659)" font-size="34" style="fill:rgb(38, 130, 142)">lgbt advocate</text>
+<text transform="translate(20,277)" font-size="29" style="fill:rgb(46, 110, 142)">work appeal process</text>
+<text transform="translate(5,103)" font-size="29" style="fill:rgb(149, 216, 64)">appeal process</text>
+<text transform="translate(27,716)" font-size="27" style="fill:rgb(31, 148, 140)">honor kill</text>
+<text transform="translate(398,667)" font-size="27" style="fill:rgb(72, 32, 113)">veterans affairs</text>
+<text transform="translate(123,746)" font-size="26" style="fill:rgb(56, 88, 140)">year away</text>
+<text transform="translate(531,54)" font-size="25" style="fill:rgb(216, 226, 25)">sex reassignment</text>
+<text transform="translate(388,424)" font-size="25" style="fill:rgb(39, 173, 129)">federal government</text>
+<text transform="translate(16,345)" font-size="25" style="fill:rgb(60, 80, 139)">world cup</text>
+<text transform="translate(582,625)" font-size="25" style="fill:rgb(39, 173, 129)">state same sex</text>
+<text transform="translate(27,771)" font-size="25" style="fill:rgb(30, 157, 137)">support same sex</text>
+<text transform="translate(18,579)" font-size="25" style="fill:rgb(72, 20, 103)">federal court</text>
+<text transform="translate(615,344)" font-size="25" style="fill:rgb(35, 136, 142)">support same</text>
+<text transform="translate(614,767)" font-size="25" style="fill:rgb(96, 202, 96)">higher court</text>
+<text transform="translate(388,277)" font-size="25" style="fill:rgb(192, 223, 37)">poet laureate</text>
+<text transform="translate(18,132)" font-size="25" style="fill:rgb(147, 215, 65)">state same</text>
+<text transform="translate(219,209)" font-size="25" style="fill:rgb(56, 88, 140)">circuit court</text>
+<text transform="translate(636,460)" font-size="25" style="fill:rgb(71, 13, 96)">rule hold</text>
+<text transform="translate(224,349)" font-size="21" style="fill:rgb(69, 4, 87)">marriage equality year</text>
+<text transform="translate(484,450)" font-size="21" style="fill:rgb(59, 187, 117)">court rule</text>
+<text transform="translate(322,131)" font-size="21" style="fill:rgb(70, 51, 127)">equality year</text>
+<text transform="translate(9,527)" font-size="21" style="fill:rgb(72, 28, 110)">victory marriage</text>
+<text transform="translate(436,291)" font-size="18" style="fill:rgb(58, 83, 139)">victory marriage equality</text>
+<text transform="translate(243,817)" font-size="18" style="fill:rgb(72, 28, 110)">sex marriage case</text>
+<text transform="translate(48,682)" font-size="18" style="fill:rgb(168, 219, 52)">lgbt right</text>
+<text transform="translate(653,526)" font-size="18" style="fill:rgb(155, 217, 60)">marriage case</text>
+<text transform="translate(580,125)" font-size="18" style="fill:rgb(49, 102, 142)">secure communities</text>
+<text transform="translate(179,597)" font-size="18" style="fill:rgb(45, 178, 125)">transition relate care</text>
+<text transform="translate(2,449)" font-size="18" style="fill:rgb(69, 55, 129)">read complete victory</text>
+<text transform="translate(37,199)" font-size="18" style="fill:rgb(127, 211, 78)">marriage license</text>
+<text transform="translate(634,212)" font-size="18" style="fill:rgb(49, 102, 142)">anti semitic</text>
+<text transform="translate(548,638)" font-size="16" style="fill:rgb(45, 112, 142)">complete victory marriage</text>
+<text transform="translate(14,552)" font-size="16" style="fill:rgb(72, 36, 117)">equality year away</text>
+<text transform="translate(52,791)" font-size="16" style="fill:rgb(72, 27, 109)">further read complete</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.694915254237287" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q2-2014 - Comm. 4 w. 75 documents</text>
+</svg>

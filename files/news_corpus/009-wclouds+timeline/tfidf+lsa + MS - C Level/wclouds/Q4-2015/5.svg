@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(34,783)" font-size="114" style="fill:rgb(205, 225, 29)">game throne</text>
+<text transform="translate(174,165)" font-size="104" style="fill:rgb(55, 90, 140)">jon snow</text>
+<text transform="translate(98,614)" font-size="88" style="fill:rgb(192, 223, 37)">von sydow</text>
+<text transform="translate(28,502)" font-size="87" style="fill:rgb(34, 167, 133)">idea go happen</text>
+<text transform="translate(258,383)" font-size="85" style="fill:rgb(48, 105, 142)">three eye</text>
+<text transform="translate(16,262)" font-size="85" style="fill:rgb(149, 216, 64)">three eye raven</text>
+<text transform="translate(2,675)" font-size="72" style="fill:rgb(59, 82, 139)">eye raven</text>
+<text transform="translate(516,688)" font-size="63" style="fill:rgb(160, 218, 57)">idea go</text>
+<text transform="translate(306,81)" font-size="60" style="fill:rgb(35, 137, 142)">about prolong</text>
+<text transform="translate(10,417)" font-size="43" style="fill:rgb(94, 201, 98)">about prolong mystery</text>
+<text transform="translate(327,316)" font-size="43" style="fill:rgb(33, 144, 141)">actually dead okay</text>
+<text transform="translate(379,820)" font-size="43" style="fill:rgb(226, 228, 24)">admit character</text>
+<text transform="translate(298,203)" font-size="43" style="fill:rgb(37, 133, 142)">admit character die</text>
+<text transform="translate(63,550)" font-size="35" style="fill:rgb(40, 174, 128)">always halfhearted</text>
+<text transform="translate(464,551)" font-size="24" style="fill:rgb(69, 4, 87)">always halfhearted best</text>
+<text transform="translate(125,817)" font-size="24" style="fill:rgb(58, 186, 118)">appear simply cave</text>
+<text transform="translate(68,699)" font-size="24" style="fill:rgb(234, 229, 26)">april april gotseason6</text>
+<text transform="translate(556,423)" font-size="24" style="fill:rgb(244, 230, 30)">april gotseason6</text>
+<text transform="translate(2,281)" font-size="20" style="fill:rgb(68, 57, 131)">april gotseason6 gameofthrones</text>
+<text transform="translate(65,65)" font-size="20" style="fill:rgb(47, 107, 142)">art season solely</text>
+<text transform="translate(578,601)" font-size="20" style="fill:rgb(52, 97, 141)">attempt keep lid</text>
+<text transform="translate(570,625)" font-size="20" style="fill:rgb(96, 202, 96)">back life only</text>
+<text transform="translate(46,373)" font-size="20" style="fill:rgb(44, 177, 126)">best appear simply</text>
+<text transform="translate(26,321)" font-size="20" style="fill:rgb(157, 217, 59)">blood perhaps own</text>
+<text transform="translate(597,572)" font-size="20" style="fill:rgb(88, 199, 101)">cagier jon</text>
+<text transform="translate(270,97)" font-size="20" style="fill:rgb(241, 229, 29)">cagier jon resurrect</text>
+<text transform="translate(504,704)" font-size="20" style="fill:rgb(72, 20, 103)">call here hop</text>
+<text transform="translate(13,346)" font-size="20" style="fill:rgb(35, 169, 131)">cast producers head</text>
+<text transform="translate(17,156)" font-size="20" style="fill:rgb(38, 130, 142)">cave right call</text>
+<text transform="translate(147,442)" font-size="20" style="fill:rgb(38, 173, 129)">character die thank</text>
+<text transform="translate(534,444)" font-size="19" style="fill:rgb(72, 26, 108)">character least bring</text>
+<text transform="translate(84,204)" font-size="17" style="fill:rgb(36, 135, 142)">close proximity major</text>
+<text transform="translate(161,299)" font-size="17" style="fill:rgb(53, 94, 141)">coy jon</text>
+<text transform="translate(582,96)" font-size="17" style="fill:rgb(72, 37, 118)">coy jon snow</text>
+<text transform="translate(14,90)" font-size="17" style="fill:rgb(162, 218, 55)">dead learn thing</text>
+<text transform="translate(340,517)" font-size="17" style="fill:rgb(208, 225, 28)">dead okay</text>
+<text transform="translate(387,666)" font-size="17" style="fill:rgb(47, 108, 142)">dead okay yes</text>
+<text transform="translate(152,628)" font-size="17" style="fill:rgb(176, 221, 47)">die thank fellow</text>
+<text transform="translate(6,132)" font-size="17" style="fill:rgb(37, 172, 130)">dreamiest foundling</text>
+<text transform="translate(422,275)" font-size="15" style="fill:rgb(66, 190, 113)">dreamiest foundling north</text>
+<text transform="translate(15,173)" font-size="15" style="fill:rgb(35, 169, 131)">dsk2xzi9i9 game</text>
+<text transform="translate(38,515)" font-size="15" style="fill:rgb(226, 228, 24)">dsk2xzi9i9 game throne</text>
+<text transform="translate(574,328)" font-size="15" style="fill:rgb(60, 80, 139)">end everybody involve</text>
+<text transform="translate(598,645)" font-size="14" style="fill:rgb(67, 62, 133)">everybody involve series</text>
+<text transform="translate(13,105)" font-size="14" style="fill:rgb(68, 191, 112)">everybody plenty will</text>
+<text transform="translate(684,128)" font-size="14" style="fill:rgb(67, 61, 132)">face streak</text>
+<text transform="translate(253,714)" font-size="14" style="fill:rgb(68, 2, 86)">face streak blood</text>
+<text transform="translate(658,717)" font-size="14" style="fill:rgb(241, 229, 29)">fair however</text>
+<text transform="translate(178,561)" font-size="14" style="fill:rgb(142, 214, 69)">fair however november</text>
+<text transform="translate(382,329)" font-size="14" style="fill:rgb(72, 193, 110)">feature visage</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.694915254237287" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - Q4-2015 - Comm. 5 w. 2 documents</text>
+</svg>

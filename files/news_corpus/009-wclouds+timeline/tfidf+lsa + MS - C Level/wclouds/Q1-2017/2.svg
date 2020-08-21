@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(4,582)" font-size="86" style="fill:rgb(34, 141, 141)">executive order</text>
+<text transform="translate(41,692)" font-size="82" style="fill:rgb(42, 119, 142)">white house</text>
+<text transform="translate(169,121)" font-size="80" style="fill:rgb(59, 187, 117)">donald trump</text>
+<text transform="translate(11,286)" font-size="65" style="fill:rgb(50, 182, 122)">trump administration</text>
+<text transform="translate(260,740)" font-size="59" style="fill:rgb(115, 208, 86)">unite state</text>
+<text transform="translate(275,388)" font-size="55" style="fill:rgb(68, 191, 112)">president trump</text>
+<text transform="translate(91,466)" font-size="51" style="fill:rgb(63, 71, 136)">president donald trump</text>
+<text transform="translate(104,181)" font-size="51" style="fill:rgb(46, 111, 142)">president donald</text>
+<text transform="translate(119,808)" font-size="50" style="fill:rgb(33, 166, 133)">national security</text>
+<text transform="translate(366,503)" font-size="47" style="fill:rgb(253, 231, 37)">women march</text>
+<text transform="translate(357,327)" font-size="43" style="fill:rgb(34, 168, 132)">president elect</text>
+<text transform="translate(388,615)" font-size="41" style="fill:rgb(35, 136, 142)">attorney general</text>
+<text transform="translate(432,214)" font-size="41" style="fill:rgb(72, 36, 117)">foreign policy</text>
+<text transform="translate(7,400)" font-size="40" style="fill:rgb(40, 174, 128)">new york</text>
+<text transform="translate(124,340)" font-size="39" style="fill:rgb(37, 133, 142)">green card</text>
+<text transform="translate(3,507)" font-size="39" style="fill:rgb(103, 204, 92)">trump say</text>
+<text transform="translate(6,612)" font-size="37" style="fill:rgb(67, 62, 133)">homeland security</text>
+<text transform="translate(120,213)" font-size="37" style="fill:rgb(202, 225, 31)">trump campaign</text>
+<text transform="translate(389,418)" font-size="36" style="fill:rgb(202, 225, 31)">fake news</text>
+<text transform="translate(6,716)" font-size="27" style="fill:rgb(36, 134, 142)">press conference</text>
+<text transform="translate(533,56)" font-size="27" style="fill:rgb(50, 101, 142)">trump executive</text>
+<text transform="translate(329,761)" font-size="26" style="fill:rgb(45, 178, 125)">conflict interest</text>
+<text transform="translate(348,521)" font-size="24" style="fill:rgb(213, 226, 26)">trump executive order</text>
+<text transform="translate(638,169)" font-size="24" style="fill:rgb(37, 172, 130)">health care</text>
+<text transform="translate(18,60)" font-size="24" style="fill:rgb(65, 66, 135)">sean spicer</text>
+<text transform="translate(214,53)" font-size="24" style="fill:rgb(68, 2, 86)">obama administration</text>
+<text transform="translate(12,758)" font-size="22" style="fill:rgb(96, 202, 96)">intelligence community</text>
+<text transform="translate(599,650)" font-size="22" style="fill:rgb(115, 208, 86)">press secretary</text>
+<text transform="translate(605,774)" font-size="22" style="fill:rgb(234, 229, 26)">card holders</text>
+<text transform="translate(71,239)" font-size="22" style="fill:rgb(234, 229, 26)">green card holders</text>
+<text transform="translate(6,139)" font-size="22" style="fill:rgb(61, 78, 138)">security adviser</text>
+<text transform="translate(599,673)" font-size="22" style="fill:rgb(186, 222, 40)">washington post</text>
+<text transform="translate(611,420)" font-size="22" style="fill:rgb(48, 105, 142)">jeff sessions</text>
+<text transform="translate(119,417)" font-size="19" style="fill:rgb(213, 226, 26)">national security adviser</text>
+<text transform="translate(620,820)" font-size="19" style="fill:rgb(72, 33, 115)">president obama</text>
+<text transform="translate(52,107)" font-size="19" style="fill:rgb(35, 169, 131)">fox news</text>
+<text transform="translate(600,702)" font-size="19" style="fill:rgb(72, 28, 110)">barack obama</text>
+<text transform="translate(380,636)" font-size="19" style="fill:rgb(72, 23, 105)">state department</text>
+<text transform="translate(674,720)" font-size="19" style="fill:rgb(184, 222, 41)">muslim ban</text>
+<text transform="translate(179,305)" font-size="19" style="fill:rgb(221, 227, 24)">hillary clinton</text>
+<text transform="translate(12,364)" font-size="19" style="fill:rgb(147, 215, 65)">new york time</text>
+<text transform="translate(639,790)" font-size="19" style="fill:rgb(246, 230, 32)">york time</text>
+<text transform="translate(519,343)" font-size="19" style="fill:rgb(51, 99, 141)">russian ambassador</text>
+<text transform="translate(686,502)" font-size="18" style="fill:rgb(33, 142, 141)">trump team</text>
+<text transform="translate(382,826)" font-size="18" style="fill:rgb(33, 145, 140)">confirmation hear</text>
+<text transform="translate(76,729)" font-size="18" style="fill:rgb(49, 103, 142)">secretary state</text>
+<text transform="translate(195,822)" font-size="18" style="fill:rgb(30, 157, 137)">steve bannon</text>
+<text transform="translate(7,823)" font-size="17" style="fill:rgb(70, 10, 93)">trump inauguration</text>
+<text transform="translate(376,134)" font-size="15" style="fill:rgb(157, 217, 59)">donald trump realdonaldtrump</text>
+<text transform="translate(13,429)" font-size="15" style="fill:rgb(132, 212, 75)">trump realdonaldtrump</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - Q1-2017 - Comm. 2 w. 883 documents</text>
+</svg>

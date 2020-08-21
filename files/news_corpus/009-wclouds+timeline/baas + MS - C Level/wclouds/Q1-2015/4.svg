@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(56,137)" font-size="95" style="fill:rgb(80, 196, 106)">fifteen years</text>
+<text transform="translate(2,711)" font-size="89" style="fill:rgb(62, 73, 137)">class economics</text>
+<text transform="translate(6,595)" font-size="60" style="fill:rgb(37, 133, 142)">middle class economics</text>
+<text transform="translate(129,363)" font-size="59" style="fill:rgb(53, 183, 121)">new century</text>
+<text transform="translate(56,181)" font-size="57" style="fill:rgb(55, 184, 120)">middle class</text>
+<text transform="translate(218,765)" font-size="55" style="fill:rgb(33, 143, 141)">make sure</text>
+<text transform="translate(159,288)" font-size="54" style="fill:rgb(72, 40, 120)">everyone get fair</text>
+<text transform="translate(253,501)" font-size="53" style="fill:rgb(69, 53, 129)">men women</text>
+<text transform="translate(272,417)" font-size="52" style="fill:rgb(112, 207, 87)">get fair shoot</text>
+<text transform="translate(209,816)" font-size="51" style="fill:rgb(155, 217, 60)">fair shoot</text>
+<text transform="translate(182,223)" font-size="50" style="fill:rgb(165, 219, 54)">god bless</text>
+<text transform="translate(237,646)" font-size="49" style="fill:rgb(31, 158, 137)">state union</text>
+<text transform="translate(304,451)" font-size="44" style="fill:rgb(72, 22, 104)">american leadership</text>
+<text transform="translate(286,66)" font-size="43" style="fill:rgb(72, 32, 113)">political system</text>
+<text transform="translate(586,757)" font-size="43" style="fill:rgb(66, 64, 134)">too many</text>
+<text transform="translate(494,230)" font-size="43" style="fill:rgb(226, 228, 24)">effort take</text>
+<text transform="translate(68,412)" font-size="42" style="fill:rgb(71, 19, 101)">get fair</text>
+<text transform="translate(317,540)" font-size="41" style="fill:rgb(52, 97, 141)">make side happy</text>
+<text transform="translate(1,489)" font-size="41" style="fill:rgb(72, 27, 109)">right rise</text>
+<text transform="translate(7,530)" font-size="37" style="fill:rgb(99, 203, 95)">new republican</text>
+<text transform="translate(524,793)" font-size="37" style="fill:rgb(31, 149, 139)">change game</text>
+<text transform="translate(515,357)" font-size="34" style="fill:rgb(40, 174, 128)">military power</text>
+<text transform="translate(515,320)" font-size="34" style="fill:rgb(48, 106, 142)">nation world</text>
+<text transform="translate(573,174)" font-size="34" style="fill:rgb(71, 17, 100)">side happy</text>
+<text transform="translate(1,313)" font-size="32" style="fill:rgb(62, 74, 137)">detroit america</text>
+<text transform="translate(562,613)" font-size="32" style="fill:rgb(30, 157, 137)">grow economy</text>
+<text transform="translate(210,247)" font-size="22" style="fill:rgb(71, 44, 122)">new republican congress</text>
+<text transform="translate(13,776)" font-size="22" style="fill:rgb(72, 23, 105)">threats just</text>
+<text transform="translate(87,647)" font-size="22" style="fill:rgb(192, 223, 37)">fifty years</text>
+<text transform="translate(9,218)" font-size="22" style="fill:rgb(61, 188, 116)">everyone get</text>
+<text transform="translate(610,824)" font-size="22" style="fill:rgb(192, 223, 37)">same instinct</text>
+<text transform="translate(43,615)" font-size="22" style="fill:rgb(72, 22, 104)">make washington</text>
+<text transform="translate(613,506)" font-size="22" style="fill:rgb(92, 200, 99)">vote right</text>
+<text transform="translate(29,440)" font-size="22" style="fill:rgb(63, 188, 115)">fifteen years new</text>
+<text transform="translate(391,322)" font-size="22" style="fill:rgb(155, 217, 60)">hard work</text>
+<text transform="translate(23,52)" font-size="22" style="fill:rgb(226, 228, 24)">years new century</text>
+<text transform="translate(12,748)" font-size="22" style="fill:rgb(64, 69, 136)">right act</text>
+<text transform="translate(641,479)" font-size="22" style="fill:rgb(32, 163, 134)">make side</text>
+<text transform="translate(23,807)" font-size="22" style="fill:rgb(43, 117, 142)">industry boom</text>
+<text transform="translate(585,630)" font-size="22" style="fill:rgb(71, 46, 124)">vote right act</text>
+<text transform="translate(362,729)" font-size="22" style="fill:rgb(184, 222, 41)">american families</text>
+<text transform="translate(22,199)" font-size="22" style="fill:rgb(70, 11, 94)">isn build</text>
+<text transform="translate(4,276)" font-size="22" style="fill:rgb(39, 128, 142)">change rule</text>
+<text transform="translate(7,249)" font-size="18" style="fill:rgb(68, 191, 112)">state union strong</text>
+<text transform="translate(145,726)" font-size="18" style="fill:rgb(44, 115, 142)">union strong</text>
+<text transform="translate(459,188)" font-size="18" style="fill:rgb(39, 126, 142)">make sure government</text>
+<text transform="translate(354,553)" font-size="17" style="fill:rgb(173, 220, 48)">focus concern again</text>
+<text transform="translate(249,464)" font-size="16" style="fill:rgb(139, 214, 70)">make washington focus</text>
+<text transform="translate(12,361)" font-size="16" style="fill:rgb(33, 144, 141)">red oak</text>
+<text transform="translate(332,78)" font-size="14" style="fill:rgb(44, 114, 142)">washington focus concern</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.703703703703702" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Q1-2015 - Comm. 4 w. 6 documents</text>
+</svg>

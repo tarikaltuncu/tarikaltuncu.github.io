@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAmMAAsAAAAAC5wAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PWNtYXAAAAIIAAAAOAAAAEQAkwEEZ2FzcAAACYAAAAAMAAAADAAEAAdnbHlmAAACeAAABiIAAAe6MrO+Z2hlYWQAAAEIAAAANgAAADYBECIiaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADgAAAA4C2oIRWxvY2EAAAJAAAAAOAAAADgZuxu+bWF4cAAAAWAAAAAYAAAAIAAfADhuYW1lAAAInAAAAMsAAAFoHBo1AHBvc3QAAAloAAAAFgAAACD/aQBnAAEAAAABAABAxplJXw889QALCAAAAAAAwcfpVAAAAADbW++d//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQZjBnYGYAAUYGNAAACM0AWHicY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBiq2OT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRjAx+AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUAhwDXALwAXACgAHMAngEIAMsAiwCgAFL//ABgAFIAtnicY2BgYGJgYGAGYhEgyQimWRgMgDQHEILkFBgKGKr+/wezEhmK/v////D/wv8LwGrBAADpIwuRAAAAAAAAADQAZACKALsA5wEMAVoBegGdAcQB5QH8AiwCSgJzAqQCwgLxAxQDMwNOA34DnQPGA914nFVVDUwTZxj+3rvz2iGRHty1M2jguBXCkDhaSicb/kxMXMXMEURGHOkU8IfFH/An2BhkpiLrjEMQGU7HX5iJDpWwZkx0kvo7IoSo07hkzDE1LkyN08xp73PvV3CypHfXJn2f73mf93neIxypej4icEIBsRCVEDVBE0UtLt5hsjodqVqcISHNbjMrEm8QRUW229IcfIXVuLBlW2s30L5Htd/OOnNiuK+r5UzbhdqjDR8tOLIfskyGeSPZ1e6O07qJm2wwlqzpbK0jHDmI52SKMokkUwixagZNskuywY74kZKJ0+J42WyPlUxqnAg54Vav32gsuXbx1u0LA2W+BjDRe/t3+HyiTHe+X9NGr9JH9CG9zL013AvtcLCHECBHEN+KfUThD0O8xqBsTkXUYolkIqpNsM6s30R3waoDbTsC9Dn9HeLA0CloB2fQ5XT1zKYM0MAEkyGeINdqxJoe4jqVcUVFOMkUabdZ7PEOpK3xjtSxE9L4SuP6Qcazf0N4uL9W8zXQBxDZ4K39GpIgHCZBclOlCl3/jMDTxOFemk+XHWcnePGE+chWImbkq0aOco1jXFEQxaqa1FhhfvCpERYFjrafe0xvQMTwFT1IuQz6gP7JcbQ6q2kBHiFCGDjpoyENUpgKXxIi5IsxRGGokiapDqsjFTW2oCRxoqKogkw9fhqAjK7BSk/iyhWePPDyvcFZfO8a1d3boe2eUli2khCeFFNZKEaGr5FpJA3RFINZkZFiAjMCMwWOKt6R6gxd8aOH8DZmGkUGdlNjUSWh+Mycq6ecMYXNJzq+0/tuDD9wez8ovno2d3bj0M2bMK/nNkSAr1BwrY9evK35B/HNhTmNu2lVc82V9Okl6xZZDxf5z8p6z+37D4dp+LmOobwM1mUTdpmM85HQsZIJJyExNzEz4Vd+8z16ye83hq24C14uAAIt1c+jc2yfH6JrdTtT/yzW28VJxIgTJmAL9eVIjbI6VGmCgpJx5atnJZVE0L8gAO7gHsgTJ5Wmzygr1Y8onuA82eORGUoVlflcRDFgdkIoDAQcZhYTiWExWO5OSclqGrZj/8btdCmX/1t/G2KVlZU+SWxMKC0SZiieZ3O6AtjTNeSEBieTEMsJdkA/GkJt8VBRBb5faCQXdpXmVnZ1mbjEBqimVr0GnmTTfFHW0+gQImAMhCREeAURXrYi00ehLmogb4JX2fLUE6IPZCn+uwznG8s0TA25A48zjT3tFpbM0I3Ff9Axc8l7zVtz5rdURIfN3dFqE7N2b9vABfaUtgf0FibyV/f184Kr7pDf330dRR6bEeKbxs/IMn5EtdH/GxGrDg2II2WYjjysncjSPGEsFeyewEKHF7fsOr0LEbdvgJne+xXS6AXaJ6NsAhjgDfoj5vtv2r8P2qCJuulStn3QzZmIOJZo88sex7aPMn79YJCjjWuujF8/DV5fpUqTxDQk+WL9FCaO7p9jKDgYsV9ttF8wxI+TEc8QtBRPUetxf53ZmNVRsUlIaU/uPqofE1wXNxczP/eN7eAYQpzoHxachBeZYlhIzmIejV9f73GIWnb8bvnQ2XOH3/ZXjxT5L/v++OlJSntuy4yc2Utqlu/c79o735vx7pyFez+uP4zoPoY+YS3T0soWosS2QpRdUhW0qN3GBz/ZQuvpY5i4cBX4qev0h/WfxkIet7UgBWLoz9X69kAoc4iSLLhCmcO3BIOxS6aQ19GjjdFhq27Rcv9Ic50fV18Nd0nPoMHuK1z6Mz+rzkZ1yrF6IlaDPcqMukRFockfUnfPg8URoqHg/knqFlz6hjsF02Ay9xmWwfMgVg1i1WSs4nmNfUZrnVH/PXk+eXumOKfq5FDLsjiLGGP19lYkvSrGTC0+eJPLARftZELrN78f6P6Ge0c/FWh9uI+LGWXlRvzVo6yARS6UOvxQunkA3w/aAN0IB/rRTxcHODtnocXQqN/VL0EXzWI9oadYT7jBsZUxOsDenwmhJeB0ZveAmG0QLXOxOevczgO52TNd7pLX05FP6aXF67qwzYSOo1JNeHZhPeODpAQZETHBquoA1aEqgBs72MLV6bv4JL2c+2Irn1m9JzhI/gXCG2dVAAB4nH2OQQ7BUBRFD4qYWICB/AUgisRYSIxMSAzMqqSaSCvFgAVYgU3YiQVZgNvvS4ykuc1979133geqrChR8GrATvr4Ak1VH1+kzs35EgPuzns/mTItns5XaPBiQkwknaQrWzYYKVAdyIWkHLiQ2dROXcND6tHVNxTNMFUm1XSvbcNYPtNO/g8sNSWhozuZXGz5C00SjnIzO02ZazfiLEag3EizUJ1E6a1qQ1v6T1ja5NHdM/i6mb/RsBY3Fnljuz79H9KX4yhvK1I1NwB4nGNgZgCD/2kMaUCKkQENAAAp/gHQAAAAAAACAAUAAv//AAM=")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(33,618)" font-size="75" style="fill:rgb(52, 96, 141)">immigration court</text>
+<text transform="translate(6,117)" font-size="74" style="fill:rgb(53, 183, 121)">immigration reform</text>
+<text transform="translate(138,329)" font-size="69" style="fill:rgb(61, 78, 138)">new citizens</text>
+<text transform="translate(302,213)" font-size="64" style="fill:rgb(213, 226, 26)">honor kill</text>
+<text transform="translate(79,455)" font-size="64" style="fill:rgb(38, 129, 142)">child migrants</text>
+<text transform="translate(118,380)" font-size="57" style="fill:rgb(45, 178, 125)">border patrol</text>
+<text transform="translate(5,800)" font-size="55" style="fill:rgb(69, 53, 129)">unauthorized immigrants</text>
+<text transform="translate(60,521)" font-size="54" style="fill:rgb(30, 155, 138)">legal status</text>
+<text transform="translate(50,680)" font-size="54" style="fill:rgb(186, 222, 40)">obama administration</text>
+<text transform="translate(293,727)" font-size="54" style="fill:rgb(32, 146, 140)">illegal reentry</text>
+<text transform="translate(180,264)" font-size="54" style="fill:rgb(33, 165, 133)">secure communities</text>
+<text transform="translate(446,526)" font-size="53" style="fill:rgb(35, 138, 141)">north korea</text>
+<text transform="translate(440,557)" font-size="40" style="fill:rgb(48, 106, 142)">green lantern</text>
+<text transform="translate(260,153)" font-size="40" style="fill:rgb(248, 230, 33)">central america</text>
+<text transform="translate(18,713)" font-size="39" style="fill:rgb(58, 84, 140)">anti semitic</text>
+<text transform="translate(2,169)" font-size="39" style="fill:rgb(55, 90, 140)">data act</text>
+<text transform="translate(31,202)" font-size="39" style="fill:rgb(42, 119, 142)">unite state</text>
+<text transform="translate(1,226)" font-size="32" style="fill:rgb(56, 89, 140)">veterans affairs</text>
+<text transform="translate(24,819)" font-size="24" style="fill:rgb(39, 126, 142)">generation immigrants</text>
+<text transform="translate(152,52)" font-size="24" style="fill:rgb(47, 108, 142)">veterans use health</text>
+<text transform="translate(441,474)" font-size="23" style="fill:rgb(31, 158, 137)">second generation</text>
+<text transform="translate(72,746)" font-size="23" style="fill:rgb(70, 51, 127)">religiously diverse</text>
+<text transform="translate(166,546)" font-size="23" style="fill:rgb(70, 11, 94)">immigration judge</text>
+<text transform="translate(656,313)" font-size="23" style="fill:rgb(78, 195, 107)">boko haram</text>
+<text transform="translate(513,399)" font-size="23" style="fill:rgb(132, 212, 75)">european colonialism</text>
+<text transform="translate(561,359)" font-size="23" style="fill:rgb(37, 172, 130)">patriot dollars</text>
+<text transform="translate(458,59)" font-size="23" style="fill:rgb(68, 1, 84)">white house</text>
+<text transform="translate(24,282)" font-size="23" style="fill:rgb(68, 58, 131)">anti balaka</text>
+<text transform="translate(214,476)" font-size="23" style="fill:rgb(69, 4, 87)">veterans use</text>
+<text transform="translate(336,815)" font-size="23" style="fill:rgb(208, 225, 28)">european power</text>
+<text transform="translate(657,425)" font-size="23" style="fill:rgb(59, 81, 139)">new york</text>
+<text transform="translate(517,746)" font-size="23" style="fill:rgb(69, 4, 87)">central american</text>
+<text transform="translate(117,399)" font-size="23" style="fill:rgb(76, 194, 108)">anti semitism</text>
+<text transform="translate(502,283)" font-size="23" style="fill:rgb(241, 229, 29)">cantor defeat</text>
+<text transform="translate(319,168)" font-size="19" style="fill:rgb(226, 228, 24)">religious diversity</text>
+<text transform="translate(647,645)" font-size="19" style="fill:rgb(68, 191, 112)">wait time</text>
+<text transform="translate(608,821)" font-size="19" style="fill:rgb(160, 218, 57)">expedite removal</text>
+<text transform="translate(26,245)" font-size="19" style="fill:rgb(72, 31, 112)">procter gamble</text>
+<text transform="translate(5,311)" font-size="19" style="fill:rgb(155, 217, 60)">north korean</text>
+<text transform="translate(325,229)" font-size="19" style="fill:rgb(47, 180, 124)">economic elites</text>
+<text transform="translate(614,375)" font-size="19" style="fill:rgb(165, 219, 54)">latino voters</text>
+<text transform="translate(11,470)" font-size="18" style="fill:rgb(72, 31, 112)">federal government</text>
+<text transform="translate(10,631)" font-size="16" style="fill:rgb(176, 221, 47)">green lantern theory</text>
+<text transform="translate(618,444)" font-size="16" style="fill:rgb(32, 146, 140)">lantern theory</text>
+<text transform="translate(629,48)" font-size="16" style="fill:rgb(241, 229, 29)">president obama</text>
+<text transform="translate(13,55)" font-size="16" style="fill:rgb(36, 170, 131)">non veterans</text>
+<text transform="translate(630,330)" font-size="16" style="fill:rgb(34, 139, 141)">use health care</text>
+<text transform="translate(636,135)" font-size="16" style="fill:rgb(251, 231, 35)">interest group</text>
+<text transform="translate(208,287)" font-size="16" style="fill:rgb(41, 123, 142)">health care</text>
+<text transform="translate(1,550)" font-size="16" style="fill:rgb(32, 164, 134)">immigration bill</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - Q2-2014 - Comm. 2 w. 50 documents</text>
+</svg>
