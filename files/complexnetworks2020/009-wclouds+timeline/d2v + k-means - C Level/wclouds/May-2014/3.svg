@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(3,737)" font-size="81" style="fill:rgb(110, 206, 88)">mother daughters</text>
+<text transform="translate(360,360)" font-size="80" style="fill:rgb(43, 117, 142)">gay men</text>
+<text transform="translate(231,636)" font-size="80" style="fill:rgb(36, 170, 131)">spell bee</text>
+<text transform="translate(286,487)" font-size="78" style="fill:rgb(37, 133, 142)">star war</text>
+<text transform="translate(118,125)" font-size="78" style="fill:rgb(147, 215, 65)">deborah tannen</text>
+<text transform="translate(157,277)" font-size="77" style="fill:rgb(34, 139, 141)">larry kramer</text>
+<text transform="translate(151,556)" font-size="77" style="fill:rgb(31, 151, 139)">normal heart</text>
+<text transform="translate(101,817)" font-size="75" style="fill:rgb(33, 166, 133)">start finish</text>
+<text transform="translate(175,186)" font-size="72" style="fill:rgb(41, 123, 142)">take days</text>
+<text transform="translate(357,421)" font-size="49" style="fill:rgb(33, 166, 133)">mother daughter</text>
+<text transform="translate(5,334)" font-size="34" style="fill:rgb(72, 38, 119)">identity formation</text>
+<text transform="translate(2,388)" font-size="34" style="fill:rgb(117, 208, 84)">princess leia</text>
+<text transform="translate(8,435)" font-size="34" style="fill:rgb(66, 63, 133)">cool purchase</text>
+<text transform="translate(297,661)" font-size="31" style="fill:rgb(72, 24, 106)">find precise grain</text>
+<text transform="translate(391,302)" font-size="31" style="fill:rgb(157, 217, 59)">precise grain sand</text>
+<text transform="translate(18,607)" font-size="31" style="fill:rgb(132, 212, 75)">regain cool</text>
+<text transform="translate(433,56)" font-size="30" style="fill:rgb(71, 46, 124)">regain cool purchase</text>
+<text transform="translate(507,216)" font-size="30" style="fill:rgb(72, 24, 106)">seek regain cool</text>
+<text transform="translate(178,211)" font-size="29" style="fill:rgb(55, 184, 120)">best friend</text>
+<text transform="translate(49,659)" font-size="29" style="fill:rgb(234, 229, 26)">find precise</text>
+<text transform="translate(26,469)" font-size="29" style="fill:rgb(67, 62, 133)">precise grain</text>
+<text transform="translate(568,165)" font-size="29" style="fill:rgb(46, 110, 142)">jimmy iovine</text>
+<text transform="translate(77,58)" font-size="29" style="fill:rgb(31, 151, 139)">twitter users</text>
+<text transform="translate(58,500)" font-size="29" style="fill:rgb(61, 188, 116)">seek regain</text>
+<text transform="translate(538,578)" font-size="28" style="fill:rgb(52, 97, 141)">watch original</text>
+<text transform="translate(168,680)" font-size="25" style="fill:rgb(47, 108, 142)">national spell</text>
+<text transform="translate(4,296)" font-size="23" style="fill:rgb(55, 91, 141)">capitalism schizophrenia</text>
+<text transform="translate(23,154)" font-size="23" style="fill:rgb(52, 96, 141)">say iovine</text>
+<text transform="translate(52,575)" font-size="23" style="fill:rgb(54, 93, 141)">better show calculate</text>
+<text transform="translate(108,755)" font-size="22" style="fill:rgb(31, 162, 135)">calculate seriously</text>
+<text transform="translate(529,375)" font-size="18" style="fill:rgb(46, 110, 142)">calculate seriously show</text>
+<text transform="translate(390,435)" font-size="18" style="fill:rgb(36, 135, 142)">card here complete</text>
+<text transform="translate(164,349)" font-size="18" style="fill:rgb(40, 125, 142)">chronicle exactly</text>
+<text transform="translate(197,225)" font-size="18" style="fill:rgb(70, 8, 92)">chronicle exactly much</text>
+<text transform="translate(23,628)" font-size="18" style="fill:rgb(71, 17, 100)">company rat people</text>
+<text transform="translate(573,751)" font-size="17" style="fill:rgb(52, 97, 141)">complete list nielsen</text>
+<text transform="translate(574,674)" font-size="16" style="fill:rgb(68, 1, 84)">data chronicle exactly</text>
+<text transform="translate(4,522)" font-size="16" style="fill:rgb(71, 13, 96)">day watch start</text>
+<text transform="translate(641,807)" font-size="16" style="fill:rgb(36, 134, 142)">days half</text>
+<text transform="translate(90,401)" font-size="16" style="fill:rgb(173, 220, 48)">days half hours</text>
+<text transform="translate(4,226)" font-size="16" style="fill:rgb(43, 116, 142)">days hours watch</text>
+<text transform="translate(6,205)" font-size="16" style="fill:rgb(72, 33, 115)">days watch series</text>
+<text transform="translate(17,173)" font-size="16" style="fill:rgb(34, 139, 141)">episode lose days</text>
+<text transform="translate(236,74)" font-size="16" style="fill:rgb(44, 115, 142)">finish instance</text>
+<text transform="translate(587,77)" font-size="16" style="fill:rgb(41, 121, 142)">finish instance take</text>
+<text transform="translate(11,262)" font-size="16" style="fill:rgb(192, 223, 37)">finish sherlock</text>
+<text transform="translate(530,139)" font-size="16" style="fill:rgb(31, 161, 136)">finish sherlock freak</text>
+<text transform="translate(492,502)" font-size="16" style="fill:rgb(34, 139, 141)">freak geeks house</text>
+<text transform="translate(658,181)" font-size="16" style="fill:rgb(63, 71, 136)">fun only take</text>
+<text transform="translate(29,71)" font-size="16" style="fill:rgb(72, 38, 119)">geeks house</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.694915254237287" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - May-2014 - Comm. 3 w. 9 documents</text>
+</svg>

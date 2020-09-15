@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(22,436)" font-size="105" style="fill:rgb(69, 53, 129)">simone biles</text>
+<text transform="translate(328,625)" font-size="97" style="fill:rgb(124, 210, 80)">team usa</text>
+<text transform="translate(12,707)" font-size="94" style="fill:rgb(110, 206, 88)">climate change</text>
+<text transform="translate(96,311)" font-size="94" style="fill:rgb(59, 82, 139)">olympic game</text>
+<text transform="translate(107,99)" font-size="90" style="fill:rgb(51, 99, 141)">wage gap</text>
+<text transform="translate(117,514)" font-size="89" style="fill:rgb(52, 182, 121)">self drive</text>
+<text transform="translate(51,179)" font-size="89" style="fill:rgb(186, 222, 40)">open ceremony</text>
+<text transform="translate(32,779)" font-size="86" style="fill:rgb(72, 20, 103)">rio olympics</text>
+<text transform="translate(146,226)" font-size="61" style="fill:rgb(31, 154, 138)">unite state</text>
+<text transform="translate(6,601)" font-size="60" style="fill:rgb(72, 28, 110)">palo alto</text>
+<text transform="translate(431,551)" font-size="47" style="fill:rgb(63, 71, 136)">gold medal</text>
+<text transform="translate(5,813)" font-size="43" style="fill:rgb(66, 65, 134)">public option</text>
+<text transform="translate(472,812)" font-size="39" style="fill:rgb(86, 198, 103)">insurance plan</text>
+<text transform="translate(556,251)" font-size="38" style="fill:rgb(38, 129, 142)">drive cars</text>
+<text transform="translate(124,361)" font-size="36" style="fill:rgb(216, 226, 25)">down syndrome</text>
+<text transform="translate(555,94)" font-size="36" style="fill:rgb(68, 1, 84)">rio janeiro</text>
+<text transform="translate(17,539)" font-size="32" style="fill:rgb(63, 188, 115)">women gymnastics</text>
+<text transform="translate(576,59)" font-size="32" style="fill:rgb(58, 83, 139)">health care</text>
+<text transform="translate(605,337)" font-size="32" style="fill:rgb(229, 228, 25)">win gold</text>
+<text transform="translate(640,461)" font-size="32" style="fill:rgb(35, 136, 142)">city god</text>
+<text transform="translate(128,623)" font-size="27" style="fill:rgb(68, 2, 86)">gabby douglas</text>
+<text transform="translate(185,247)" font-size="25" style="fill:rgb(139, 214, 70)">michael phelps</text>
+<text transform="translate(569,645)" font-size="25" style="fill:rgb(67, 62, 133)">self drive cars</text>
+<text transform="translate(677,118)" font-size="25" style="fill:rgb(68, 191, 112)">new york</text>
+<text transform="translate(341,648)" font-size="25" style="fill:rgb(31, 159, 136)">race walk</text>
+<text transform="translate(633,363)" font-size="25" style="fill:rgb(50, 100, 142)">women sport</text>
+<text transform="translate(18,457)" font-size="25" style="fill:rgb(165, 219, 54)">women athletes</text>
+<text transform="translate(12,120)" font-size="25" style="fill:rgb(52, 97, 141)">san francisco</text>
+<text transform="translate(361,329)" font-size="24" style="fill:rgb(157, 217, 59)">meter race</text>
+<text transform="translate(24,241)" font-size="24" style="fill:rgb(41, 121, 142)">game rio</text>
+<text transform="translate(629,218)" font-size="23" style="fill:rgb(132, 212, 75)">food company</text>
+<text transform="translate(336,726)" font-size="22" style="fill:rgb(44, 177, 126)">vila autódromo</text>
+<text transform="translate(666,771)" font-size="22" style="fill:rgb(72, 24, 106)">right now</text>
+<text transform="translate(423,249)" font-size="22" style="fill:rgb(58, 84, 140)">long term</text>
+<text transform="translate(14,217)" font-size="22" style="fill:rgb(112, 207, 87)">learn more</text>
+<text transform="translate(544,726)" font-size="22" style="fill:rgb(234, 229, 26)">bike share</text>
+<text transform="translate(642,491)" font-size="22" style="fill:rgb(144, 215, 67)">olympic gold</text>
+<text transform="translate(1,331)" font-size="22" style="fill:rgb(31, 162, 135)">drug price</text>
+<text transform="translate(409,348)" font-size="22" style="fill:rgb(46, 109, 142)">center mass</text>
+<text transform="translate(346,817)" font-size="22" style="fill:rgb(92, 200, 99)">cap trade</text>
+<text transform="translate(500,119)" font-size="22" style="fill:rgb(69, 56, 130)">health plan</text>
+<text transform="translate(515,564)" font-size="16" style="fill:rgb(40, 174, 128)">obamacare marketplaces</text>
+<text transform="translate(554,828)" font-size="16" style="fill:rgb(56, 88, 140)">solar roof</text>
+<text transform="translate(148,721)" font-size="16" style="fill:rgb(60, 79, 138)">national park</text>
+<text transform="translate(647,743)" font-size="16" style="fill:rgb(248, 230, 33)">usa gymnastics</text>
+<text transform="translate(163,644)" font-size="16" style="fill:rgb(48, 105, 142)">medal count</text>
+<text transform="translate(3,481)" font-size="15" style="fill:rgb(71, 47, 125)">paul glimcher</text>
+<text transform="translate(19,46)" font-size="15" style="fill:rgb(31, 158, 137)">heart disease</text>
+<text transform="translate(261,551)" font-size="15" style="fill:rgb(69, 53, 129)">fruit vegetables</text>
+<text transform="translate(674,508)" font-size="15" style="fill:rgb(31, 154, 138)">eastern time</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - August-2016 - Comm. 1 w. 153 documents</text>
+</svg>

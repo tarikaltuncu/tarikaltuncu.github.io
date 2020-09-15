@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(72,791)" font-size="85" style="fill:rgb(178, 221, 45)">european union</text>
+<text transform="translate(212,722)" font-size="71" style="fill:rgb(101, 203, 94)">vote leave</text>
+<text transform="translate(245,486)" font-size="67" style="fill:rgb(200, 224, 32)">supreme court</text>
+<text transform="translate(57,554)" font-size="66" style="fill:rgb(246, 230, 32)">northern ireland</text>
+<text transform="translate(322,365)" font-size="64" style="fill:rgb(63, 71, 136)">unite state</text>
+<text transform="translate(260,167)" font-size="63" style="fill:rgb(221, 227, 24)">unite kingdom</text>
+<text transform="translate(267,237)" font-size="60" style="fill:rgb(72, 35, 116)">leave european</text>
+<text transform="translate(341,621)" font-size="60" style="fill:rgb(192, 223, 37)">health care</text>
+<text transform="translate(3,90)" font-size="60" style="fill:rgb(53, 95, 141)">leave european union</text>
+<text transform="translate(106,416)" font-size="58" style="fill:rgb(69, 4, 87)">british economy</text>
+<text transform="translate(125,297)" font-size="58" style="fill:rgb(31, 161, 136)">brexit vote</text>
+<text transform="translate(30,661)" font-size="51" style="fill:rgb(80, 196, 106)">anti abortion</text>
+<text transform="translate(6,595)" font-size="47" style="fill:rgb(49, 102, 142)">gun violence</text>
+<text transform="translate(514,658)" font-size="47" style="fill:rgb(53, 94, 141)">father day</text>
+<text transform="translate(10,349)" font-size="47" style="fill:rgb(132, 212, 75)">more likely</text>
+<text transform="translate(513,307)" font-size="47" style="fill:rgb(37, 172, 130)">ban box</text>
+<text transform="translate(34,123)" font-size="42" style="fill:rgb(68, 57, 131)">british exit</text>
+<text transform="translate(9,183)" font-size="42" style="fill:rgb(53, 95, 141)">gene drive</text>
+<text transform="translate(15,478)" font-size="42" style="fill:rgb(49, 104, 142)">long term</text>
+<text transform="translate(40,222)" font-size="40" style="fill:rgb(68, 1, 84)">new york</text>
+<text transform="translate(383,822)" font-size="40" style="fill:rgb(34, 168, 132)">britain leave</text>
+<text transform="translate(7,726)" font-size="32" style="fill:rgb(36, 170, 131)">power plant</text>
+<text transform="translate(29,816)" font-size="32" style="fill:rgb(39, 128, 142)">public health</text>
+<text transform="translate(291,190)" font-size="28" style="fill:rgb(30, 157, 137)">gravitational wave</text>
+<text transform="translate(38,683)" font-size="28" style="fill:rgb(82, 197, 105)">pro choice</text>
+<text transform="translate(91,440)" font-size="28" style="fill:rgb(71, 14, 97)">abortion laws</text>
+<text transform="translate(416,112)" font-size="28" style="fill:rgb(67, 62, 133)">basic income</text>
+<text transform="translate(310,436)" font-size="25" style="fill:rgb(72, 33, 115)">vote leave european</text>
+<text transform="translate(582,576)" font-size="25" style="fill:rgb(38, 130, 142)">electric cars</text>
+<text transform="translate(61,140)" font-size="22" style="fill:rgb(216, 226, 25)">admit privilege</text>
+<text transform="translate(629,426)" font-size="22" style="fill:rgb(251, 231, 35)">air pollution</text>
+<text transform="translate(449,50)" font-size="22" style="fill:rgb(239, 229, 28)">woman health</text>
+<text transform="translate(40,50)" font-size="22" style="fill:rgb(45, 113, 142)">central bank</text>
+<text transform="translate(70,366)" font-size="22" style="fill:rgb(200, 224, 32)">other countries</text>
+<text transform="translate(547,677)" font-size="22" style="fill:rgb(34, 139, 141)">david cameron</text>
+<text transform="translate(1,507)" font-size="22" style="fill:rgb(38, 130, 142)">prime minister</text>
+<text transform="translate(639,394)" font-size="22" style="fill:rgb(43, 116, 142)">whole woman</text>
+<text transform="translate(69,615)" font-size="22" style="fill:rgb(82, 197, 105)">whole woman health</text>
+<text transform="translate(203,50)" font-size="22" style="fill:rgb(205, 225, 29)">welfare reform</text>
+<text transform="translate(678,266)" font-size="22" style="fill:rgb(241, 229, 29)">last year</text>
+<text transform="translate(618,107)" font-size="20" style="fill:rgb(76, 194, 108)">surgical center</text>
+<text transform="translate(14,258)" font-size="20" style="fill:rgb(35, 137, 142)">even more</text>
+<text transform="translate(637,194)" font-size="17" style="fill:rgb(50, 101, 142)">renewable energy</text>
+<text transform="translate(463,255)" font-size="17" style="fill:rgb(56, 185, 119)">trump university</text>
+<text transform="translate(295,252)" font-size="17" style="fill:rgb(45, 178, 125)">british voters</text>
+<text transform="translate(340,567)" font-size="16" style="fill:rgb(50, 182, 122)">medical marijuana</text>
+<text transform="translate(664,713)" font-size="16" style="fill:rgb(236, 229, 27)">agent orange</text>
+<text transform="translate(645,46)" font-size="16" style="fill:rgb(65, 66, 135)">climate change</text>
+<text transform="translate(232,736)" font-size="16" style="fill:rgb(139, 214, 70)">golden rice</text>
+<text transform="translate(616,500)" font-size="16" style="fill:rgb(36, 134, 142)">electric vehicles</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - June-2016 - Comm. 1 w. 197 documents</text>
+</svg>

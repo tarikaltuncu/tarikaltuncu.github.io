@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(41,434)" font-size="97" style="fill:rgb(70, 8, 92)">gilmore girls</text>
+<text transform="translate(137,282)" font-size="90" style="fill:rgb(31, 160, 136)">walk dead</text>
+<text transform="translate(277,602)" font-size="86" style="fill:rgb(37, 132, 142)">star war</text>
+<text transform="translate(171,791)" font-size="74" style="fill:rgb(71, 47, 125)">black mirror</text>
+<text transform="translate(143,671)" font-size="66" style="fill:rgb(71, 16, 99)">doctor strange</text>
+<text transform="translate(153,149)" font-size="64" style="fill:rgb(31, 161, 135)">carrie fisher</text>
+<text transform="translate(197,523)" font-size="63" style="fill:rgb(137, 213, 72)">star hollow</text>
+<text transform="translate(178,334)" font-size="62" style="fill:rgb(36, 170, 131)">first season</text>
+<text transform="translate(121,87)" font-size="60" style="fill:rgb(127, 211, 78)">todd vanderwerff</text>
+<text transform="translate(89,190)" font-size="52" style="fill:rgb(50, 101, 142)">video game</text>
+<text transform="translate(60,717)" font-size="51" style="fill:rgb(34, 141, 141)">science fiction</text>
+<text transform="translate(433,188)" font-size="50" style="fill:rgb(72, 38, 119)">year life</text>
+<text transform="translate(3,580)" font-size="47" style="fill:rgb(70, 50, 126)">comic book</text>
+<text transform="translate(524,726)" font-size="46" style="fill:rgb(72, 36, 117)">new york</text>
+<text transform="translate(338,363)" font-size="37" style="fill:rgb(152, 216, 62)">pop culture</text>
+<text transform="translate(105,462)" font-size="35" style="fill:rgb(86, 198, 103)">drink history</text>
+<text transform="translate(15,820)" font-size="33" style="fill:rgb(119, 209, 83)">man black</text>
+<text transform="translate(337,816)" font-size="33" style="fill:rgb(71, 42, 122)">season episode</text>
+<text transform="translate(62,605)" font-size="33" style="fill:rgb(76, 194, 108)">tell story</text>
+<text transform="translate(588,471)" font-size="33" style="fill:rgb(33, 145, 140)">girl train</text>
+<text transform="translate(4,217)" font-size="27" style="fill:rgb(38, 129, 142)">carpool karaoke</text>
+<text transform="translate(28,499)" font-size="27" style="fill:rgb(35, 136, 142)">rogue one</text>
+<text transform="translate(500,622)" font-size="25" style="fill:rgb(103, 204, 92)">sherman palladino</text>
+<text transform="translate(656,112)" font-size="24" style="fill:rgb(67, 62, 133)">take place</text>
+<text transform="translate(49,107)" font-size="23" style="fill:rgb(69, 53, 129)">lin manuel</text>
+<text transform="translate(9,319)" font-size="23" style="fill:rgb(223, 227, 24)">first time</text>
+<text transform="translate(573,542)" font-size="23" style="fill:rgb(37, 133, 142)">assassin creed</text>
+<text transform="translate(624,495)" font-size="23" style="fill:rgb(57, 86, 140)">harry potter</text>
+<text transform="translate(359,543)" font-size="22" style="fill:rgb(59, 81, 139)">main character</text>
+<text transform="translate(639,330)" font-size="22" style="fill:rgb(72, 38, 119)">time travel</text>
+<text transform="translate(17,625)" font-size="22" style="fill:rgb(90, 200, 100)">right now</text>
+<text transform="translate(618,810)" font-size="22" style="fill:rgb(50, 101, 142)">san junipero</text>
+<text transform="translate(73,523)" font-size="22" style="fill:rgb(72, 29, 111)">year old</text>
+<text transform="translate(24,647)" font-size="22" style="fill:rgb(41, 123, 142)">cold open</text>
+<text transform="translate(195,816)" font-size="22" style="fill:rgb(122, 209, 81)">grey poupon</text>
+<text transform="translate(661,261)" font-size="22" style="fill:rgb(71, 47, 125)">make feel</text>
+<text transform="translate(8,130)" font-size="22" style="fill:rgb(78, 195, 107)">good place</text>
+<text transform="translate(637,284)" font-size="22" style="fill:rgb(72, 27, 109)">wonder woman</text>
+<text transform="translate(654,221)" font-size="22" style="fill:rgb(38, 173, 129)">make sense</text>
+<text transform="translate(73,349)" font-size="20" style="fill:rgb(33, 144, 141)">gilmore girls year</text>
+<text transform="translate(268,620)" font-size="20" style="fill:rgb(63, 71, 136)">lin manuel miranda</text>
+<text transform="translate(191,370)" font-size="20" style="fill:rgb(37, 131, 142)">little women</text>
+<text transform="translate(582,351)" font-size="20" style="fill:rgb(46, 179, 124)">manuel miranda</text>
+<text transform="translate(459,221)" font-size="20" style="fill:rgb(168, 219, 52)">fall love</text>
+<text transform="translate(5,734)" font-size="20" style="fill:rgb(40, 174, 128)">girls year</text>
+<text transform="translate(645,307)" font-size="20" style="fill:rgb(41, 123, 142)">bad santa</text>
+<text transform="translate(8,766)" font-size="19" style="fill:rgb(46, 109, 142)">girls year life</text>
+<text transform="translate(3,71)" font-size="19" style="fill:rgb(60, 80, 139)">point view</text>
+<text transform="translate(53,479)" font-size="19" style="fill:rgb(31, 153, 138)">advent calendar</text>
+<text transform="translate(495,49)" font-size="19" style="fill:rgb(52, 182, 121)">real life</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q4-2016 - Comm. 3 w. 419 documents</text>
+</svg>

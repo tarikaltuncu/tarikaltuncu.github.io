@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(58,343)" font-size="146" style="fill:rgb(253, 231, 37)">same sex</text>
+<text transform="translate(5,473)" font-size="132" style="fill:rgb(64, 69, 136)">grand jury</text>
+<text transform="translate(6,713)" font-size="94" style="fill:rgb(39, 128, 142)">police officer</text>
+<text transform="translate(14,129)" font-size="84" style="fill:rgb(36, 170, 131)">michael brown</text>
+<text transform="translate(82,206)" font-size="78" style="fill:rgb(59, 187, 117)">sex marriage</text>
+<text transform="translate(13,564)" font-size="77" style="fill:rgb(72, 41, 121)">same sex marriage</text>
+<text transform="translate(157,807)" font-size="69" style="fill:rgb(58, 186, 118)">darren wilson</text>
+<text transform="translate(28,613)" font-size="63" style="fill:rgb(33, 145, 140)">ferguson missouri</text>
+<text transform="translate(7,376)" font-size="47" style="fill:rgb(36, 135, 142)">supreme court</text>
+<text transform="translate(541,380)" font-size="47" style="fill:rgb(34, 140, 141)">hong kong</text>
+<text transform="translate(205,247)" font-size="46" style="fill:rgb(31, 159, 136)">north korea</text>
+<text transform="translate(557,748)" font-size="45" style="fill:rgb(60, 79, 138)">new york</text>
+<text transform="translate(475,63)" font-size="40" style="fill:rgb(241, 229, 29)">sex marriages</text>
+<text transform="translate(81,503)" font-size="37" style="fill:rgb(68, 57, 131)">same sex marriages</text>
+<text transform="translate(250,643)" font-size="37" style="fill:rgb(105, 205, 91)">year old</text>
+<text transform="translate(206,748)" font-size="37" style="fill:rgb(90, 200, 100)">louis county</text>
+<text transform="translate(510,252)" font-size="34" style="fill:rgb(72, 37, 118)">sexual assault</text>
+<text transform="translate(71,57)" font-size="32" style="fill:rgb(155, 217, 60)">law enforcement</text>
+<text transform="translate(555,150)" font-size="27" style="fill:rgb(251, 231, 35)">ferguson police</text>
+<text transform="translate(605,640)" font-size="27" style="fill:rgb(210, 226, 27)">marriage ban</text>
+<text transform="translate(120,150)" font-size="26" style="fill:rgb(31, 158, 137)">sex marriage ban</text>
+<text transform="translate(7,225)" font-size="22" style="fill:rgb(55, 184, 120)">washington post</text>
+<text transform="translate(1,249)" font-size="20" style="fill:rgb(189, 223, 38)">criminal justice</text>
+<text transform="translate(392,384)" font-size="20" style="fill:rgb(231, 228, 25)">tear gas</text>
+<text transform="translate(450,823)" font-size="20" style="fill:rgb(35, 137, 142)">officer darren</text>
+<text transform="translate(113,394)" font-size="19" style="fill:rgb(239, 229, 28)">officer darren wilson</text>
+<text transform="translate(675,195)" font-size="19" style="fill:rgb(53, 94, 141)">eric garner</text>
+<text transform="translate(544,492)" font-size="19" style="fill:rgb(33, 142, 141)">jury decision</text>
+<text transform="translate(117,823)" font-size="18" style="fill:rgb(52, 182, 121)">grand jury decision</text>
+<text transform="translate(642,172)" font-size="18" style="fill:rgb(72, 37, 118)">shoot kill</text>
+<text transform="translate(425,629)" font-size="18" style="fill:rgb(66, 190, 113)">same sex couple</text>
+<text transform="translate(9,801)" font-size="18" style="fill:rgb(71, 45, 123)">sex couple</text>
+<text transform="translate(67,740)" font-size="18" style="fill:rgb(71, 45, 123)">civil right</text>
+<text transform="translate(388,359)" font-size="18" style="fill:rgb(119, 209, 83)">justice system</text>
+<text transform="translate(220,762)" font-size="18" style="fill:rgb(64, 189, 114)">unite state</text>
+<text transform="translate(676,823)" font-size="18" style="fill:rgb(194, 223, 35)">more likely</text>
+<text transform="translate(5,759)" font-size="18" style="fill:rgb(160, 218, 57)">president obama</text>
+<text transform="translate(659,117)" font-size="18" style="fill:rgb(178, 221, 45)">north korean</text>
+<text transform="translate(477,75)" font-size="15" style="fill:rgb(149, 216, 64)">police officer darren</text>
+<text transform="translate(3,777)" font-size="15" style="fill:rgb(149, 216, 64)">police department</text>
+<text transform="translate(134,514)" font-size="14" style="fill:rgb(51, 98, 141)">criminal justice system</text>
+<text transform="translate(641,217)" font-size="14" style="fill:rgb(58, 83, 139)">shoot michael brown</text>
+<text transform="translate(669,90)" font-size="14" style="fill:rgb(51, 98, 141)">shoot michael</text>
+<text transform="translate(399,261)" font-size="14" style="fill:rgb(61, 188, 116)">police shoot</text>
+<text transform="translate(691,612)" font-size="14" style="fill:rgb(46, 111, 142)">black people</text>
+<text transform="translate(373,58)" font-size="14" style="fill:rgb(92, 200, 99)">west africa</text>
+<text transform="translate(385,320)" font-size="14" style="fill:rgb(66, 63, 133)">police departments</text>
+<text transform="translate(268,654)" font-size="14" style="fill:rgb(34, 140, 141)">marriage equality</text>
+<text transform="translate(420,338)" font-size="14" style="fill:rgb(71, 13, 96)">white house</text>
+<text transform="translate(690,785)" font-size="14" style="fill:rgb(45, 113, 142)">use force</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.06896551724138" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - 2014 - Comm. 4 w. 1052 documents</text>
+</svg>

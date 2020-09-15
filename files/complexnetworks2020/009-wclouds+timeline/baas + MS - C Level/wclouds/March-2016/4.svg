@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(65,274)" font-size="101" style="fill:rgb(72, 27, 109)">donald trump</text>
+<text transform="translate(1,599)" font-size="94" style="fill:rgb(36, 135, 142)">break barriers</text>
+<text transform="translate(132,470)" font-size="83" style="fill:rgb(46, 109, 142)">campaign beat</text>
+<text transform="translate(153,379)" font-size="80" style="fill:rgb(68, 58, 131)">beat donald</text>
+<text transform="translate(10,792)" font-size="77" style="fill:rgb(57, 85, 140)">beat donald trump</text>
+<text transform="translate(15,112)" font-size="76" style="fill:rgb(72, 26, 108)">only campaign</text>
+<text transform="translate(3,677)" font-size="74" style="fill:rgb(59, 187, 117)">only campaign beat</text>
+<text transform="translate(425,184)" font-size="69" style="fill:rgb(52, 96, 141)">want know</text>
+<text transform="translate(12,164)" font-size="40" style="fill:rgb(38, 173, 129)">deserve president</text>
+<text transform="translate(373,302)" font-size="35" style="fill:rgb(30, 156, 137)">rush transcript</text>
+<text transform="translate(487,504)" font-size="35" style="fill:rgb(61, 188, 116)">victory speech</text>
+<text transform="translate(7,408)" font-size="32" style="fill:rgb(192, 223, 37)">campaign beat donald</text>
+<text transform="translate(327,820)" font-size="31" style="fill:rgb(157, 217, 59)">conservative movement</text>
+<text transform="translate(138,516)" font-size="30" style="fill:rgb(47, 180, 124)">small businesses</text>
+<text transform="translate(101,303)" font-size="30" style="fill:rgb(72, 23, 105)">young people</text>
+<text transform="translate(554,707)" font-size="30" style="fill:rgb(64, 189, 114)">below rush</text>
+<text transform="translate(35,718)" font-size="30" style="fill:rgb(71, 16, 99)">below rush transcript</text>
+<text transform="translate(514,56)" font-size="30" style="fill:rgb(84, 197, 104)">more good job</text>
+<text transform="translate(135,56)" font-size="30" style="fill:rgb(30, 157, 137)">politically correct</text>
+<text transform="translate(148,623)" font-size="30" style="fill:rgb(70, 50, 126)">come too far</text>
+<text transform="translate(14,818)" font-size="29" style="fill:rgb(52, 96, 141)">end tonight</text>
+<text transform="translate(551,206)" font-size="27" style="fill:rgb(70, 7, 90)">compromise away</text>
+<text transform="translate(128,203)" font-size="27" style="fill:rgb(50, 182, 122)">stop amnesty</text>
+<text transform="translate(658,540)" font-size="27" style="fill:rgb(71, 13, 96)">now know</text>
+<text transform="translate(518,728)" font-size="27" style="fill:rgb(84, 197, 104)">once twice time</text>
+<text transform="translate(514,396)" font-size="21" style="fill:rgb(208, 225, 28)">republican nomination</text>
+<text transform="translate(451,537)" font-size="21" style="fill:rgb(37, 133, 142)">work hard</text>
+<text transform="translate(24,487)" font-size="21" style="fill:rgb(31, 161, 136)">get guy here</text>
+<text transform="translate(8,360)" font-size="21" style="fill:rgb(160, 218, 57)">beat beat</text>
+<text transform="translate(410,129)" font-size="21" style="fill:rgb(72, 28, 110)">old days</text>
+<text transform="translate(437,615)" font-size="20" style="fill:rgb(32, 164, 134)">iranian nuclear deal</text>
+<text transform="translate(613,104)" font-size="20" style="fill:rgb(105, 205, 91)">twice time</text>
+<text transform="translate(678,615)" font-size="20" style="fill:rgb(72, 31, 112)">mic away</text>
+<text transform="translate(32,532)" font-size="20" style="fill:rgb(147, 215, 65)">start punch back</text>
+<text transform="translate(623,78)" font-size="20" style="fill:rgb(105, 205, 91)">take mic away</text>
+<text transform="translate(214,810)" font-size="20" style="fill:rgb(32, 164, 134)">god bless</text>
+<text transform="translate(680,322)" font-size="20" style="fill:rgb(51, 99, 141)">more good</text>
+<text transform="translate(35,731)" font-size="16" style="fill:rgb(32, 163, 134)">political establishment</text>
+<text transform="translate(670,136)" font-size="16" style="fill:rgb(41, 122, 142)">start punch</text>
+<text transform="translate(428,198)" font-size="16" style="fill:rgb(181, 222, 43)">usa usa</text>
+<text transform="translate(3,373)" font-size="16" style="fill:rgb(231, 228, 25)">promise america</text>
+<text transform="translate(184,126)" font-size="16" style="fill:rgb(38, 130, 142)">tomorrow morning</text>
+<text transform="translate(215,177)" font-size="16" style="fill:rgb(62, 73, 137)">bring people together</text>
+<text transform="translate(609,741)" font-size="16" style="fill:rgb(72, 28, 110)">next president</text>
+<text transform="translate(596,415)" font-size="16" style="fill:rgb(218, 227, 25)">good job</text>
+<text transform="translate(681,345)" font-size="16" style="fill:rgb(202, 225, 31)">get percent</text>
+<text transform="translate(423,416)" font-size="16" style="fill:rgb(155, 217, 60)">march michigan</text>
+<text transform="translate(5,177)" font-size="14" style="fill:rgb(82, 197, 105)">actual victim deportation</text>
+<text transform="translate(7,126)" font-size="14" style="fill:rgb(101, 203, 94)">also produce touch</text>
+<text transform="translate(645,115)" font-size="14" style="fill:rgb(105, 205, 91)">answer woman rarely</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.06896551724138" style="fill:rgb(0, 0, 0)">baas + MS - C Level - March-2016 - Comm. 4 w. 10 documents</text>
+</svg>

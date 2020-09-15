@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,608)" font-size="89" style="fill:rgb(71, 16, 99)">hillary clinton</text>
+<text transform="translate(157,237)" font-size="89" style="fill:rgb(37, 171, 130)">donald trump</text>
+<text transform="translate(174,750)" font-size="76" style="fill:rgb(170, 220, 50)">want thank</text>
+<text transform="translate(247,138)" font-size="76" style="fill:rgb(94, 201, 98)">unite state</text>
+<text transform="translate(42,419)" font-size="72" style="fill:rgb(50, 182, 122)">secretary clinton</text>
+<text transform="translate(169,325)" font-size="64" style="fill:rgb(72, 28, 110)">american people</text>
+<text transform="translate(90,804)" font-size="63" style="fill:rgb(92, 200, 99)">new hampshire</text>
+<text transform="translate(288,519)" font-size="62" style="fill:rgb(63, 71, 136)">health care</text>
+<text transform="translate(420,659)" font-size="62" style="fill:rgb(38, 130, 142)">new york</text>
+<text transform="translate(10,672)" font-size="56" style="fill:rgb(231, 228, 25)">young people</text>
+<text transform="translate(376,75)" font-size="50" style="fill:rgb(37, 132, 142)">break barriers</text>
+<text transform="translate(412,452)" font-size="42" style="fill:rgb(117, 208, 84)">rush transcript</text>
+<text transform="translate(4,452)" font-size="41" style="fill:rgb(46, 109, 142)">president obama</text>
+<text transform="translate(72,66)" font-size="40" style="fill:rgb(226, 228, 24)">men women</text>
+<text transform="translate(148,358)" font-size="40" style="fill:rgb(33, 145, 140)">bernie sanders</text>
+<text transform="translate(20,270)" font-size="40" style="fill:rgb(41, 121, 142)">here tonight</text>
+<text transform="translate(364,277)" font-size="40" style="fill:rgb(239, 229, 28)">make america</text>
+<text transform="translate(75,486)" font-size="39" style="fill:rgb(244, 230, 30)">god bless</text>
+<text transform="translate(192,549)" font-size="37" style="fill:rgb(248, 230, 33)">state america</text>
+<text transform="translate(161,162)" font-size="30" style="fill:rgb(70, 52, 128)">unite state america</text>
+<text transform="translate(539,162)" font-size="30" style="fill:rgb(37, 133, 142)">new york value</text>
+<text transform="translate(13,102)" font-size="30" style="fill:rgb(90, 200, 100)">york value</text>
+<text transform="translate(597,802)" font-size="30" style="fill:rgb(48, 105, 142)">wall street</text>
+<text transform="translate(7,730)" font-size="30" style="fill:rgb(35, 169, 131)">years ago</text>
+<text transform="translate(25,123)" font-size="27" style="fill:rgb(229, 228, 25)">cheer applause</text>
+<text transform="translate(10,516)" font-size="27" style="fill:rgb(66, 65, 134)">america great</text>
+<text transform="translate(650,350)" font-size="27" style="fill:rgb(66, 63, 133)">right now</text>
+<text transform="translate(4,628)" font-size="25" style="fill:rgb(62, 73, 137)">president unite state</text>
+<text transform="translate(498,472)" font-size="25" style="fill:rgb(65, 66, 135)">president unite</text>
+<text transform="translate(8,311)" font-size="25" style="fill:rgb(248, 230, 33)">hard work</text>
+<text transform="translate(134,825)" font-size="25" style="fill:rgb(31, 154, 138)">middle class</text>
+<text transform="translate(18,213)" font-size="25" style="fill:rgb(72, 41, 121)">make sure</text>
+<text transform="translate(648,771)" font-size="25" style="fill:rgb(127, 211, 78)">want know</text>
+<text transform="translate(454,824)" font-size="25" style="fill:rgb(71, 46, 124)">small businesses</text>
+<text transform="translate(599,679)" font-size="24" style="fill:rgb(72, 37, 118)">police officer</text>
+<text transform="translate(565,536)" font-size="20" style="fill:rgb(61, 77, 138)">make america great</text>
+<text transform="translate(13,156)" font-size="20" style="fill:rgb(36, 170, 131)">many people</text>
+<text transform="translate(237,89)" font-size="20" style="fill:rgb(42, 119, 142)">work hard</text>
+<text transform="translate(27,177)" font-size="20" style="fill:rgb(74, 193, 109)">good job</text>
+<text transform="translate(3,754)" font-size="20" style="fill:rgb(86, 198, 103)">people country</text>
+<text transform="translate(605,698)" font-size="20" style="fill:rgb(38, 130, 142)">millions people</text>
+<text transform="translate(56,699)" font-size="18" style="fill:rgb(44, 114, 142)">political revolution</text>
+<text transform="translate(490,694)" font-size="18" style="fill:rgb(162, 218, 55)">trump say</text>
+<text transform="translate(28,330)" font-size="18" style="fill:rgb(63, 72, 137)">clinton say</text>
+<text transform="translate(693,275)" font-size="18" style="fill:rgb(51, 98, 141)">go win</text>
+<text transform="translate(38,353)" font-size="18" style="fill:rgb(31, 151, 139)">too many</text>
+<text transform="translate(635,735)" font-size="18" style="fill:rgb(42, 120, 142)">stand together</text>
+<text transform="translate(492,354)" font-size="18" style="fill:rgb(32, 147, 140)">black people</text>
+<text transform="translate(639,176)" font-size="18" style="fill:rgb(46, 109, 142)">next president</text>
+<text transform="translate(230,178)" font-size="18" style="fill:rgb(56, 185, 119)">country earth</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.317460317460316" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Training subset - Comm. 4 w. 91 documents</text>
+</svg>

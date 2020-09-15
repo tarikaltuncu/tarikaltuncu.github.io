@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(4,505)" font-size="79" style="fill:rgb(36, 134, 142)">clown percent</text>
+<text transform="translate(5,627)" font-size="65" style="fill:rgb(210, 226, 27)">clown percent creepy</text>
+<text transform="translate(141,92)" font-size="65" style="fill:rgb(88, 199, 101)">clown scare</text>
+<text transform="translate(103,770)" font-size="65" style="fill:rgb(62, 76, 138)">great clown scare</text>
+<text transform="translate(108,368)" font-size="65" style="fill:rgb(38, 130, 142)">percent creepy</text>
+<text transform="translate(70,291)" font-size="63" style="fill:rgb(69, 55, 129)">great clown</text>
+<text transform="translate(116,139)" font-size="54" style="fill:rgb(115, 208, 86)">afraid little afraid</text>
+<text transform="translate(335,217)" font-size="54" style="fill:rgb(70, 51, 127)">clown poll</text>
+<text transform="translate(153,684)" font-size="54" style="fill:rgb(48, 106, 142)">clown poll conduct</text>
+<text transform="translate(269,812)" font-size="54" style="fill:rgb(51, 98, 141)">clown scarier</text>
+<text transform="translate(232,426)" font-size="52" style="fill:rgb(144, 215, 67)">afraid clown</text>
+<text transform="translate(378,548)" font-size="52" style="fill:rgb(162, 218, 55)">clown sight</text>
+<text transform="translate(487,317)" font-size="51" style="fill:rgb(36, 135, 142)">fear clown</text>
+<text transform="translate(7,210)" font-size="50" style="fill:rgb(253, 231, 37)">very creepy</text>
+<text transform="translate(405,724)" font-size="44" style="fill:rgb(46, 179, 124)">ronald mcdonald</text>
+<text transform="translate(39,562)" font-size="44" style="fill:rgb(33, 166, 133)">afraid little</text>
+<text transform="translate(20,173)" font-size="44" style="fill:rgb(72, 32, 113)">little afraid</text>
+<text transform="translate(537,259)" font-size="39" style="fill:rgb(61, 77, 138)">very afraid</text>
+<text transform="translate(19,712)" font-size="34" style="fill:rgb(34, 139, 141)">poll conduct</text>
+<text transform="translate(236,454)" font-size="34" style="fill:rgb(32, 147, 140)">americans want</text>
+<text transform="translate(381,168)" font-size="31" style="fill:rgb(32, 146, 140)">accord americans</text>
+<text transform="translate(126,310)" font-size="24" style="fill:rgb(58, 186, 118)">accord americans compare</text>
+<text transform="translate(62,240)" font-size="24" style="fill:rgb(39, 128, 142)">action behalf fbi</text>
+<text transform="translate(211,583)" font-size="24" style="fill:rgb(52, 182, 121)">admit least minor</text>
+<text transform="translate(513,580)" font-size="24" style="fill:rgb(50, 101, 142)">afraid afraid little</text>
+<text transform="translate(29,824)" font-size="24" style="fill:rgb(63, 72, 137)">afraid americans</text>
+<text transform="translate(238,50)" font-size="22" style="fill:rgb(58, 84, 140)">afraid americans least</text>
+<text transform="translate(2,410)" font-size="19" style="fill:rgb(70, 7, 90)">afraid clown possible</text>
+<text transform="translate(95,326)" font-size="19" style="fill:rgb(68, 2, 86)">afraid clown voters</text>
+<text transform="translate(588,70)" font-size="19" style="fill:rgb(36, 135, 142)">afraid first time</text>
+<text transform="translate(628,399)" font-size="19" style="fill:rgb(32, 146, 140)">afraid nearly</text>
+<text transform="translate(588,85)" font-size="19" style="fill:rgb(30, 156, 137)">afraid nearly clown</text>
+<text transform="translate(669,812)" font-size="19" style="fill:rgb(72, 193, 110)">afraid poll</text>
+<text transform="translate(40,430)" font-size="19" style="fill:rgb(82, 197, 105)">afraid poll very</text>
+<text transform="translate(630,480)" font-size="19" style="fill:rgb(30, 155, 138)">afraid somewhat</text>
+<text transform="translate(546,445)" font-size="19" style="fill:rgb(45, 112, 142)">afraid somewhat afraid</text>
+<text transform="translate(613,497)" font-size="19" style="fill:rgb(48, 106, 142)">age nearly admit</text>
+<text transform="translate(14,520)" font-size="18" style="fill:rgb(72, 24, 106)">agencies percent want</text>
+<text transform="translate(11,643)" font-size="18" style="fill:rgb(32, 147, 140)">agree obviously</text>
+<text transform="translate(526,46)" font-size="17" style="fill:rgb(35, 137, 142)">agree obviously situation</text>
+<text transform="translate(674,420)" font-size="17" style="fill:rgb(70, 52, 128)">also handily</text>
+<text transform="translate(321,232)" font-size="17" style="fill:rgb(119, 209, 83)">also handily surpass</text>
+<text transform="translate(651,198)" font-size="17" style="fill:rgb(170, 220, 50)">always terrify</text>
+<text transform="translate(1,798)" font-size="15" style="fill:rgb(68, 57, 131)">always terrify obamacare</text>
+<text transform="translate(36,725)" font-size="15" style="fill:rgb(72, 193, 110)">americans afraid nearly</text>
+<text transform="translate(264,824)" font-size="14" style="fill:rgb(72, 35, 116)">americans compare result</text>
+<text transform="translate(466,825)" font-size="14" style="fill:rgb(71, 44, 122)">americans identify greatest</text>
+<text transform="translate(410,180)" font-size="14" style="fill:rgb(35, 137, 142)">americans least survey</text>
+<text transform="translate(618,457)" font-size="14" style="fill:rgb(61, 77, 138)">americans say capacity</text>
+<text transform="translate(261,642)" font-size="14" style="fill:rgb(39, 126, 142)">americans utterly</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - October-2016 - Comm. 5 w. 1 documents</text>
+</svg>

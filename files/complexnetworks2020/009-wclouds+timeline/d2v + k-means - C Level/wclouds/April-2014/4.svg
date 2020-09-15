@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAnoAAsAAAAADAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PWNtYXAAAAIMAAAARQAAAFQAzgFTZ2FzcAAACdwAAAAMAAAADAAEAAdnbHlmAAACkAAABmcAAAgOJsDzQmhlYWQAAAEIAAAANgAAADYBGHknaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADwAAAA8C/kJJmxvY2EAAAJUAAAAPAAAADwb3R33bWF4cAAAAWAAAAAYAAAAIAAhADhuYW1lAAAI+AAAAMsAAAFoHBo1AHBvc3QAAAnEAAAAFgAAACD/aQBnAAEAAAABAABSv3jXXw889QALCAAAAAAAwcfpVAAAAADbZEai//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQZTBnYGYAAUYGNAAACQMAWnicY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBiq2OT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRjAx+AAAEzQDBAAAA4QCPAIcAngCsAIkAhQCcAGYAoADFAIcA1wC8AFwAoABzAJ4BCADLAIsAoABS//wAYABSALZ4nGNgYGBiYGBgBmIRIMkIplkYHIA0DwMHUI6FQYHBkMGcoYCh6v9/oCiEl8hQ9P///4f/L/4/83/x/0VgfXAAALkdEBgAAAAAAAAAAAAAFwAqAF4AjgC0AOUBEQE2AYQBpAHHAe4CDwImAlYCdAKdAs4C7AMbAz4DXQN4A6gDxwPwBAd4nFVVD0xUdRz/fd97vHchg3vw3l0OHTxex42IGfc4LjU0E5td2B+GRM7cZUgpzQoshzeH5E6jy9kJEmEa/0ZtGv4Z3aLQZKemMWUsqWZbRJTNRurMyvTez76/Oyra7t7B9r6f3+f7+X4+3x8BMk4I90dCmCQSoulygUeUJCcY3B+HLM7SpmegvoUPbbqS+1CdH3IJkJ2ECPPxbRHfBs2tqQCPcoaZzB8wRxOsPaGb3yIc2X57UuCEVcRONHzPqYuinpXttjo87gI9S3IWGi6bKvOSKKqK4Sp08/UOy7LOLV39QIeuN3208MSnE0N9nSe6TzcdbH3mkQN7oMQqLZksbfT1Hjet3EzJUr3+SFcznrMPzykWFZJKZhHi0CVdNmRFMhA/VbZyehav2IxM2apliVCW5AiELZbqr8/8dPH0cG2wFaz08p5twaCo0NefCHXTUXqdXqNfcvMnBqEH9g0Q7PYA4juwjzT8R8rWGZTLo4p6JpGtRHMJjgUtr9IdsHZv97YIvU1/hCyQjgj6vrn0WbpuQXsR6GCFmZDNNGlErDkxrrMZV1SEk62phstuZLuRts67C6ZOKOQbLC+PMJ7nNiQlhZv0YCu9Cqmtgab3IReSIBny2hs06PtrEm7mTAzSFXT1YXZCAE9YimxlYkO+WmqcaxbjioKoDs2qZQpLozct8HjkYM+p3+kFSJk4b0YpV0Sv0l85jjaWtD+CR4iQCB56fUyHfKbCuzjzFWIGURmqrMua2+EuQI3tKEmWqKqaoFB/mEagqG+kwZ/z/HP+Cgjwg9GF/OB6zTfYq++cVVn7PCE8qaKKUIUM7yL3kEJEUyWbqiBFJzMCMwWOKttd4Il9s+OH8C5mGlUB9tAyUSWh6sSi0WOejMqOT3s/NocuTFz1BZ6qGj1Z/kDb2Pg4LBm4CCkQrBS8L6cv39LxmXjfsrK2nXR7R+j8vDnVLz3u2L8mfFIxBy5euTZBk071jlUUsS7bscs8nI+MjpWtOAmZuYmZCf/kN16mZ8NhS+JzlyDARUCgNebn6BzXWx/QF02DqX8S6w0xmVhwwgRcsb7cBWkOtyYnqCgZV7duYW51Cv0NIuCL7oIKMblm3tzaGvOA6o8uUfx+JZYcqvDliCJhdmIoDATcNhYTmWExWO7n6up1NHHbnle20pXcih/OdSNWbW3NjZw2Z80aYa7qv7WoL4I9fY2c0OAkGbE8YAD6UYq1xUP9dgh+R1O5xFFa3tDXZ+VyWqGROswQ3CilK0TFLKRjiIAxEHIR4Q5E+K8VhV6PdRGCioSAuummP0YfyEp8uxbnm8k0LIi5A4+zTv0adpbM2IPFf8S94MnHOjaXLe2sT09cvK3LJZbs3LKBi+yq6YmYnUzk966Ynwve5g/C4f5vUOSpGSG+dfqM7NNH1JT+vxGx6tiAOFKL6ajA2hkszQlTqWBPJwsdfrnV39BLkHLxAtjo5e+hkJ6mQwrKJoAE99IvMN9/0nNvQze0Ux9dybYPurkYEacSbfuvx6nto05fPxjkdMv689PXT2sg2KDRXLEQSf6zfipz4vvnEAoOFuxXj/cLUvY0GfEMQc/3r+k6HG62WUp6618V8nvy+g+ahwTvmY1VzM9DUzs4gxAP+ocFx/lPphgWkrPb4vEbGjwMaasPX6obO3lq//3hxsk14S+Dv3x1I7+nvHNu2QNPhp59fY9399JA0cOLlu1+oWU/ogcZesKLTEsHW4gy2wpphqypaFHDxUdf20Rb6O8wY9laCFPv8adb3siECm7zqnzIoN82mlsjscwhSp7gjWUObwkGY8jWmNfRo23piWt/onXhyY7mMK6+EHfWLKLR/vPcvFthVl2K6tRh9Qx2FxlpNtQlLQ1Nfo36Bq4uTxGlVVeOUp/gNTf8vOoemMm9iWVwO4pVI1g1E6t4XmefeK0n7d9fns/bWiwu2n50rHN1ll3McAQG63PvFDNmV+0b58rAS48woc3xT4b7P+QeNI9Fuq69zWXEWfkQf12cFbDIxVKHH0o3DuP9oA/TV2DvOfTTmWHO4Oy0CtrMS+ZZ6KMlrCf0FOsJNzi2MkUH2P3pjC0Bj6d0AMRSSbQvxuYci4/sLS9d4PVV3z0P+dScXf5SH7bp7D0oh5JKK1sYHyQlKIiICdY0d/zOxo0d7eSazR18rlnHvbOZL27cFR0hfwMU8nxUAHicfY5BDsFQFEUPiphYgIH8BSCKxFhIjExIDMyqpJpIK8WABViBTdiJBVmA2+9LjKS5zX3v3XfeB6qsKFHwasBO+vgCTVUfX6TOzfkSA+7Oez+ZMi2ezldo8GJCTCSdpCtbNhgpUB3IhaQcuJDZ1E5dw0Pq0dU3FM0wVSbVdK9tw1g+007+Dyw1JaGjO5lcbPkLTRKOcjM7TZlrN+IsRqDcSLNQnUTprWpDW/pPWNrk0d0z+LqZv9GwFjcWeWO7Pv0f0pfjKG8rUjU3AHicY2BmAIP/aQxpQIqRAQ0AACn+AdAAAAAAAAIABQAC//8AAw==")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(146,579)" font-size="88" style="fill:rgb(110, 206, 88)">anti semitic</text>
+<text transform="translate(1,654)" font-size="74" style="fill:rgb(194, 223, 35)">incarcerate father</text>
+<text transform="translate(274,779)" font-size="72" style="fill:rgb(31, 159, 136)">same sex</text>
+<text transform="translate(323,393)" font-size="70" style="fill:rgb(31, 152, 139)">anti balaka</text>
+<text transform="translate(185,173)" font-size="68" style="fill:rgb(88, 199, 101)">anti semitism</text>
+<text transform="translate(18,434)" font-size="67" style="fill:rgb(127, 211, 78)">carry coverage</text>
+<text transform="translate(12,272)" font-size="44" style="fill:rgb(218, 227, 25)">think decriminalize possession</text>
+<text transform="translate(4,485)" font-size="39" style="fill:rgb(134, 213, 73)">decriminalize possession marijuana</text>
+<text transform="translate(180,88)" font-size="39" style="fill:rgb(72, 33, 115)">think decriminalize</text>
+<text transform="translate(94,721)" font-size="38" style="fill:rgb(43, 116, 142)">anti semitic violence</text>
+<text transform="translate(395,226)" font-size="38" style="fill:rgb(170, 220, 50)">semitic violence</text>
+<text transform="translate(59,809)" font-size="38" style="fill:rgb(33, 144, 141)">decriminalize possession</text>
+<text transform="translate(95,683)" font-size="36" style="fill:rgb(31, 162, 135)">rule ohio</text>
+<text transform="translate(3,300)" font-size="36" style="fill:rgb(108, 205, 90)">possession marijuana</text>
+<text transform="translate(352,324)" font-size="32" style="fill:rgb(34, 167, 133)">decriminalize marijuana</text>
+<text transform="translate(41,219)" font-size="32" style="fill:rgb(62, 74, 137)">seek exemptions</text>
+<text transform="translate(307,681)" font-size="32" style="fill:rgb(117, 208, 84)">individual mandate</text>
+<text transform="translate(5,334)" font-size="31" style="fill:rgb(41, 122, 142)">same sex marriages</text>
+<text transform="translate(31,358)" font-size="31" style="fill:rgb(40, 124, 142)">kantor center</text>
+<text transform="translate(343,513)" font-size="31" style="fill:rgb(152, 216, 62)">sex marriages</text>
+<text transform="translate(8,758)" font-size="30" style="fill:rgb(84, 197, 104)">same sex couple</text>
+<text transform="translate(37,514)" font-size="30" style="fill:rgb(74, 193, 109)">sex couple</text>
+<text transform="translate(53,114)" font-size="30" style="fill:rgb(35, 136, 142)">health law</text>
+<text transform="translate(44,383)" font-size="30" style="fill:rgb(47, 108, 142)">school prison</text>
+<text transform="translate(602,432)" font-size="29" style="fill:rgb(44, 115, 142)">more likely</text>
+<text transform="translate(7,176)" font-size="29" style="fill:rgb(142, 214, 69)">rule stand</text>
+<text transform="translate(290,114)" font-size="28" style="fill:rgb(168, 219, 52)">charles koch institute</text>
+<text transform="translate(129,600)" font-size="26" style="fill:rgb(248, 230, 33)">prison pipeline</text>
+<text transform="translate(396,48)" font-size="19" style="fill:rgb(42, 176, 127)">school prison pipeline</text>
+<text transform="translate(623,768)" font-size="19" style="fill:rgb(66, 64, 134)">appeal rule</text>
+<text transform="translate(22,132)" font-size="19" style="fill:rgb(86, 198, 103)">koch institute</text>
+<text transform="translate(12,149)" font-size="19" style="fill:rgb(69, 4, 87)">allow same sex</text>
+<text transform="translate(282,451)" font-size="19" style="fill:rgb(72, 193, 110)">koch brothers</text>
+<text transform="translate(657,798)" font-size="19" style="fill:rgb(72, 27, 109)">allow same</text>
+<text transform="translate(545,290)" font-size="19" style="fill:rgb(31, 160, 136)">more likely run</text>
+<text transform="translate(7,532)" font-size="18" style="fill:rgb(33, 166, 133)">17th state</text>
+<text transform="translate(93,47)" font-size="18" style="fill:rgb(36, 135, 142)">17th state decriminalize</text>
+<text transform="translate(48,823)" font-size="18" style="fill:rgb(127, 211, 78)">announce monday legislation</text>
+<text transform="translate(279,188)" font-size="18" style="fill:rgb(129, 211, 77)">decriminalize marijuana malley</text>
+<text transform="translate(448,823)" font-size="18" style="fill:rgb(248, 230, 33)">explain stance statement</text>
+<text transform="translate(459,239)" font-size="17" style="fill:rgb(70, 11, 94)">governor office announce</text>
+<text transform="translate(572,693)" font-size="15" style="fill:rgb(155, 217, 60)">legislation make maryland</text>
+<text transform="translate(375,593)" font-size="15" style="fill:rgb(37, 131, 142)">make maryland 17th</text>
+<text transform="translate(64,77)" font-size="15" style="fill:rgb(53, 95, 141)">malley often</text>
+<text transform="translate(640,734)" font-size="15" style="fill:rgb(72, 22, 104)">malley often tout</text>
+<text transform="translate(578,709)" font-size="15" style="fill:rgb(72, 33, 115)">malley sign legislation</text>
+<text transform="translate(1,770)" font-size="15" style="fill:rgb(40, 124, 142)">marijuana malley</text>
+<text transform="translate(552,447)" font-size="15" style="fill:rgb(65, 66, 135)">marijuana malley often</text>
+<text transform="translate(1,734)" font-size="15" style="fill:rgb(38, 130, 142)">marijuana state governor</text>
+<text transform="translate(627,86)" font-size="15" style="fill:rgb(51, 99, 141)">maryland 17th</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - April-2014 - Comm. 4 w. 8 documents</text>
+</svg>

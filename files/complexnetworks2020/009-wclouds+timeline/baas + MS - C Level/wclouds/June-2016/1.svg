@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(5,576)" font-size="115" style="fill:rgb(132, 212, 75)">mass shoot</text>
+<text transform="translate(1,147)" font-size="102" style="fill:rgb(71, 44, 122)">supreme court</text>
+<text transform="translate(57,713)" font-size="93" style="fill:rgb(115, 208, 86)">gun violence</text>
+<text transform="translate(45,444)" font-size="84" style="fill:rgb(37, 131, 142)">sexual assault</text>
+<text transform="translate(91,259)" font-size="76" style="fill:rgb(42, 176, 127)">unite state</text>
+<text transform="translate(84,346)" font-size="72" style="fill:rgb(72, 33, 115)">gun control</text>
+<text transform="translate(237,775)" font-size="67" style="fill:rgb(45, 178, 125)">more likely</text>
+<text transform="translate(63,626)" font-size="65" style="fill:rgb(56, 89, 140)">health care</text>
+<text transform="translate(256,184)" font-size="48" style="fill:rgb(72, 193, 110)">gravitational wave</text>
+<text transform="translate(48,484)" font-size="48" style="fill:rgb(86, 198, 103)">new york</text>
+<text transform="translate(309,69)" font-size="48" style="fill:rgb(46, 111, 142)">anti abortion</text>
+<text transform="translate(71,811)" font-size="46" style="fill:rgb(248, 230, 33)">lgbtq people</text>
+<text transform="translate(23,68)" font-size="46" style="fill:rgb(50, 101, 142)">court rule</text>
+<text transform="translate(570,618)" font-size="45" style="fill:rgb(55, 91, 141)">year old</text>
+<text transform="translate(378,478)" font-size="44" style="fill:rgb(49, 102, 142)">woman health</text>
+<text transform="translate(328,379)" font-size="42" style="fill:rgb(66, 63, 133)">gay nightclub</text>
+<text transform="translate(408,823)" font-size="42" style="fill:rgb(157, 217, 59)">whole woman</text>
+<text transform="translate(2,294)" font-size="37" style="fill:rgb(218, 227, 25)">whole woman health</text>
+<text transform="translate(1,654)" font-size="35" style="fill:rgb(42, 118, 142)">domestic violence</text>
+<text transform="translate(582,324)" font-size="35" style="fill:rgb(72, 193, 110)">pro choice</text>
+<text transform="translate(28,384)" font-size="28" style="fill:rgb(105, 205, 91)">background check</text>
+<text transform="translate(617,290)" font-size="28" style="fill:rgb(39, 127, 142)">watch list</text>
+<text transform="translate(60,757)" font-size="28" style="fill:rgb(42, 118, 142)">buy gun</text>
+<text transform="translate(516,649)" font-size="26" style="fill:rgb(38, 130, 142)">admit privilege</text>
+<text transform="translate(662,262)" font-size="26" style="fill:rgb(61, 188, 116)">ban box</text>
+<text transform="translate(600,204)" font-size="26" style="fill:rgb(52, 97, 141)">basic income</text>
+<text transform="translate(35,203)" font-size="26" style="fill:rgb(66, 64, 134)">gene drive</text>
+<text transform="translate(224,505)" font-size="26" style="fill:rgb(142, 214, 69)">tribal court</text>
+<text transform="translate(649,228)" font-size="26" style="fill:rgb(223, 227, 24)">last year</text>
+<text transform="translate(396,278)" font-size="24" style="fill:rgb(119, 209, 83)">surgical center</text>
+<text transform="translate(191,731)" font-size="24" style="fill:rgb(71, 46, 124)">deadliest mass</text>
+<text transform="translate(5,85)" font-size="22" style="fill:rgb(186, 222, 40)">deadliest mass shoot</text>
+<text transform="translate(440,497)" font-size="22" style="fill:rgb(223, 227, 24)">gender identity</text>
+<text transform="translate(640,343)" font-size="22" style="fill:rgb(56, 185, 119)">trans people</text>
+<text transform="translate(394,201)" font-size="22" style="fill:rgb(34, 139, 141)">abortion laws</text>
+<text transform="translate(6,500)" font-size="20" style="fill:rgb(70, 7, 90)">public health</text>
+<text transform="translate(626,729)" font-size="20" style="fill:rgb(53, 183, 121)">welfare reform</text>
+<text transform="translate(652,363)" font-size="20" style="fill:rgb(34, 168, 132)">people color</text>
+<text transform="translate(375,84)" font-size="20" style="fill:rgb(200, 224, 32)">brock turner</text>
+<text transform="translate(670,784)" font-size="19" style="fill:rgb(53, 95, 141)">even more</text>
+<text transform="translate(7,171)" font-size="19" style="fill:rgb(108, 205, 90)">power plant</text>
+<text transform="translate(604,82)" font-size="17" style="fill:rgb(40, 174, 128)">abortion right</text>
+<text transform="translate(703,499)" font-size="17" style="fill:rgb(70, 52, 128)">years ago</text>
+<text transform="translate(682,555)" font-size="17" style="fill:rgb(122, 209, 81)">black hole</text>
+<text transform="translate(253,211)" font-size="17" style="fill:rgb(61, 77, 138)">assault rifle</text>
+<text transform="translate(507,794)" font-size="17" style="fill:rgb(70, 52, 128)">electric cars</text>
+<text transform="translate(679,747)" font-size="17" style="fill:rgb(147, 215, 65)">more people</text>
+<text transform="translate(674,765)" font-size="17" style="fill:rgb(64, 69, 136)">donald trump</text>
+<text transform="translate(686,59)" font-size="17" style="fill:rgb(157, 217, 59)">omar mateen</text>
+<text transform="translate(268,86)" font-size="17" style="fill:rgb(71, 17, 100)">low income</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.06896551724138" style="fill:rgb(0, 0, 0)">baas + MS - C Level - June-2016 - Comm. 1 w. 281 documents</text>
+</svg>

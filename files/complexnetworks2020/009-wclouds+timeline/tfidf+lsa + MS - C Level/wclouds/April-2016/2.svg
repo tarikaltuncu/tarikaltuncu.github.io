@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(140,313)" font-size="119" style="fill:rgb(70, 48, 126)">new york</text>
+<text transform="translate(2,639)" font-size="94" style="fill:rgb(165, 219, 54)">bernie sanders</text>
+<text transform="translate(47,434)" font-size="92" style="fill:rgb(68, 191, 112)">donald trump</text>
+<text transform="translate(13,162)" font-size="86" style="fill:rgb(58, 84, 140)">hillary clinton</text>
+<text transform="translate(56,710)" font-size="80" style="fill:rgb(59, 187, 117)">pledge delegate</text>
+<text transform="translate(4,518)" font-size="76" style="fill:rgb(137, 213, 72)">ted cruz</text>
+<text transform="translate(26,786)" font-size="73" style="fill:rgb(71, 45, 123)">republican party</text>
+<text transform="translate(120,223)" font-size="53" style="fill:rgb(103, 204, 92)">democratic party</text>
+<text transform="translate(297,73)" font-size="52" style="fill:rgb(108, 205, 90)">foreign policy</text>
+<text transform="translate(366,537)" font-size="45" style="fill:rgb(127, 211, 78)">general election</text>
+<text transform="translate(149,460)" font-size="33" style="fill:rgb(50, 182, 122)">congressional district</text>
+<text transform="translate(130,814)" font-size="32" style="fill:rgb(36, 135, 142)">new york primary</text>
+<text transform="translate(101,338)" font-size="32" style="fill:rgb(41, 175, 127)">york primary</text>
+<text transform="translate(41,78)" font-size="32" style="fill:rgb(66, 64, 134)">delegate stake</text>
+<text transform="translate(41,545)" font-size="31" style="fill:rgb(37, 132, 142)">shell company</text>
+<text transform="translate(513,354)" font-size="30" style="fill:rgb(57, 86, 140)">close primaries</text>
+<text transform="translate(609,484)" font-size="29" style="fill:rgb(88, 199, 101)">trump win</text>
+<text transform="translate(336,564)" font-size="29" style="fill:rgb(40, 174, 128)">panama paper</text>
+<text transform="translate(468,825)" font-size="28" style="fill:rgb(72, 24, 106)">contest convention</text>
+<text transform="translate(539,555)" font-size="24" style="fill:rgb(152, 216, 62)">sanders supporters</text>
+<text transform="translate(461,479)" font-size="24" style="fill:rgb(155, 217, 60)">tax havens</text>
+<text transform="translate(323,732)" font-size="24" style="fill:rgb(52, 97, 141)">democratic primary</text>
+<text transform="translate(73,581)" font-size="24" style="fill:rgb(231, 228, 25)">unite state</text>
+<text transform="translate(286,100)" font-size="24" style="fill:rgb(70, 10, 93)">sanders win</text>
+<text transform="translate(585,182)" font-size="22" style="fill:rgb(70, 192, 111)">sanders campaign</text>
+<text transform="translate(195,183)" font-size="20" style="fill:rgb(218, 227, 25)">clinton win</text>
+<text transform="translate(282,239)" font-size="19" style="fill:rgb(30, 155, 138)">innovation party</text>
+<text transform="translate(670,228)" font-size="19" style="fill:rgb(60, 79, 138)">piggy bank</text>
+<text transform="translate(423,189)" font-size="19" style="fill:rgb(71, 47, 125)">much more</text>
+<text transform="translate(2,268)" font-size="19" style="fill:rgb(59, 187, 117)">supreme court</text>
+<text transform="translate(640,202)" font-size="19" style="fill:rgb(33, 165, 133)">close primary</text>
+<text transform="translate(386,502)" font-size="19" style="fill:rgb(42, 176, 127)">john kasich</text>
+<text transform="translate(44,239)" font-size="19" style="fill:rgb(205, 225, 29)">more likely</text>
+<text transform="translate(486,375)" font-size="18" style="fill:rgb(33, 142, 141)">republican delegate</text>
+<text transform="translate(615,580)" font-size="18" style="fill:rgb(34, 140, 141)">need win</text>
+<text transform="translate(547,657)" font-size="18" style="fill:rgb(37, 132, 142)">new yorkers</text>
+<text transform="translate(121,365)" font-size="18" style="fill:rgb(142, 214, 69)">open primaries</text>
+<text transform="translate(258,656)" font-size="18" style="fill:rgb(71, 47, 125)">delegate count</text>
+<text transform="translate(92,46)" font-size="17" style="fill:rgb(71, 16, 99)">majority delegate</text>
+<text transform="translate(3,450)" font-size="17" style="fill:rgb(119, 209, 83)">rhode island</text>
+<text transform="translate(669,457)" font-size="17" style="fill:rgb(50, 100, 142)">winner take</text>
+<text transform="translate(556,87)" font-size="17" style="fill:rgb(37, 132, 142)">new york value</text>
+<text transform="translate(46,301)" font-size="17" style="fill:rgb(40, 124, 142)">york value</text>
+<text transform="translate(83,735)" font-size="17" style="fill:rgb(155, 217, 60)">percent vote</text>
+<text transform="translate(338,354)" font-size="17" style="fill:rgb(72, 27, 109)">trump supporters</text>
+<text transform="translate(646,725)" font-size="17" style="fill:rgb(90, 200, 100)">more delegate</text>
+<text transform="translate(11,821)" font-size="17" style="fill:rgb(72, 35, 116)">white house</text>
+<text transform="translate(1,209)" font-size="17" style="fill:rgb(63, 71, 136)">sanders say</text>
+<text transform="translate(8,190)" font-size="17" style="fill:rgb(31, 153, 138)">state vote</text>
+<text transform="translate(540,324)" font-size="14" style="fill:rgb(72, 23, 105)">political revolution</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - April-2016 - Comm. 2 w. 229 documents</text>
+</svg>

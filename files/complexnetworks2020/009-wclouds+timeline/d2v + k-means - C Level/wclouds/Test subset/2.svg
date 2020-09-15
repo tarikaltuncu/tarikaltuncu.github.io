@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(82,641)" font-size="105" style="fill:rgb(71, 45, 123)">white house</text>
+<text transform="translate(2,242)" font-size="94" style="fill:rgb(108, 205, 90)">foreign policy</text>
+<text transform="translate(81,763)" font-size="89" style="fill:rgb(72, 35, 116)">donald trump</text>
+<text transform="translate(121,462)" font-size="83" style="fill:rgb(41, 123, 142)">jeb bush</text>
+<text transform="translate(31,102)" font-size="81" style="fill:rgb(31, 161, 135)">hillary clinton</text>
+<text transform="translate(208,340)" font-size="77" style="fill:rgb(99, 203, 95)">unite state</text>
+<text transform="translate(153,530)" font-size="71" style="fill:rgb(70, 10, 93)">president obama</text>
+<text transform="translate(52,386)" font-size="59" style="fill:rgb(92, 200, 99)">obama administration</text>
+<text transform="translate(111,807)" font-size="56" style="fill:rgb(48, 106, 142)">republican party</text>
+<text transform="translate(378,143)" font-size="53" style="fill:rgb(51, 99, 141)">new hampshire</text>
+<text transform="translate(439,689)" font-size="53" style="fill:rgb(44, 115, 142)">health care</text>
+<text transform="translate(44,682)" font-size="53" style="fill:rgb(192, 223, 37)">marco rubio</text>
+<text transform="translate(6,148)" font-size="27" style="fill:rgb(168, 219, 52)">unauthorized immigrants</text>
+<text transform="translate(11,278)" font-size="27" style="fill:rgb(55, 91, 141)">democratic party</text>
+<text transform="translate(4,327)" font-size="26" style="fill:rgb(44, 114, 142)">george bush</text>
+<text transform="translate(572,411)" font-size="26" style="fill:rgb(34, 140, 141)">bernie sanders</text>
+<text transform="translate(621,440)" font-size="26" style="fill:rgb(76, 194, 108)">new york</text>
+<text transform="translate(514,562)" font-size="26" style="fill:rgb(65, 66, 135)">supreme court</text>
+<text transform="translate(12,458)" font-size="26" style="fill:rgb(70, 10, 93)">ted cruz</text>
+<text transform="translate(318,170)" font-size="26" style="fill:rgb(39, 128, 142)">barack obama</text>
+<text transform="translate(649,808)" font-size="26" style="fill:rgb(32, 164, 134)">rand paul</text>
+<text transform="translate(477,266)" font-size="25" style="fill:rgb(45, 113, 142)">national security</text>
+<text transform="translate(281,559)" font-size="25" style="fill:rgb(71, 44, 122)">scott walker</text>
+<text transform="translate(516,464)" font-size="23" style="fill:rgb(72, 26, 108)">trump administration</text>
+<text transform="translate(64,169)" font-size="22" style="fill:rgb(37, 132, 142)">run president</text>
+<text transform="translate(1,296)" font-size="22" style="fill:rgb(155, 217, 60)">climate change</text>
+<text transform="translate(42,121)" font-size="22" style="fill:rgb(51, 98, 141)">executive action</text>
+<text transform="translate(52,551)" font-size="22" style="fill:rgb(186, 222, 40)">tax cut</text>
+<text transform="translate(272,50)" font-size="22" style="fill:rgb(80, 196, 106)">wall street</text>
+<text transform="translate(533,704)" font-size="18" style="fill:rgb(32, 147, 140)">immigration reform</text>
+<text transform="translate(271,826)" font-size="18" style="fill:rgb(101, 203, 94)">executive order</text>
+<text transform="translate(390,284)" font-size="18" style="fill:rgb(202, 225, 31)">middle east</text>
+<text transform="translate(625,158)" font-size="18" style="fill:rgb(46, 109, 142)">washington post</text>
+<text transform="translate(243,481)" font-size="18" style="fill:rgb(50, 182, 122)">fox news</text>
+<text transform="translate(8,478)" font-size="18" style="fill:rgb(72, 29, 111)">tea party</text>
+<text transform="translate(137,699)" font-size="18" style="fill:rgb(56, 89, 140)">ben carson</text>
+<text transform="translate(573,575)" font-size="17" style="fill:rgb(45, 178, 125)">american politics</text>
+<text transform="translate(24,821)" font-size="17" style="fill:rgb(51, 99, 141)">social security</text>
+<text transform="translate(659,178)" font-size="17" style="fill:rgb(68, 191, 112)">right now</text>
+<text transform="translate(333,183)" font-size="16" style="fill:rgb(92, 200, 99)">presidential campaign</text>
+<text transform="translate(14,402)" font-size="16" style="fill:rgb(34, 139, 141)">much more</text>
+<text transform="translate(306,573)" font-size="16" style="fill:rgb(103, 204, 92)">members congress</text>
+<text transform="translate(3,505)" font-size="16" style="fill:rgb(52, 96, 141)">prime minister</text>
+<text transform="translate(541,279)" font-size="16" style="fill:rgb(72, 37, 118)">general election</text>
+<text transform="translate(343,401)" font-size="16" style="fill:rgb(62, 73, 137)">new york time</text>
+<text transform="translate(417,483)" font-size="16" style="fill:rgb(44, 114, 142)">york time</text>
+<text transform="translate(638,478)" font-size="15" style="fill:rgb(31, 153, 138)">house republicans</text>
+<text transform="translate(3,562)" font-size="14" style="fill:rgb(42, 119, 142)">federal government</text>
+<text transform="translate(529,441)" font-size="14" style="fill:rgb(72, 193, 110)">trade deal</text>
+<text transform="translate(7,527)" font-size="14" style="fill:rgb(251, 231, 35)">secretary state</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Test subset - Comm. 2 w. 2374 documents</text>
+</svg>

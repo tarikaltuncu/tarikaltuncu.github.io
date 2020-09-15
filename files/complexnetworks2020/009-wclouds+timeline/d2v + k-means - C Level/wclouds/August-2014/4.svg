@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,216)" font-size="97" style="fill:rgb(47, 107, 142)">michael brown</text>
+<text transform="translate(121,735)" font-size="90" style="fill:rgb(62, 74, 137)">tear gas</text>
+<text transform="translate(13,419)" font-size="88" style="fill:rgb(51, 99, 141)">police officer</text>
+<text transform="translate(12,300)" font-size="87" style="fill:rgb(72, 36, 117)">ferguson police</text>
+<text transform="translate(37,493)" font-size="73" style="fill:rgb(115, 208, 86)">ferguson missouri</text>
+<text transform="translate(7,630)" font-size="72" style="fill:rgb(192, 223, 37)">scott olson</text>
+<text transform="translate(219,110)" font-size="70" style="fill:rgb(71, 13, 96)">louis county</text>
+<text transform="translate(396,557)" font-size="66" style="fill:rgb(33, 143, 141)">grand jury</text>
+<text transform="translate(98,804)" font-size="62" style="fill:rgb(35, 137, 142)">highway patrol</text>
+<text transform="translate(172,674)" font-size="56" style="fill:rgb(34, 140, 141)">law enforcement</text>
+<text transform="translate(1,562)" font-size="50" style="fill:rgb(40, 125, 142)">darren wilson</text>
+<text transform="translate(477,607)" font-size="34" style="fill:rgb(66, 65, 134)">protest ferguson</text>
+<text transform="translate(501,324)" font-size="29" style="fill:rgb(189, 223, 38)">scott olson image</text>
+<text transform="translate(223,332)" font-size="29" style="fill:rgb(72, 40, 120)">olson image</text>
+<text transform="translate(491,149)" font-size="29" style="fill:rgb(71, 42, 122)">missouri highway</text>
+<text transform="translate(112,238)" font-size="28" style="fill:rgb(124, 210, 80)">missouri highway patrol</text>
+<text transform="translate(175,134)" font-size="27" style="fill:rgb(46, 111, 142)">shoot michael brown</text>
+<text transform="translate(266,441)" font-size="27" style="fill:rgb(68, 58, 131)">shoot michael</text>
+<text transform="translate(20,77)" font-size="27" style="fill:rgb(129, 211, 77)">police chief</text>
+<text transform="translate(376,50)" font-size="22" style="fill:rgb(49, 181, 123)">ferguson police chief</text>
+<text transform="translate(230,51)" font-size="22" style="fill:rgb(72, 29, 111)">brown shoot</text>
+<text transform="translate(443,508)" font-size="22" style="fill:rgb(253, 231, 37)">same sex</text>
+<text transform="translate(562,717)" font-size="22" style="fill:rgb(61, 78, 138)">police department</text>
+<text transform="translate(635,356)" font-size="22" style="fill:rgb(31, 161, 135)">police force</text>
+<text transform="translate(439,340)" font-size="21" style="fill:rgb(147, 215, 65)">jay nixon</text>
+<text transform="translate(634,806)" font-size="21" style="fill:rgb(64, 189, 114)">wilson shoot</text>
+<text transform="translate(26,132)" font-size="21" style="fill:rgb(119, 209, 83)">shoot kill</text>
+<text transform="translate(26,338)" font-size="20" style="fill:rgb(33, 142, 141)">full explainer</text>
+<text transform="translate(263,511)" font-size="20" style="fill:rgb(71, 47, 125)">german lopez</text>
+<text transform="translate(621,766)" font-size="20" style="fill:rgb(68, 59, 132)">ahmad gharabli</text>
+<text transform="translate(552,439)" font-size="20" style="fill:rgb(42, 176, 127)">ryan reilly</text>
+<text transform="translate(24,104)" font-size="20" style="fill:rgb(53, 95, 141)">ron johnson</text>
+<text transform="translate(226,360)" font-size="20" style="fill:rgb(31, 150, 139)">police departments</text>
+<text transform="translate(509,628)" font-size="20" style="fill:rgb(248, 230, 33)">local police</text>
+<text transform="translate(17,822)" font-size="20" style="fill:rgb(70, 192, 111)">louis suburb</text>
+<text transform="translate(449,821)" font-size="20" style="fill:rgb(218, 227, 25)">police ferguson</text>
+<text transform="translate(32,656)" font-size="20" style="fill:rgb(210, 226, 27)">captain ron</text>
+<text transform="translate(563,738)" font-size="20" style="fill:rgb(35, 136, 142)">captain ron johnson</text>
+<text transform="translate(544,691)" font-size="20" style="fill:rgb(60, 79, 138)">officer darren wilson</text>
+<text transform="translate(35,751)" font-size="20" style="fill:rgb(47, 108, 142)">officer darren</text>
+<text transform="translate(115,436)" font-size="20" style="fill:rgb(72, 23, 105)">deadly force</text>
+<text transform="translate(657,49)" font-size="20" style="fill:rgb(35, 136, 142)">brown death</text>
+<text transform="translate(434,573)" font-size="19" style="fill:rgb(41, 121, 142)">security ferguson</text>
+<text transform="translate(5,46)" font-size="17" style="fill:rgb(31, 149, 139)">highway patrol captain</text>
+<text transform="translate(85,526)" font-size="17" style="fill:rgb(132, 212, 75)">patrol captain</text>
+<text transform="translate(694,232)" font-size="17" style="fill:rgb(38, 173, 129)">year old</text>
+<text transform="translate(8,578)" font-size="17" style="fill:rgb(41, 121, 142)">antonio french</text>
+<text transform="translate(500,226)" font-size="12" style="fill:rgb(37, 171, 130)">reilly ryanjreilly august</text>
+<text transform="translate(7,706)" font-size="12" style="fill:rgb(71, 44, 122)">ryanjreilly august</text>
+<text transform="translate(247,146)" font-size="12" style="fill:rgb(52, 96, 141)">black students</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - August-2014 - Comm. 4 w. 157 documents</text>
+</svg>

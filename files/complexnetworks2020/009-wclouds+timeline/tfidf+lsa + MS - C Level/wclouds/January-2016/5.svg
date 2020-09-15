@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(95,249)" font-size="104" style="fill:rgb(165, 219, 54)">wind winter</text>
+<text transform="translate(9,695)" font-size="81" style="fill:rgb(60, 80, 139)">game throne</text>
+<text transform="translate(30,153)" font-size="74" style="fill:rgb(72, 20, 103)">wind winter come</text>
+<text transform="translate(49,359)" font-size="73" style="fill:rgb(33, 145, 140)">go well sometimes</text>
+<text transform="translate(3,550)" font-size="73" style="fill:rgb(248, 230, 33)">sometimes write go</text>
+<text transform="translate(17,449)" font-size="65" style="fill:rgb(70, 7, 90)">well sometimes doesn</text>
+<text transform="translate(156,771)" font-size="65" style="fill:rgb(38, 173, 129)">write go well</text>
+<text transform="translate(51,600)" font-size="64" style="fill:rgb(46, 179, 124)">readers longer</text>
+<text transform="translate(80,80)" font-size="60" style="fill:rgb(65, 68, 135)">sometimes write</text>
+<text transform="translate(295,291)" font-size="54" style="fill:rgb(45, 113, 142)">well sometimes</text>
+<text transform="translate(27,818)" font-size="54" style="fill:rgb(58, 84, 140)">winter come</text>
+<text transform="translate(347,485)" font-size="46" style="fill:rgb(46, 179, 124)">sometimes doesn</text>
+<text transform="translate(550,667)" font-size="45" style="fill:rgb(41, 121, 142)">write go</text>
+<text transform="translate(494,807)" font-size="44" style="fill:rgb(60, 80, 139)">hbo series</text>
+<text transform="translate(40,477)" font-size="36" style="fill:rgb(246, 230, 32)">especially now</text>
+<text transform="translate(52,631)" font-size="35" style="fill:rgb(72, 31, 112)">book go</text>
+<text transform="translate(36,302)" font-size="35" style="fill:rgb(236, 229, 27)">song ice</text>
+<text transform="translate(157,386)" font-size="34" style="fill:rgb(41, 122, 142)">song ice fire</text>
+<text transform="translate(603,609)" font-size="34" style="fill:rgb(72, 32, 113)">ice fire</text>
+<text transform="translate(230,625)" font-size="32" style="fill:rgb(72, 40, 120)">sixth season</text>
+<text transform="translate(631,67)" font-size="30" style="fill:rgb(50, 100, 142)">go well</text>
+<text transform="translate(420,385)" font-size="28" style="fill:rgb(71, 13, 96)">able say complete</text>
+<text transform="translate(413,99)" font-size="24" style="fill:rgb(34, 167, 133)">agents foreign publishers</text>
+<text transform="translate(295,722)" font-size="24" style="fill:rgb(70, 8, 92)">ahead series years</text>
+<text transform="translate(594,698)" font-size="24" style="fill:rgb(46, 110, 142)">ahead viewers</text>
+<text transform="translate(341,308)" font-size="21" style="fill:rgb(33, 145, 140)">ahead viewers year</text>
+<text transform="translate(81,266)" font-size="21" style="fill:rgb(69, 53, 129)">alone editors</text>
+<text transform="translate(280,500)" font-size="19" style="fill:rgb(184, 222, 41)">alone editors publishers</text>
+<text transform="translate(83,725)" font-size="19" style="fill:rgb(157, 217, 59)">already diverge</text>
+<text transform="translate(386,822)" font-size="19" style="fill:rgb(32, 147, 140)">already diverge greatly</text>
+<text transform="translate(528,622)" font-size="17" style="fill:rgb(71, 16, 99)">anticipate years especially</text>
+<text transform="translate(528,167)" font-size="17" style="fill:rgb(178, 221, 45)">anytime soon wind</text>
+<text transform="translate(557,712)" font-size="15" style="fill:rgb(66, 63, 133)">apologize delay especially</text>
+<text transform="translate(407,643)" font-size="15" style="fill:rgb(194, 223, 35)">april book</text>
+<text transform="translate(4,182)" font-size="15" style="fill:rgb(39, 173, 129)">april book readers</text>
+<text transform="translate(448,404)" font-size="15" style="fill:rgb(72, 41, 121)">april just couldn</text>
+<text transform="translate(27,502)" font-size="15" style="fill:rgb(31, 154, 138)">away author george</text>
+<text transform="translate(340,185)" font-size="15" style="fill:rgb(112, 207, 87)">begin even haven</text>
+<text transform="translate(604,500)" font-size="15" style="fill:rgb(246, 230, 32)">better finish publish</text>
+<text transform="translate(671,188)" font-size="15" style="fill:rgb(202, 225, 31)">bloodbath wed</text>
+<text transform="translate(211,93)" font-size="15" style="fill:rgb(229, 228, 25)">bloodbath wed fresh</text>
+<text transform="translate(666,731)" font-size="15" style="fill:rgb(31, 162, 135)">book anytime</text>
+<text transform="translate(645,823)" font-size="15" style="fill:rgb(72, 38, 119)">book anytime soon</text>
+<text transform="translate(182,405)" font-size="14" style="fill:rgb(41, 122, 142)">book certainly identical</text>
+<text transform="translate(6,757)" font-size="14" style="fill:rgb(39, 126, 142)">book come dance</text>
+<text transform="translate(220,179)" font-size="14" style="fill:rgb(72, 24, 106)">book delay</text>
+<text transform="translate(10,642)" font-size="14" style="fill:rgb(45, 113, 142)">book delay present</text>
+<text transform="translate(667,312)" font-size="14" style="fill:rgb(226, 228, 24)">book go tell</text>
+<text transform="translate(654,406)" font-size="14" style="fill:rgb(33, 144, 141)">book point forward</text>
+<text transform="translate(1,391)" font-size="14" style="fill:rgb(59, 82, 139)">certainly identical</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - January-2016 - Comm. 5 w. 1 documents</text>
+</svg>

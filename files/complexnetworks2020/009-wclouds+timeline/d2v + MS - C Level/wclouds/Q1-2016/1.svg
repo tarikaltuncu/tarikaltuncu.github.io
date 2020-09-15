@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(39,666)" font-size="105" style="fill:rgb(181, 222, 43)">single payer</text>
+<text transform="translate(3,255)" font-size="99" style="fill:rgb(56, 88, 140)">public health</text>
+<text transform="translate(98,378)" font-size="98" style="fill:rgb(112, 207, 87)">health care</text>
+<text transform="translate(101,152)" font-size="95" style="fill:rgb(42, 120, 142)">unite state</text>
+<text transform="translate(116,786)" font-size="91" style="fill:rgb(34, 140, 141)">zika virus</text>
+<text transform="translate(14,546)" font-size="84" style="fill:rgb(71, 47, 125)">plan parenthood</text>
+<text transform="translate(72,451)" font-size="83" style="fill:rgb(33, 142, 141)">birth defect</text>
+<text transform="translate(336,586)" font-size="51" style="fill:rgb(68, 59, 132)">climate change</text>
+<text transform="translate(413,300)" font-size="50" style="fill:rgb(49, 104, 142)">lead poison</text>
+<text transform="translate(2,75)" font-size="49" style="fill:rgb(70, 51, 127)">new york</text>
+<text transform="translate(366,64)" font-size="44" style="fill:rgb(68, 58, 131)">pregnant women</text>
+<text transform="translate(175,482)" font-size="39" style="fill:rgb(31, 148, 140)">lead exposure</text>
+<text transform="translate(39,286)" font-size="38" style="fill:rgb(40, 125, 142)">last year</text>
+<text transform="translate(23,814)" font-size="37" style="fill:rgb(38, 129, 142)">more likely</text>
+<text transform="translate(399,821)" font-size="36" style="fill:rgb(30, 157, 137)">anti abortion</text>
+<text transform="translate(488,727)" font-size="36" style="fill:rgb(31, 152, 139)">birth control</text>
+<text transform="translate(28,569)" font-size="25" style="fill:rgb(32, 147, 140)">renewable energy</text>
+<text transform="translate(8,692)" font-size="25" style="fill:rgb(68, 57, 131)">long term</text>
+<text transform="translate(257,709)" font-size="25" style="fill:rgb(34, 167, 133)">supreme court</text>
+<text transform="translate(3,777)" font-size="24" style="fill:rgb(59, 187, 117)">tax plan</text>
+<text transform="translate(576,474)" font-size="23" style="fill:rgb(101, 203, 94)">lead level</text>
+<text transform="translate(8,721)" font-size="22" style="fill:rgb(38, 173, 129)">silicon valley</text>
+<text transform="translate(657,400)" font-size="22" style="fill:rgb(42, 120, 142)">learn more</text>
+<text transform="translate(505,170)" font-size="22" style="fill:rgb(241, 229, 29)">income tax</text>
+<text transform="translate(677,790)" font-size="22" style="fill:rgb(70, 192, 111)">drink age</text>
+<text transform="translate(166,171)" font-size="22" style="fill:rgb(63, 72, 137)">stock market</text>
+<text transform="translate(145,592)" font-size="22" style="fill:rgb(31, 161, 136)">oil price</text>
+<text transform="translate(268,285)" font-size="22" style="fill:rgb(33, 166, 133)">most people</text>
+<text transform="translate(640,692)" font-size="22" style="fill:rgb(170, 220, 50)">low income</text>
+<text transform="translate(655,433)" font-size="22" style="fill:rgb(229, 228, 25)">natural gas</text>
+<text transform="translate(472,81)" font-size="22" style="fill:rgb(60, 80, 139)">interest rat</text>
+<text transform="translate(163,309)" font-size="22" style="fill:rgb(53, 95, 141)">even more</text>
+<text transform="translate(287,682)" font-size="19" style="fill:rgb(239, 229, 28)">control prevention</text>
+<text transform="translate(407,600)" font-size="17" style="fill:rgb(37, 133, 142)">disease control prevention</text>
+<text transform="translate(97,464)" font-size="17" style="fill:rgb(72, 22, 104)">tax cut</text>
+<text transform="translate(19,592)" font-size="17" style="fill:rgb(84, 197, 104)">right now</text>
+<text transform="translate(583,315)" font-size="17" style="fill:rgb(186, 222, 40)">opioid painkillers</text>
+<text transform="translate(654,83)" font-size="17" style="fill:rgb(33, 145, 140)">sanders plan</text>
+<text transform="translate(18,827)" font-size="17" style="fill:rgb(72, 35, 116)">center disease control</text>
+<text transform="translate(439,193)" font-size="17" style="fill:rgb(44, 113, 142)">center disease</text>
+<text transform="translate(312,89)" font-size="17" style="fill:rgb(149, 216, 64)">disease control</text>
+<text transform="translate(4,470)" font-size="17" style="fill:rgb(67, 62, 133)">much more</text>
+<text transform="translate(2,313)" font-size="17" style="fill:rgb(246, 230, 32)">self drive</text>
+<text transform="translate(683,823)" font-size="17" style="fill:rgb(42, 119, 142)">super bowl</text>
+<text transform="translate(394,170)" font-size="17" style="fill:rgb(99, 203, 95)">more people</text>
+<text transform="translate(18,167)" font-size="17" style="fill:rgb(200, 224, 32)">weight loss</text>
+<text transform="translate(293,191)" font-size="17" style="fill:rgb(71, 14, 97)">get pregnant</text>
+<text transform="translate(321,728)" font-size="17" style="fill:rgb(72, 33, 115)">minimum wage</text>
+<text transform="translate(239,63)" font-size="17" style="fill:rgb(101, 203, 94)">war drug</text>
+<text transform="translate(579,490)" font-size="15" style="fill:rgb(70, 7, 90)">federal government</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.272727272727273" style="fill:rgb(0, 0, 0)">d2v + MS - C Level - Q1-2016 - Comm. 1 w. 618 documents</text>
+</svg>

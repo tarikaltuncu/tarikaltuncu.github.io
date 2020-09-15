@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAloAAsAAAAAC2wAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PGNtYXAAAAIIAAAAOAAAAEQAkwEDZ2FzcAAACVwAAAAMAAAADAAEAAdnbHlmAAACeAAABf4AAAeMtlludmhlYWQAAAEIAAAANgAAADYBGGzhaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADYAAAA2C2oHj2xvY2EAAAJAAAAANgAAADYZuxfhbWF4cAAAAWAAAAAYAAAAIAAeADhuYW1lAAAIeAAAAMsAAAFoHBo1AHBvc3QAAAlEAAAAFgAAACD/aQBnAAEAAAABAAA5bK2ZXw889QALCAAAAAAAwcfpVAAAAADbZDpc//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQYjBnYGYAAUYGNAAACLIAV3icY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBgq2eT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRbwx9AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUAhwDXALwAXACgAHMAngEIAMsAiwCgAFL//ABgAFIAAHicY2BgYGJgYGAGYhEgyQimWRgMgDQHEILkFBgKGCr//wezEhmK/v////D/wv8LwGrBAADpBguQAAAAAAAAADQAZACKALsA5wEMAVoBegGdAcQB5QH8AiwCSgJzAqQCwgLxAxQDMwNOA34DnQPGAAB4nFVVDUxTZxT97nuP1w4J9EF/ZtBAeSuEIXG0lA42UKcmrELmCCIjjnQIqLD4A/4EG4PMVGTd4hBEgtPxF2aiAzWsGROdpOLPCBAiTOOSMcbEuDAlDjOnvM/dr+BkSd97bdJ7vnPPPec+wpHK55MCJ+QSAzESYoySRVGOiLRqTDZrvByhikqwmPU6iVeJok5rMSdY+XKTOr15f0sX0L7pmm+XXbkw3tfZfKX1ek1H/UdrzhyHNI1q9WRGlaP9sqLhFqrUxVvPt9QSjpzEc1aJWhJMFhFiklWyZJG0KgviB0saTo7gtXpLuKQxRoiQGWByedTq4ls37k5cHyx114OGPjh+0O0WtfTQ+9WtdIRO00f0JvfWeA+0wcluQoCcQXwT9hGCP1SRMoMy23SiHE4kDTGaBVNK3W76OWw50XrQS5/T3yECVOcF+WQi3UiLUhqTQQYNLIRIglyrEGupj+tixhUV4SRNsMVssERakbbMW+PnTkjgK9Q7hhjPgZ0BAZ4a2V1PpyC43lXzNcRAAARCbGOFETr/mYSn0eM9NIfmnWMnuPCEVGQrET3yNQbPco1gXFEQncmoMYYLqTNP1bDW29F29TG9A0Hjw8oM5ZLpFP2T42hVWuMaPEIEf7DR6VEZ4pgKXxIi5IhhRMdQJVkyWk3WeNTYgJJEiDqdUdBSp4d6IblzqMIZvXmTMxtcfM/MMr5nq9HR0y4fXpRfupkQnhRSrVCIDF8jS0gCoulUep0WKUYxIzBT4KgirfE23xU5ewhvZqbRaYHdjOGoklB4ZcXIJVtYftOF9u+UvjvjUw7XB4UjvVnLG0bHxmB19wQEgTtfsO8IXbe/6QfxzfTMhsO0sql6OGlp8fa1ptMFnl6t0j3x8NE4DbjaPpqdzLpsxC5jcT4SOlbS4CQk5iZmJvzK73lA+z0etf+m++DivCDQEuUaOsf8xSm6TbEw9Xux3iIGEjVOmIDZ15c1PsRkNUp+OpSMKytaFlMcRP8CLzhmjkC2GFiSlFhaopzROWdWa51OLUOppFo+C1FUmB0fCgMBq57FRGJYDJa7V1xcRP0PHt91gG7gcn4baEWs0tKSJ9ENUSUFQqLO+WxFpxd7uoWc0OAkELFsYAH0o8rXFg/lleD+hQZz/iM0q6KzU8NF10MVNSnV8CSD5ohaJYGOIgLGQIhBhFcQ4WUrWjrt66Iasv1cur1PnT76QDbgv0txvuFMw3ifO/A4zdzTYmDJ9N1Y/IesKevfa9qXmdpcHuq/8mCLWUw7vH8n5z1S0uZVmpnIXz1Urgn22lMeT9dtFHluRoivmT8jw/wR1YT+b0Ss2jcgjpRiOrKxdgFLs99cKtg9ioUOLy7vNr0PQRN3QE8f/AoJ9Drt06JsAqjgDfoj5vtvOnAMWqGROugGtn3QzasQcS7R+pc9zm0f3fz1g0EOVW8dnr9+6l3uCiONEROQ5Iv1kx89u3/OouCgxn7l2X5BFTlPRjxDkOOcBS3nPLV6dVp7+W4hri22q0M5K9hv7Clkfu6b28FhhNjQPyw4US8yxbCQnEE/G7++nnMQknfuftlo79XTb3uqJgs8N91//PQkri2rOTFz+frqjYeO24+mupLfXZF+9OO604juZuh+25iWJrYQJbYVQiySUYcWtZj5mU/20jr6GBakbwEPtV/+sO7TcMjm9uXGQRj9uUo54PVlDlFiBbsvc/iWYDAWSePzOnq0IdR/y11a5plsqvXg6qvm+pVkOtM1zCU987DqDFSnDKsXYDVYQvSoS0gImvwRdXRPrQsSVbkPL1KHYFd23stdAgu5z7AMns9g1RBWLcQqnpfZZ7bWFvLfk+djD6wSV1ReHG3OizCIYSZXT3nMq2LY4sKTY1wm2Ol5JrQy9v1g1zfcO8olb8ujY1zYLCsH4hfNsgIWOV/q8EPpnkF8P8iDdBecGEA/3RjkLJyBFkKDcl/ph06axnpCT7GecINjK3N0gL0/o3xLwGbL6AYxQyUaVmJzppXnT2RlpNgdxa8nIZ+S/nXbO7HNqPYOqTogI7+O/AufZ1tIAAB4nH2OQQ7BUBRFD4qYWICB/AUgisRYSIxMSAzMqqSaSCvFgAVYgU3YiQVZgNvvS4ykuc1979133geqrChR8GrATvr4Ak1VH1+kzs35EgPuzns/mTItns5XaPBiQkwknaQrWzYYKVAdyIWkHLiQ2dROXcND6tHVNxTNMFUm1XSvbcNYPtNO/g8sNSWhozuZXGz5C00SjnIzO02ZazfiLEag3EizUJ1E6a1qQ1v6T1ja5NHdM/i6mb/RsBY3Fnljuz79H9KX4yhvK1I1NwB4nGNgZgCD/2kMaUCKkQENAAAp/gHQAAAAAAACAAUAAv//AAM=")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(11,317)" font-size="95" style="fill:rgb(59, 187, 117)">game throne</text>
+<text transform="translate(22,608)" font-size="63" style="fill:rgb(94, 201, 98)">wind winter</text>
+<text transform="translate(220,420)" font-size="54" style="fill:rgb(37, 131, 142)">series wind</text>
+<text transform="translate(110,663)" font-size="52" style="fill:rgb(152, 216, 62)">white walkers</text>
+<text transform="translate(77,96)" font-size="51" style="fill:rgb(234, 229, 26)">percent respondents</text>
+<text transform="translate(240,187)" font-size="49" style="fill:rgb(239, 229, 28)">george martin</text>
+<text transform="translate(162,763)" font-size="49" style="fill:rgb(30, 155, 138)">game throne season</text>
+<text transform="translate(42,701)" font-size="49" style="fill:rgb(65, 68, 135)">throne season</text>
+<text transform="translate(45,470)" font-size="48" style="fill:rgb(64, 189, 114)">percent respondents say</text>
+<text transform="translate(188,519)" font-size="48" style="fill:rgb(226, 228, 24)">thrive world game</text>
+<text transform="translate(42,820)" font-size="48" style="fill:rgb(72, 41, 121)">throne will little</text>
+<text transform="translate(207,361)" font-size="48" style="fill:rgb(253, 231, 37)">will little evil</text>
+<text transform="translate(380,233)" font-size="44" style="fill:rgb(92, 200, 99)">game throne time</text>
+<text transform="translate(49,143)" font-size="44" style="fill:rgb(53, 94, 141)">throne time travel</text>
+<text transform="translate(418,720)" font-size="34" style="fill:rgb(31, 152, 139)">time travel explain</text>
+<text transform="translate(462,570)" font-size="34" style="fill:rgb(47, 180, 124)">travel explain</text>
+<text transform="translate(575,127)" font-size="34" style="fill:rgb(71, 14, 97)">sixth book</text>
+<text transform="translate(598,408)" font-size="34" style="fill:rgb(80, 196, 106)">jon snow</text>
+<text transform="translate(516,629)" font-size="34" style="fill:rgb(53, 95, 141)">episode movie</text>
+<text transform="translate(4,544)" font-size="33" style="fill:rgb(35, 136, 142)">respondents say okay</text>
+<text transform="translate(57,255)" font-size="33" style="fill:rgb(46, 111, 142)">throne time</text>
+<text transform="translate(521,683)" font-size="33" style="fill:rgb(168, 219, 52)">series finale</text>
+<text transform="translate(26,723)" font-size="29" style="fill:rgb(46, 179, 124)">game throne will</text>
+<text transform="translate(560,785)" font-size="29" style="fill:rgb(51, 98, 141)">little evil</text>
+<text transform="translate(314,58)" font-size="29" style="fill:rgb(66, 65, 134)">throne will</text>
+<text transform="translate(51,196)" font-size="29" style="fill:rgb(55, 184, 120)">will little</text>
+<text transform="translate(50,223)" font-size="29" style="fill:rgb(72, 41, 121)">torture unella</text>
+<text transform="translate(7,55)" font-size="27" style="fill:rgb(70, 51, 127)">discuss spoilers</text>
+<text transform="translate(562,811)" font-size="25" style="fill:rgb(60, 80, 139)">respondents say</text>
+<text transform="translate(13,382)" font-size="25" style="fill:rgb(62, 76, 138)">thrive world</text>
+<text transform="translate(626,146)" font-size="25" style="fill:rgb(72, 40, 120)">cersei kill</text>
+<text transform="translate(10,418)" font-size="25" style="fill:rgb(69, 5, 89)">likely survive</text>
+<text transform="translate(616,181)" font-size="25" style="fill:rgb(39, 126, 142)">run episodes</text>
+<text transform="translate(449,252)" font-size="25" style="fill:rgb(165, 219, 54)">septa unella</text>
+<text transform="translate(2,161)" font-size="24" style="fill:rgb(31, 158, 137)">world game throne</text>
+<text transform="translate(550,50)" font-size="22" style="fill:rgb(32, 146, 140)">expect game throne</text>
+<text transform="translate(470,587)" font-size="22" style="fill:rgb(66, 65, 134)">expect game</text>
+<text transform="translate(346,378)" font-size="22" style="fill:rgb(110, 206, 88)">world game</text>
+<text transform="translate(570,647)" font-size="21" style="fill:rgb(70, 11, 94)">check recap wind</text>
+<text transform="translate(587,433)" font-size="21" style="fill:rgb(41, 175, 127)">recap wind</text>
+<text transform="translate(1,504)" font-size="19" style="fill:rgb(70, 192, 111)">recap wind winter</text>
+<text transform="translate(256,437)" font-size="19" style="fill:rgb(66, 63, 133)">wind winter well</text>
+<text transform="translate(243,778)" font-size="19" style="fill:rgb(53, 94, 141)">winter well archive</text>
+<text transform="translate(5,772)" font-size="19" style="fill:rgb(72, 31, 112)">percent say</text>
+<text transform="translate(645,299)" font-size="19" style="fill:rgb(194, 223, 35)">movie open</text>
+<text transform="translate(7,439)" font-size="19" style="fill:rgb(41, 175, 127)">winter well</text>
+<text transform="translate(580,376)" font-size="19" style="fill:rgb(70, 50, 126)">david benioff weiss</text>
+<text transform="translate(685,272)" font-size="19" style="fill:rgb(72, 26, 108)">dig check</text>
+<text transform="translate(605,534)" font-size="19" style="fill:rgb(57, 85, 140)">dig check recap</text>
+<text transform="translate(535,485)" font-size="19" style="fill:rgb(221, 227, 24)">benioff weiss</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - July-2016 - Comm. 5 w. 5 documents</text>
+</svg>

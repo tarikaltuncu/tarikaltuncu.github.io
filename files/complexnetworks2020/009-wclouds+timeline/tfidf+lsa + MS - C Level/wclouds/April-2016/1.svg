@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAkwAAsAAAAACyAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PGNtYXAAAAIEAAAAQwAAAEwBTADLZ2FzcAAACSQAAAAMAAAADAAEAAdnbHlmAAACfAAABcMAAAc+vOix1mhlYWQAAAEIAAAANgAAADYBGGwiaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADQAAAA0CxwHV2xvY2EAAAJIAAAANAAAADQV2RfdbWF4cAAAAWAAAAAYAAAAIAAdADhuYW1lAAAIQAAAAMsAAAFoHBo1AHBvc3QAAAkMAAAAFgAAACD/aQBnAAEAAAABAAAzPiptXw889QALCAAAAAAAwcfpVAAAAADbZDmd//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQZDBnYGYAAUYGNAAACJcAVnicY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBgq2eT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRbwx9AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUA1wC8AFwAoABzAJ4BCADLAIsAoABS//wAYABSeJxjYGBgYmBgYAZiESDJCKZZGCyANBcDB1COiUGBIZOhgKHy/3+gmAJDIkM2Q9H///8f/l/4f8H/+WAdUAAAU1oODgAAAAAAAAAANABkAIoAuwDnAQwBWgF6AZ0BvgHVAgUCIwJMAn0CmwLKAu0DDAMnA1cDdgOfeJxVVQtMFFcUfXd2mN0igR32V4IGhulCKBLLLstWWlCrJnSF1BJEaizZIuKHxg9YDRKD1KxKt41FEAlWyi/URAtC6KZUtJIVPyVIiFCNTUoJlYaGKqGYWss8e98uVprMvNlJ9p577rnn3iEcOfZsiuf4XGIiEiFSjCwIclS0TWu22xLlKHVMktViNIgqtSAY9FZLkk1VZtZkNB1u7gbaP1v1zYprl8b7u5qutdysaq/9YN2FM5CuVa+dyqxwtl1VtFyYWlO4q7O5mnCkHvOsEfQklCwmxCyrZdEq6tVWxA8VtZwcpdIbrZGiVooSICvI7PJoNIV3bz2YuDlY7K4FLX145qjbLejp8XcrW+gInaUz9A73xngvtEJ9DyFALiC+GevQ4Ys6WmZQFrtBkCOJqCWShTen1uynn8GOsy1HvfQZ/RWiQN3Jy/XL6Ra6M7UhBWTQQhhEE+RagVjLfFyXMK6oCCdqQ60WkzXahrRllS1xPkOSqlyzd4jxvL0vKMhTJbtr6TSE1rqqvoI4CIJgiG8ol6Dr7yl4GjveSzfRvA6WwYUZ0pCtSIzIVwr1c41iXFEQg1nSSpF82txTDaz3trdef0zvQ8j4sDJHuRQ6Tf/gOFqR3rAOUwgQCHY6OypDAlPhC0L4TUIEMTBUURYlm9mWiBqbUJIowWCQeD0t9VAvpHQNlZfGbt9WmgMuVe/cClXvLsnZ2yafWJxfvJ0QFSmger4AGb5ClpIkRDOojQY9UoxhRmCmwFZF2xLtvjvan0RlYaYx6IEdUiSqxBdcWzVyxR6R33ip7Vul//74tNP1XsFIX/bKutGxMVjbMwEh4M7nHXvDNxxu/F54PSOr7gQ91lg5nLyscM968/mtnj690jPxaGacBl1vG81JYVU2YJXx2B8RHStqsRMicxMzE/5UHXhIBzweTeC2SXBxXuBpkXIDnWP5/BzdrViZ+n0YbxWCiQY7TMDiq8uWqDPbJDHAgJJxJTtXxBWG0D/BC865k5AjBBclLy8uUi4YSufW6ktL9YzFXURBS5JgfLGDFdBBah8RFZQdA/fPNJQLHKHZ5V1dWi62FiqoWamEJ5l0k6BXkugoIqBx+ThEeAkRXiTX01lf3krICXAZDj4t9SUEshn/XYwdiWRVJ/r6iem080+ric2S72ADO2RL3fhO46GstKay8MDVR5stQvqJw/s478miVq/SxGT58pFyg3dUn/N4uu+hLPOqIr52oaqmhaJWhf9PVBbtk5QjxejnHIxdxOYvYN7H7IxhY4I3l3ePTkLIxH0w0oe/QBK9Sfv1KBsPaniN/oAT+Re9fRpaoIE66Wa2L9B/axBxfgaNL2qc3xeGhQsDRy9cs2t44cKodbnLJRonJCHJ5wsjP9a/MS6i4KDBemV/vaCOXiAj5uDlhNKtzR2eaqMmva1sP5/QGt/drlzkHbcOFLDe989vzQhC7DbkgVaPeT4FDAvJmYz+genv7QBdXsdkyWjf9fNveiqmtnruuH//8UlCa3bT8qyVGyu3HD/jOJXmSnl7VcapD2vOI7qboQfsZlqa2QoT2RzrrKJkkETcwqq5jw/SGvoYFmXsAA91XH2/5pNIyOEO5SZABP2pQjni9U0JosTzDt+U4F5nMFZRy5Y482hdeOCOB7TEM9VY7cFlVckNKCl0rnuYS/7Hw6IzUZ0SjF6E0WDVGVEXnQ5NPkOdPdMbQgR17qPL1Mk7lH2/5S6FMO5TDINncxg1hFFhGKVSyezyx9p1/z1Vqvgja4RVxy6PNuVFmYQIs6u3LO5lIWJJQf0YlwUO2smEVsa+G+z+mntLueJtnjnNRfhZORF/p58VsJHzTR1elB4YxI0uD9KP4Oxt9NOtQc7KmWgB1CmTygB00XRWE3qK1YQ7F0uZpwPsixeDTbQk2e2ZPSBkqgXTaizOvLrzbHZmqsNZ+Goy8ika2LCnC8uMaWsXK4My82vIv2q2RJUAeJx9jkEOwVAURQ+KmFiAgfwFIIrEWEiMTEgMzKqkmkgrxYAFWIFN2IkFWYDb70uMpLnNfe/dd94HqqwoUfBqwE76+AJNVR9fpM7N+RID7s57P5kyLZ7OV2jwYkJMJJ2kK1s2GClQHciFpBy4kNnUTl3DQ+rR1TcUzTBVJtV0r23DWD7TTv4PLDUloaM7mVxs+QtNEo5yMztNmWs34ixGoNxIs1CdROmtakNb+k9Y2uTR3TP4upm/0bAWNxZ5Y7s+/R/Sl+MobytSNTcAeJxjYGYAg/9pDGlAipEBDQAAKf4B0AAAAAAAAgAFAAL//wAD")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(3,777)" font-size="108" style="fill:rgb(56, 88, 140)">minimum wage</text>
+<text transform="translate(138,605)" font-size="106" style="fill:rgb(32, 146, 140)">self drive</text>
+<text transform="translate(5,368)" font-size="102" style="fill:rgb(72, 38, 119)">san francisco</text>
+<text transform="translate(7,220)" font-size="94" style="fill:rgb(80, 196, 106)">silicon valley</text>
+<text transform="translate(2,465)" font-size="89" style="fill:rgb(36, 170, 131)">life expectancy</text>
+<text transform="translate(35,110)" font-size="87" style="fill:rgb(46, 109, 142)">climate change</text>
+<text transform="translate(246,661)" font-size="77" style="fill:rgb(31, 161, 136)">panama paper</text>
+<text transform="translate(404,264)" font-size="57" style="fill:rgb(69, 53, 129)">new york</text>
+<text transform="translate(150,819)" font-size="54" style="fill:rgb(170, 220, 50)">carbon dioxide</text>
+<text transform="translate(1,266)" font-size="45" style="fill:rgb(70, 7, 90)">social security</text>
+<text transform="translate(389,500)" font-size="45" style="fill:rgb(45, 113, 142)">family leave</text>
+<text transform="translate(2,513)" font-size="45" style="fill:rgb(31, 161, 135)">unite state</text>
+<text transform="translate(165,397)" font-size="35" style="fill:rgb(53, 183, 121)">federal government</text>
+<text transform="translate(48,661)" font-size="35" style="fill:rgb(35, 136, 142)">van hook</text>
+<text transform="translate(335,149)" font-size="35" style="fill:rgb(63, 72, 137)">health care</text>
+<text transform="translate(322,706)" font-size="35" style="fill:rgb(70, 50, 126)">fossil fuel</text>
+<text transform="translate(1,139)" font-size="35" style="fill:rgb(70, 50, 126)">drive cars</text>
+<text transform="translate(2,298)" font-size="35" style="fill:rgb(147, 215, 65)">breast feed</text>
+<text transform="translate(544,396)" font-size="35" style="fill:rgb(34, 139, 141)">interest rat</text>
+<text transform="translate(569,704)" font-size="31" style="fill:rgb(38, 130, 142)">clean energy</text>
+<text transform="translate(373,305)" font-size="31" style="fill:rgb(69, 5, 89)">carbon tax</text>
+<text transform="translate(599,293)" font-size="31" style="fill:rgb(246, 230, 32)">pay family</text>
+<text transform="translate(57,534)" font-size="27" style="fill:rgb(49, 181, 123)">yellow fever</text>
+<text transform="translate(8,681)" font-size="25" style="fill:rgb(48, 106, 142)">pay family leave</text>
+<text transform="translate(630,518)" font-size="24" style="fill:rgb(155, 217, 60)">carbon price</text>
+<text transform="translate(675,156)" font-size="24" style="fill:rgb(63, 72, 137)">will pay</text>
+<text transform="translate(604,55)" font-size="24" style="fill:rgb(61, 77, 138)">basic income</text>
+<text transform="translate(5,602)" font-size="24" style="fill:rgb(34, 139, 141)">bike share</text>
+<text transform="translate(9,807)" font-size="24" style="fill:rgb(78, 195, 107)">much more</text>
+<text transform="translate(10,623)" font-size="22" style="fill:rgb(59, 81, 139)">bipolar disorder</text>
+<text transform="translate(318,517)" font-size="22" style="fill:rgb(71, 14, 97)">self drive cars</text>
+<text transform="translate(305,160)" font-size="15" style="fill:rgb(32, 146, 140)">noncompete agreements</text>
+<text transform="translate(617,823)" font-size="15" style="fill:rgb(70, 11, 94)">postal service</text>
+<text transform="translate(235,127)" font-size="15" style="fill:rgb(31, 162, 135)">april fool</text>
+<text transform="translate(716,794)" font-size="15" style="fill:rgb(71, 47, 125)">bay area</text>
+<text transform="translate(292,478)" font-size="15" style="fill:rgb(69, 55, 129)">pay more</text>
+<text transform="translate(70,386)" font-size="15" style="fill:rgb(52, 97, 141)">coal plant</text>
+<text transform="translate(374,578)" font-size="15" style="fill:rgb(186, 222, 40)">ice cream</text>
+<text transform="translate(177,54)" font-size="15" style="fill:rgb(72, 33, 115)">business model</text>
+<text transform="translate(692,261)" font-size="15" style="fill:rgb(38, 130, 142)">coal lease</text>
+<text transform="translate(380,51)" font-size="15" style="fill:rgb(31, 161, 135)">severe obesity</text>
+<text transform="translate(29,556)" font-size="15" style="fill:rgb(72, 20, 103)">public health</text>
+<text transform="translate(391,586)" font-size="15" style="fill:rgb(41, 121, 142)">wage gap</text>
+<text transform="translate(682,408)" font-size="15" style="fill:rgb(69, 4, 87)">oil price</text>
+<text transform="translate(650,535)" font-size="15" style="fill:rgb(31, 162, 135)">sex parent</text>
+<text transform="translate(115,707)" font-size="15" style="fill:rgb(216, 226, 25)">people live</text>
+<text transform="translate(163,233)" font-size="15" style="fill:rgb(42, 119, 142)">petrobras scandal</text>
+<text transform="translate(239,144)" font-size="15" style="fill:rgb(176, 221, 47)">income tax</text>
+<text transform="translate(374,610)" font-size="15" style="fill:rgb(50, 182, 122)">net power</text>
+<text transform="translate(32,568)" font-size="15" style="fill:rgb(231, 228, 25)">teen birth</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - April-2016 - Comm. 1 w. 192 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(41,439)" font-size="83" style="fill:rgb(71, 14, 97)">executive order</text>
+<text transform="translate(185,559)" font-size="73" style="fill:rgb(47, 107, 142)">donald trump</text>
+<text transform="translate(14,329)" font-size="69" style="fill:rgb(70, 192, 111)">white house</text>
+<text transform="translate(14,714)" font-size="65" style="fill:rgb(44, 115, 142)">trump administration</text>
+<text transform="translate(3,174)" font-size="60" style="fill:rgb(101, 203, 94)">president donald trump</text>
+<text transform="translate(67,794)" font-size="60" style="fill:rgb(149, 216, 64)">president donald</text>
+<text transform="translate(190,633)" font-size="58" style="fill:rgb(31, 161, 135)">president trump</text>
+<text transform="translate(359,95)" font-size="53" style="fill:rgb(92, 200, 99)">trans people</text>
+<text transform="translate(444,249)" font-size="52" style="fill:rgb(70, 11, 94)">civil right</text>
+<text transform="translate(57,232)" font-size="52" style="fill:rgb(52, 182, 121)">bowl green</text>
+<text transform="translate(251,491)" font-size="50" style="fill:rgb(68, 58, 131)">unite state</text>
+<text transform="translate(4,96)" font-size="49" style="fill:rgb(31, 150, 139)">anti semitic</text>
+<text transform="translate(10,362)" font-size="39" style="fill:rgb(103, 204, 92)">gender identity</text>
+<text transform="translate(471,327)" font-size="39" style="fill:rgb(103, 204, 92)">anti semitism</text>
+<text transform="translate(466,372)" font-size="37" style="fill:rgb(51, 98, 141)">alt right</text>
+<text transform="translate(350,275)" font-size="32" style="fill:rgb(84, 197, 104)">national security</text>
+<text transform="translate(550,824)" font-size="32" style="fill:rgb(65, 66, 135)">black caucus</text>
+<text transform="translate(81,818)" font-size="30" style="fill:rgb(42, 176, 127)">trump executive order</text>
+<text transform="translate(11,587)" font-size="30" style="fill:rgb(218, 227, 25)">trump executive</text>
+<text transform="translate(300,582)" font-size="29" style="fill:rgb(41, 123, 142)">obama administration</text>
+<text transform="translate(1,462)" font-size="29" style="fill:rgb(59, 81, 139)">supreme court</text>
+<text transform="translate(35,744)" font-size="29" style="fill:rgb(49, 102, 142)">new york</text>
+<text transform="translate(431,196)" font-size="27" style="fill:rgb(68, 191, 112)">congressional black</text>
+<text transform="translate(344,735)" font-size="26" style="fill:rgb(71, 46, 124)">congressional black caucus</text>
+<text transform="translate(378,53)" font-size="26" style="fill:rgb(53, 95, 141)">federal civil right</text>
+<text transform="translate(24,257)" font-size="26" style="fill:rgb(34, 140, 141)">sean spicer</text>
+<text transform="translate(625,508)" font-size="26" style="fill:rgb(149, 216, 64)">muslim ban</text>
+<text transform="translate(174,121)" font-size="26" style="fill:rgb(47, 180, 124)">federal civil</text>
+<text transform="translate(11,489)" font-size="26" style="fill:rgb(41, 121, 142)">press secretary</text>
+<text transform="translate(598,475)" font-size="26" style="fill:rgb(37, 171, 130)">lgbtq people</text>
+<text transform="translate(213,658)" font-size="26" style="fill:rgb(35, 169, 131)">trans students</text>
+<text transform="translate(39,380)" font-size="24" style="fill:rgb(168, 219, 52)">attorney general</text>
+<text transform="translate(438,119)" font-size="24" style="fill:rgb(72, 27, 109)">set meet</text>
+<text transform="translate(435,651)" font-size="22" style="fill:rgb(241, 229, 29)">bowl green massacre</text>
+<text transform="translate(3,537)" font-size="22" style="fill:rgb(200, 224, 32)">green massacre</text>
+<text transform="translate(77,52)" font-size="22" style="fill:rgb(117, 208, 84)">law enforcement</text>
+<text transform="translate(199,192)" font-size="22" style="fill:rgb(64, 70, 136)">press conference</text>
+<text transform="translate(4,653)" font-size="19" style="fill:rgb(44, 115, 142)">homeland security</text>
+<text transform="translate(5,621)" font-size="19" style="fill:rgb(72, 28, 110)">jewish community</text>
+<text transform="translate(40,563)" font-size="19" style="fill:rgb(32, 147, 140)">bomb threats</text>
+<text transform="translate(242,510)" font-size="18" style="fill:rgb(72, 38, 119)">fake news</text>
+<text transform="translate(8,512)" font-size="18" style="fill:rgb(61, 77, 138)">white house press</text>
+<text transform="translate(662,764)" font-size="18" style="fill:rgb(46, 179, 124)">house press</text>
+<text transform="translate(223,738)" font-size="18" style="fill:rgb(45, 112, 142)">anti muslim</text>
+<text transform="translate(20,114)" font-size="18" style="fill:rgb(94, 201, 98)">jeff sessions</text>
+<text transform="translate(272,249)" font-size="18" style="fill:rgb(124, 210, 80)">super bowl</text>
+<text transform="translate(667,799)" font-size="18" style="fill:rgb(39, 173, 129)">town hall</text>
+<text transform="translate(598,124)" font-size="18" style="fill:rgb(44, 113, 142)">kellyanne conway</text>
+<text transform="translate(472,756)" font-size="18" style="fill:rgb(72, 40, 120)">last week</text>
+<text transform="translate(391,384)" font-size="16" style="fill:rgb(53, 95, 141)">press secretary sean</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.393939393939394" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - February-2017 - Comm. 4 w. 198 documents</text>
+</svg>

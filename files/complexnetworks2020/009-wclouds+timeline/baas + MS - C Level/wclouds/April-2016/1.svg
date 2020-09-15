@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,331)" font-size="88" style="fill:rgb(45, 178, 125)">gender identity</text>
+<text transform="translate(118,677)" font-size="87" style="fill:rgb(34, 168, 132)">trans people</text>
+<text transform="translate(75,578)" font-size="81" style="fill:rgb(213, 226, 26)">tax havens</text>
+<text transform="translate(77,247)" font-size="81" style="fill:rgb(37, 133, 142)">north carolina</text>
+<text transform="translate(169,764)" font-size="81" style="fill:rgb(31, 151, 139)">use bathroom</text>
+<text transform="translate(91,94)" font-size="78" style="fill:rgb(61, 77, 138)">san francisco</text>
+<text transform="translate(167,410)" font-size="77" style="fill:rgb(86, 198, 103)">supreme court</text>
+<text transform="translate(6,152)" font-size="75" style="fill:rgb(37, 131, 142)">shell company</text>
+<text transform="translate(173,497)" font-size="74" style="fill:rgb(33, 145, 140)">unite state</text>
+<text transform="translate(342,808)" font-size="56" style="fill:rgb(178, 221, 45)">minimum wage</text>
+<text transform="translate(21,807)" font-size="55" style="fill:rgb(54, 92, 141)">new york</text>
+<text transform="translate(179,609)" font-size="40" style="fill:rgb(170, 220, 50)">lgbtq people</text>
+<text transform="translate(15,708)" font-size="40" style="fill:rgb(50, 100, 142)">self drive</text>
+<text transform="translate(563,592)" font-size="39" style="fill:rgb(84, 197, 104)">people use</text>
+<text transform="translate(455,520)" font-size="29" style="fill:rgb(59, 187, 117)">federal government</text>
+<text transform="translate(608,152)" font-size="29" style="fill:rgb(36, 170, 131)">anti lgbtq</text>
+<text transform="translate(437,354)" font-size="29" style="fill:rgb(69, 56, 130)">life expectancy</text>
+<text transform="translate(313,434)" font-size="29" style="fill:rgb(137, 213, 72)">health care</text>
+<text transform="translate(27,180)" font-size="29" style="fill:rgb(200, 224, 32)">panama paper</text>
+<text transform="translate(56,354)" font-size="29" style="fill:rgb(144, 215, 67)">people use bathroom</text>
+<text transform="translate(499,432)" font-size="28" style="fill:rgb(165, 219, 54)">trans people use</text>
+<text transform="translate(23,444)" font-size="27" style="fill:rgb(31, 153, 138)">carbon dioxide</text>
+<text transform="translate(562,549)" font-size="27" style="fill:rgb(162, 218, 55)">silicon valley</text>
+<text transform="translate(416,194)" font-size="27" style="fill:rgb(49, 102, 142)">much more</text>
+<text transform="translate(4,270)" font-size="27" style="fill:rgb(44, 177, 126)">family leave</text>
+<text transform="translate(588,115)" font-size="24" style="fill:rgb(41, 121, 142)">social security</text>
+<text transform="translate(602,705)" font-size="24" style="fill:rgb(176, 221, 47)">sexual assault</text>
+<text transform="translate(20,754)" font-size="24" style="fill:rgb(149, 216, 64)">van hook</text>
+<text transform="translate(207,270)" font-size="22" style="fill:rgb(241, 229, 29)">climate change</text>
+<text transform="translate(231,172)" font-size="22" style="fill:rgb(63, 188, 115)">anti lgbtq law</text>
+<text transform="translate(5,463)" font-size="22" style="fill:rgb(194, 223, 35)">lgbtq law</text>
+<text transform="translate(656,488)" font-size="22" style="fill:rgb(72, 38, 119)">last year</text>
+<text transform="translate(42,511)" font-size="22" style="fill:rgb(94, 201, 98)">drive cars</text>
+<text transform="translate(2,598)" font-size="22" style="fill:rgb(52, 182, 121)">public health</text>
+<text transform="translate(12,391)" font-size="22" style="fill:rgb(119, 209, 83)">puerto rico</text>
+<text transform="translate(466,826)" font-size="22" style="fill:rgb(80, 196, 106)">anti abortion</text>
+<text transform="translate(503,623)" font-size="22" style="fill:rgb(34, 140, 141)">breast feed</text>
+<text transform="translate(672,171)" font-size="22" style="fill:rgb(68, 57, 131)">same sex</text>
+<text transform="translate(246,823)" font-size="18" style="fill:rgb(59, 187, 117)">transgender people</text>
+<text transform="translate(1,631)" font-size="18" style="fill:rgb(70, 48, 126)">pay family</text>
+<text transform="translate(293,525)" font-size="18" style="fill:rgb(132, 212, 75)">interest rat</text>
+<text transform="translate(6,768)" font-size="18" style="fill:rgb(39, 173, 129)">yellow fever</text>
+<text transform="translate(22,414)" font-size="18" style="fill:rgb(71, 13, 96)">black people</text>
+<text transform="translate(474,262)" font-size="18" style="fill:rgb(64, 69, 136)">pay family leave</text>
+<text transform="translate(4,726)" font-size="18" style="fill:rgb(68, 1, 84)">carbon price</text>
+<text transform="translate(654,188)" font-size="18" style="fill:rgb(115, 208, 86)">more likely</text>
+<text transform="translate(336,450)" font-size="18" style="fill:rgb(46, 109, 142)">court rule</text>
+<text transform="translate(136,529)" font-size="18" style="fill:rgb(213, 226, 26)">income tax</text>
+<text transform="translate(293,697)" font-size="18" style="fill:rgb(69, 56, 130)">basic income</text>
+<text transform="translate(66,44)" font-size="14" style="fill:rgb(127, 211, 78)">protections lgbtq people</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.694915254237287" style="fill:rgb(0, 0, 0)">baas + MS - C Level - April-2016 - Comm. 1 w. 270 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(43,672)" font-size="81" style="fill:rgb(61, 188, 116)">stranger things</text>
+<text transform="translate(221,463)" font-size="69" style="fill:rgb(49, 181, 123)">suicide squad</text>
+<text transform="translate(188,185)" font-size="51" style="fill:rgb(42, 120, 142)">simone biles</text>
+<text transform="translate(510,385)" font-size="50" style="fill:rgb(44, 115, 142)">team usa</text>
+<text transform="translate(84,82)" font-size="48" style="fill:rgb(68, 2, 86)">open ceremony</text>
+<text transform="translate(18,257)" font-size="46" style="fill:rgb(32, 163, 134)">test card</text>
+<text transform="translate(98,799)" font-size="45" style="fill:rgb(192, 223, 37)">nightly show</text>
+<text transform="translate(100,348)" font-size="45" style="fill:rgb(49, 102, 142)">olympic game</text>
+<text transform="translate(264,747)" font-size="44" style="fill:rgb(72, 31, 112)">todd vanderwerff</text>
+<text transform="translate(379,264)" font-size="44" style="fill:rgb(34, 139, 141)">gold medal</text>
+<text transform="translate(36,564)" font-size="41" style="fill:rgb(44, 114, 142)">rio olympics</text>
+<text transform="translate(467,810)" font-size="38" style="fill:rgb(40, 124, 142)">win gold</text>
+<text transform="translate(262,515)" font-size="37" style="fill:rgb(36, 134, 142)">britney spear</text>
+<text transform="translate(530,76)" font-size="37" style="fill:rgb(229, 228, 25)">curse child</text>
+<text transform="translate(148,391)" font-size="36" style="fill:rgb(236, 229, 27)">pete dragon</text>
+<text transform="translate(42,289)" font-size="36" style="fill:rgb(31, 159, 136)">social media</text>
+<text transform="translate(344,582)" font-size="36" style="fill:rgb(31, 154, 138)">get down</text>
+<text transform="translate(197,125)" font-size="36" style="fill:rgb(205, 225, 29)">available august</text>
+<text transform="translate(463,210)" font-size="35" style="fill:rgb(68, 59, 132)">women sport</text>
+<text transform="translate(131,611)" font-size="35" style="fill:rgb(213, 226, 26)">city god</text>
+<text transform="translate(1,509)" font-size="35" style="fill:rgb(31, 152, 139)">halt catch</text>
+<text transform="translate(478,545)" font-size="35" style="fill:rgb(52, 97, 141)">halt catch fire</text>
+<text transform="translate(561,293)" font-size="34" style="fill:rgb(72, 27, 109)">comic book</text>
+<text transform="translate(561,111)" font-size="34" style="fill:rgb(61, 77, 138)">jason steed</text>
+<text transform="translate(444,319)" font-size="34" style="fill:rgb(38, 130, 142)">women gymnastics</text>
+<text transform="translate(351,698)" font-size="33" style="fill:rgb(99, 203, 95)">vice principals</text>
+<text transform="translate(146,213)" font-size="33" style="fill:rgb(37, 132, 142)">women athletes</text>
+<text transform="translate(547,598)" font-size="33" style="fill:rgb(31, 150, 139)">meter race</text>
+<text transform="translate(460,768)" font-size="27" style="fill:rgb(72, 32, 113)">5thcircappeals august</text>
+<text transform="translate(486,144)" font-size="20" style="fill:rgb(241, 229, 29)">jason steed 5thcircappeals</text>
+<text transform="translate(41,688)" font-size="20" style="fill:rgb(70, 50, 126)">steed 5thcircappeals</text>
+<text transform="translate(463,400)" font-size="20" style="fill:rgb(244, 230, 30)">steed 5thcircappeals august</text>
+<text transform="translate(5,436)" font-size="20" style="fill:rgb(62, 73, 137)">gabby douglas</text>
+<text transform="translate(564,169)" font-size="20" style="fill:rgb(53, 95, 141)">drag race</text>
+<text transform="translate(366,605)" font-size="20" style="fill:rgb(72, 20, 103)">catch fire</text>
+<text transform="translate(45,728)" font-size="20" style="fill:rgb(47, 107, 142)">sausage party</text>
+<text transform="translate(612,496)" font-size="20" style="fill:rgb(38, 130, 142)">batman superman</text>
+<text transform="translate(634,248)" font-size="20" style="fill:rgb(31, 148, 140)">second season</text>
+<text transform="translate(470,484)" font-size="20" style="fill:rgb(205, 225, 29)">pop culture</text>
+<text transform="translate(2,605)" font-size="19" style="fill:rgb(43, 116, 142)">dick pics</text>
+<text transform="translate(10,161)" font-size="19" style="fill:rgb(38, 130, 142)">danny mcbride</text>
+<text transform="translate(692,179)" font-size="19" style="fill:rgb(31, 160, 136)">man sky</text>
+<text transform="translate(423,362)" font-size="19" style="fill:rgb(96, 202, 96)">new york</text>
+<text transform="translate(53,755)" font-size="19" style="fill:rgb(43, 117, 142)">leslie jones</text>
+<text transform="translate(647,562)" font-size="19" style="fill:rgb(46, 179, 124)">take wife</text>
+<text transform="translate(149,418)" font-size="19" style="fill:rgb(31, 158, 137)">little bite</text>
+<text transform="translate(405,286)" font-size="19" style="fill:rgb(69, 53, 129)">first episode</text>
+<text transform="translate(375,48)" font-size="19" style="fill:rgb(53, 183, 121)">warner bros</text>
+<text transform="translate(287,821)" font-size="19" style="fill:rgb(30, 155, 138)">richard price</text>
+<text transform="translate(621,340)" font-size="19" style="fill:rgb(70, 48, 126)">steven universe</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">baas + MS - C Level - August-2016 - Comm. 2 w. 179 documents</text>
+</svg>

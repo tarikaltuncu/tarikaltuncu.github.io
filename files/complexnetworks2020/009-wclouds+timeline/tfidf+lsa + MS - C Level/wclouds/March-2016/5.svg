@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(68,310)" font-size="80" style="fill:rgb(170, 220, 50)">george martin</text>
+<text transform="translate(191,613)" font-size="52" style="fill:rgb(35, 136, 142)">beatles producer</text>
+<text transform="translate(165,504)" font-size="51" style="fill:rgb(38, 130, 142)">think george martin</text>
+<text transform="translate(175,221)" font-size="47" style="fill:rgb(69, 5, 89)">think george</text>
+<text transform="translate(266,754)" font-size="44" style="fill:rgb(181, 222, 43)">game throne</text>
+<text transform="translate(384,678)" font-size="43" style="fill:rgb(59, 187, 117)">great game</text>
+<text transform="translate(463,343)" font-size="42" style="fill:rgb(155, 217, 60)">die finish</text>
+<text transform="translate(351,142)" font-size="42" style="fill:rgb(162, 218, 55)">george martin die</text>
+<text transform="translate(278,68)" font-size="42" style="fill:rgb(236, 229, 27)">george martin pass</text>
+<text transform="translate(329,412)" font-size="42" style="fill:rgb(33, 165, 133)">martin die</text>
+<text transform="translate(276,550)" font-size="42" style="fill:rgb(112, 207, 87)">martin pass</text>
+<text transform="translate(500,186)" font-size="41" style="fill:rgb(49, 181, 123)">bran stark</text>
+<text transform="translate(262,812)" font-size="33" style="fill:rgb(90, 200, 100)">ahead borrow</text>
+<text transform="translate(22,365)" font-size="33" style="fill:rgb(236, 229, 27)">ahead borrow word</text>
+<text transform="translate(308,443)" font-size="33" style="fill:rgb(35, 136, 142)">allegedly trailer</text>
+<text transform="translate(38,103)" font-size="33" style="fill:rgb(30, 156, 137)">allegedly trailer hint</text>
+<text transform="translate(10,159)" font-size="33" style="fill:rgb(45, 113, 142)">along see cersei</text>
+<text transform="translate(33,663)" font-size="33" style="fill:rgb(56, 185, 119)">amongst thousands</text>
+<text transform="translate(363,366)" font-size="30" style="fill:rgb(31, 161, 136)">amongst thousands people</text>
+<text transform="translate(15,699)" font-size="30" style="fill:rgb(71, 17, 100)">baratheon victory</text>
+<text transform="translate(405,778)" font-size="29" style="fill:rgb(31, 148, 140)">baratheon victory along</text>
+<text transform="translate(643,675)" font-size="29" style="fill:rgb(31, 161, 135)">bleak set</text>
+<text transform="translate(7,245)" font-size="29" style="fill:rgb(70, 48, 126)">bleak set plaintive</text>
+<text transform="translate(513,209)" font-size="29" style="fill:rgb(71, 47, 125)">book season base</text>
+<text transform="translate(10,402)" font-size="29" style="fill:rgb(34, 139, 141)">borrow word tyrion</text>
+<text transform="translate(440,710)" font-size="29" style="fill:rgb(96, 202, 96)">bran stark allegedly</text>
+<text transform="translate(12,59)" font-size="29" style="fill:rgb(63, 188, 115)">bran stark look</text>
+<text transform="translate(43,433)" font-size="29" style="fill:rgb(31, 162, 135)">brothers stab</text>
+<text transform="translate(448,640)" font-size="29" style="fill:rgb(231, 228, 25)">brothers stab season</text>
+<text transform="translate(616,547)" font-size="29" style="fill:rgb(42, 119, 142)">brows see</text>
+<text transform="translate(25,783)" font-size="29" style="fill:rgb(32, 163, 134)">brows see jon</text>
+<text transform="translate(47,743)" font-size="29" style="fill:rgb(50, 101, 142)">calmly smirk</text>
+<text transform="translate(512,819)" font-size="25" style="fill:rgb(52, 97, 141)">calmly smirk choose</text>
+<text transform="translate(38,454)" font-size="25" style="fill:rgb(35, 136, 142)">character westeros</text>
+<text transform="translate(148,174)" font-size="20" style="fill:rgb(152, 216, 62)">character westeros question</text>
+<text transform="translate(376,466)" font-size="20" style="fill:rgb(110, 206, 88)">choose violence trailer</text>
+<text transform="translate(495,96)" font-size="20" style="fill:rgb(197, 224, 33)">circle collarbone</text>
+<text transform="translate(155,629)" font-size="20" style="fill:rgb(31, 158, 137)">circle collarbone see</text>
+<text transform="translate(531,226)" font-size="20" style="fill:rgb(70, 52, 128)">clarke walk</text>
+<text transform="translate(30,534)" font-size="20" style="fill:rgb(186, 222, 40)">clarke walk amongst</text>
+<text transform="translate(625,748)" font-size="20" style="fill:rgb(49, 103, 142)">collarbone see</text>
+<text transform="translate(548,564)" font-size="20" style="fill:rgb(122, 209, 81)">collarbone see red</text>
+<text transform="translate(646,423)" font-size="20" style="fill:rgb(52, 97, 141)">confirm need</text>
+<text transform="translate(53,128)" font-size="20" style="fill:rgb(60, 80, 139)">confirm need more</text>
+<text transform="translate(46,812)" font-size="20" style="fill:rgb(69, 55, 129)">cousin loras</text>
+<text transform="translate(11,554)" font-size="20" style="fill:rgb(71, 17, 100)">cousin loras calmly</text>
+<text transform="translate(426,251)" font-size="20" style="fill:rgb(50, 182, 122)">dany emilia</text>
+<text transform="translate(579,390)" font-size="20" style="fill:rgb(30, 156, 137)">dany emilia clarke</text>
+<text transform="translate(673,247)" font-size="20" style="fill:rgb(72, 29, 111)">days bran</text>
+<text transform="translate(2,580)" font-size="20" style="fill:rgb(134, 213, 73)">days bran stark</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - March-2016 - Comm. 5 w. 2 documents</text>
+</svg>

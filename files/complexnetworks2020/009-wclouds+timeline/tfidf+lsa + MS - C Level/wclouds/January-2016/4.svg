@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(11,379)" font-size="100" style="fill:rgb(57, 85, 140)">make murderer</text>
+<text transform="translate(56,515)" font-size="98" style="fill:rgb(65, 68, 135)">force awaken</text>
+<text transform="translate(18,690)" font-size="97" style="fill:rgb(39, 126, 142)">star war</text>
+<text transform="translate(23,583)" font-size="88" style="fill:rgb(32, 146, 140)">motion picture</text>
+<text transform="translate(39,787)" font-size="87" style="fill:rgb(30, 156, 137)">golden globes</text>
+<text transform="translate(93,112)" font-size="85" style="fill:rgb(55, 91, 141)">best picture</text>
+<text transform="translate(106,247)" font-size="82" style="fill:rgb(33, 166, 133)">david bowie</text>
+<text transform="translate(151,431)" font-size="67" style="fill:rgb(35, 138, 141)">big short</text>
+<text transform="translate(507,164)" font-size="58" style="fill:rgb(69, 55, 129)">mad max</text>
+<text transform="translate(159,294)" font-size="52" style="fill:rgb(57, 85, 140)">golden globe</text>
+<text transform="translate(513,682)" font-size="52" style="fill:rgb(157, 217, 59)">fury road</text>
+<text transform="translate(1,163)" font-size="45" style="fill:rgb(45, 178, 125)">angie tribeca</text>
+<text transform="translate(476,618)" font-size="44" style="fill:rgb(66, 190, 113)">mad max fury</text>
+<text transform="translate(539,418)" font-size="44" style="fill:rgb(244, 230, 30)">max fury</text>
+<text transform="translate(107,615)" font-size="37" style="fill:rgb(72, 28, 110)">max fury road</text>
+<text transform="translate(77,709)" font-size="23" style="fill:rgb(56, 89, 140)">make murderer makingamurderer</text>
+<text transform="translate(456,818)" font-size="23" style="fill:rgb(31, 150, 139)">makingamurderer january</text>
+<text transform="translate(90,805)" font-size="22" style="fill:rgb(46, 111, 142)">murderer makingamurderer</text>
+<text transform="translate(269,449)" font-size="17" style="fill:rgb(70, 10, 93)">murderer makingamurderer january</text>
+<text transform="translate(537,280)" font-size="16" style="fill:rgb(69, 4, 87)">crazy girlfriend</text>
+<text transform="translate(266,180)" font-size="16" style="fill:rgb(39, 173, 129)">comic book</text>
+<text transform="translate(449,181)" font-size="16" style="fill:rgb(43, 117, 142)">amy schumer</text>
+<text transform="translate(663,52)" font-size="16" style="fill:rgb(117, 208, 84)">mozart jungle</text>
+<text transform="translate(555,311)" font-size="16" style="fill:rgb(33, 145, 140)">available jan</text>
+<text transform="translate(28,824)" font-size="16" style="fill:rgb(31, 152, 139)">hateful eight</text>
+<text transform="translate(429,127)" font-size="16" style="fill:rgb(72, 37, 118)">war force awaken</text>
+<text transform="translate(505,633)" font-size="16" style="fill:rgb(72, 41, 121)">outstanding performance</text>
+<text transform="translate(345,320)" font-size="16" style="fill:rgb(96, 202, 96)">war force</text>
+<text transform="translate(632,710)" font-size="16" style="fill:rgb(30, 156, 137)">star war force</text>
+<text transform="translate(261,823)" font-size="16" style="fill:rgb(253, 231, 37)">television series</text>
+<text transform="translate(595,187)" font-size="16" style="fill:rgb(40, 174, 128)">space oddity</text>
+<text transform="translate(108,51)" font-size="16" style="fill:rgb(69, 55, 129)">available watch</text>
+<text transform="translate(649,215)" font-size="16" style="fill:rgb(96, 202, 96)">best actress</text>
+<text transform="translate(9,398)" font-size="16" style="fill:rgb(65, 66, 135)">yankee doodle</text>
+<text transform="translate(579,731)" font-size="16" style="fill:rgb(72, 38, 119)">white people meet</text>
+<text transform="translate(672,128)" font-size="16" style="fill:rgb(35, 138, 141)">iron fist</text>
+<text transform="translate(13,606)" font-size="16" style="fill:rgb(88, 199, 101)">last jedi</text>
+<text transform="translate(689,249)" font-size="16" style="fill:rgb(38, 173, 129)">secret war</text>
+<text transform="translate(11,729)" font-size="16" style="fill:rgb(55, 184, 120)">ricky gervais</text>
+<text transform="translate(19,208)" font-size="16" style="fill:rgb(70, 48, 126)">steve job</text>
+<text transform="translate(611,450)" font-size="16" style="fill:rgb(39, 126, 142)">sylvester stallone</text>
+<text transform="translate(416,149)" font-size="16" style="fill:rgb(46, 111, 142)">last year</text>
+<text transform="translate(527,50)" font-size="16" style="fill:rgb(192, 223, 37)">people color</text>
+<text transform="translate(298,51)" font-size="16" style="fill:rgb(112, 207, 87)">danish girl</text>
+<text transform="translate(124,177)" font-size="16" style="fill:rgb(50, 101, 142)">comedy musical</text>
+<text transform="translate(490,710)" font-size="16" style="fill:rgb(194, 223, 35)">princess leia</text>
+<text transform="translate(237,308)" font-size="16" style="fill:rgb(244, 230, 30)">true crime</text>
+<text transform="translate(371,632)" font-size="16" style="fill:rgb(53, 95, 141)">box office</text>
+<text transform="translate(691,313)" font-size="16" style="fill:rgb(32, 164, 134)">new girl</text>
+<text transform="translate(609,263)" font-size="16" style="fill:rgb(200, 224, 32)">oscar nominations</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.393939393939394" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - January-2016 - Comm. 4 w. 155 documents</text>
+</svg>

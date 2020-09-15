@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(12,688)" font-size="71" style="fill:rgb(37, 133, 142)">justice department</text>
+<text transform="translate(68,290)" font-size="67" style="fill:rgb(33, 145, 140)">supreme court</text>
+<text transform="translate(168,764)" font-size="63" style="fill:rgb(160, 218, 57)">lgbtq people</text>
+<text transform="translate(137,141)" font-size="62" style="fill:rgb(49, 104, 142)">hate crimes</text>
+<text transform="translate(233,381)" font-size="58" style="fill:rgb(205, 225, 29)">sexual assault</text>
+<text transform="translate(250,212)" font-size="57" style="fill:rgb(51, 99, 141)">rikelman say</text>
+<text transform="translate(121,483)" font-size="57" style="fill:rgb(39, 128, 142)">criminal justice</text>
+<text transform="translate(423,588)" font-size="57" style="fill:rgb(71, 44, 122)">civil right</text>
+<text transform="translate(264,71)" font-size="50" style="fill:rgb(58, 84, 140)">medical marijuana</text>
+<text transform="translate(138,565)" font-size="49" style="fill:rgb(69, 4, 87)">roe wade</text>
+<text transform="translate(288,429)" font-size="48" style="fill:rgb(35, 137, 142)">stand rock</text>
+<text transform="translate(217,813)" font-size="43" style="fill:rgb(34, 139, 141)">marijuana legalization</text>
+<text transform="translate(555,122)" font-size="43" style="fill:rgb(59, 82, 139)">same sex</text>
+<text transform="translate(88,621)" font-size="43" style="fill:rgb(35, 137, 142)">overturn roe</text>
+<text transform="translate(389,527)" font-size="39" style="fill:rgb(48, 105, 142)">same sex marriage</text>
+<text transform="translate(50,519)" font-size="39" style="fill:rgb(37, 131, 142)">sex marriage</text>
+<text transform="translate(383,319)" font-size="37" style="fill:rgb(49, 102, 142)">police departments</text>
+<text transform="translate(70,242)" font-size="37" style="fill:rgb(35, 138, 141)">obama administration</text>
+<text transform="translate(2,333)" font-size="35" style="fill:rgb(35, 136, 142)">state legalize</text>
+<text transform="translate(10,196)" font-size="34" style="fill:rgb(66, 63, 133)">trans people</text>
+<text transform="translate(2,411)" font-size="33" style="fill:rgb(48, 106, 142)">justice reform</text>
+<text transform="translate(405,618)" font-size="33" style="fill:rgb(56, 89, 140)">police officer</text>
+<text transform="translate(406,163)" font-size="28" style="fill:rgb(72, 24, 106)">criminal justice reform</text>
+<text transform="translate(21,429)" font-size="22" style="fill:rgb(35, 138, 141)">trump administration</text>
+<text transform="translate(4,50)" font-size="22" style="fill:rgb(51, 99, 141)">federal government</text>
+<text transform="translate(96,162)" font-size="22" style="fill:rgb(72, 36, 117)">ballot initiatives</text>
+<text transform="translate(1,811)" font-size="22" style="fill:rgb(70, 51, 127)">gender identity</text>
+<text transform="translate(28,79)" font-size="22" style="fill:rgb(31, 148, 140)">legalize marijuana</text>
+<text transform="translate(500,705)" font-size="21" style="fill:rgb(223, 227, 24)">federal civil right</text>
+<text transform="translate(580,426)" font-size="21" style="fill:rgb(43, 116, 142)">public health</text>
+<text transform="translate(207,581)" font-size="21" style="fill:rgb(33, 142, 141)">federal civil</text>
+<text transform="translate(8,370)" font-size="21" style="fill:rgb(248, 230, 33)">president elect</text>
+<text transform="translate(606,281)" font-size="21" style="fill:rgb(46, 110, 142)">donald trump</text>
+<text transform="translate(12,735)" font-size="21" style="fill:rgb(236, 229, 27)">election day</text>
+<text transform="translate(246,99)" font-size="21" style="fill:rgb(72, 22, 104)">chief wahoo</text>
+<text transform="translate(156,706)" font-size="21" style="fill:rgb(35, 137, 142)">law enforcement</text>
+<text transform="translate(629,740)" font-size="21" style="fill:rgb(35, 138, 141)">trump appoint</text>
+<text transform="translate(5,560)" font-size="21" style="fill:rgb(170, 220, 50)">ohio state</text>
+<text transform="translate(599,246)" font-size="21" style="fill:rgb(239, 229, 28)">prison sentence</text>
+<text transform="translate(576,399)" font-size="21" style="fill:rgb(239, 229, 28)">marriage equality</text>
+<text transform="translate(1,781)" font-size="20" style="fill:rgb(52, 97, 141)">civil right laws</text>
+<text transform="translate(660,183)" font-size="20" style="fill:rgb(152, 216, 62)">right laws</text>
+<text transform="translate(412,633)" font-size="20" style="fill:rgb(38, 130, 142)">pregnant women</text>
+<text transform="translate(653,768)" font-size="20" style="fill:rgb(72, 193, 110)">state vote</text>
+<text transform="translate(26,585)" font-size="20" style="fill:rgb(144, 215, 67)">death penalty</text>
+<text transform="translate(425,86)" font-size="19" style="fill:rgb(144, 215, 67)">transgender people</text>
+<text transform="translate(615,441)" font-size="19" style="fill:rgb(31, 151, 139)">state marijuana</text>
+<text transform="translate(307,720)" font-size="18" style="fill:rgb(31, 162, 135)">attorney general</text>
+<text transform="translate(452,497)" font-size="17" style="fill:rgb(134, 213, 73)">protect lgbtq people</text>
+<text transform="translate(555,136)" font-size="17" style="fill:rgb(69, 53, 129)">massachusetts nevada</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.393939393939394" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - November-2016 - Comm. 3 w. 36 documents</text>
+</svg>

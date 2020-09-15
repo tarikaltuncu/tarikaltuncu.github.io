@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(24,716)" font-size="85" style="fill:rgb(31, 158, 137)">plan parenthood</text>
+<text transform="translate(93,527)" font-size="78" style="fill:rgb(103, 204, 92)">syrian refugees</text>
+<text transform="translate(89,259)" font-size="74" style="fill:rgb(31, 153, 138)">paris attack</text>
+<text transform="translate(212,140)" font-size="70" style="fill:rgb(197, 224, 33)">attack paris</text>
+<text transform="translate(114,617)" font-size="69" style="fill:rgb(76, 194, 108)">terrorist attack</text>
+<text transform="translate(88,393)" font-size="69" style="fill:rgb(200, 224, 32)">police officer</text>
+<text transform="translate(475,779)" font-size="64" style="fill:rgb(72, 41, 121)">van dyke</text>
+<text transform="translate(106,307)" font-size="58" style="fill:rgb(70, 8, 92)">university missouri</text>
+<text transform="translate(187,786)" font-size="55" style="fill:rgb(94, 201, 98)">yik yak</text>
+<text transform="translate(337,63)" font-size="53" style="fill:rgb(44, 113, 142)">same sex</text>
+<text transform="translate(155,440)" font-size="53" style="fill:rgb(74, 193, 109)">domestic terrorism</text>
+<text transform="translate(26,180)" font-size="51" style="fill:rgb(244, 230, 30)">liberty counsel</text>
+<text transform="translate(112,649)" font-size="40" style="fill:rgb(152, 216, 62)">japanese americans</text>
+<text transform="translate(27,63)" font-size="40" style="fill:rgb(68, 59, 132)">islamic state</text>
+<text transform="translate(523,174)" font-size="39" style="fill:rgb(31, 159, 136)">live matter</text>
+<text transform="translate(529,336)" font-size="37" style="fill:rgb(45, 112, 142)">black people</text>
+<text transform="translate(374,822)" font-size="37" style="fill:rgb(70, 8, 92)">black live matter</text>
+<text transform="translate(276,556)" font-size="37" style="fill:rgb(47, 180, 124)">black live</text>
+<text transform="translate(268,470)" font-size="29" style="fill:rgb(34, 167, 133)">colorado spring</text>
+<text transform="translate(10,87)" font-size="27" style="fill:rgb(72, 37, 118)">french president</text>
+<text transform="translate(9,825)" font-size="27" style="fill:rgb(55, 184, 120)">abortion clinics</text>
+<text transform="translate(3,773)" font-size="27" style="fill:rgb(72, 36, 117)">black black</text>
+<text transform="translate(118,328)" font-size="26" style="fill:rgb(63, 71, 136)">college students</text>
+<text transform="translate(543,638)" font-size="24" style="fill:rgb(68, 59, 132)">president françois</text>
+<text transform="translate(300,733)" font-size="21" style="fill:rgb(44, 177, 126)">president françois hollande</text>
+<text transform="translate(7,197)" font-size="21" style="fill:rgb(173, 220, 48)">new york</text>
+<text transform="translate(6,461)" font-size="21" style="fill:rgb(47, 107, 142)">françois hollande</text>
+<text transform="translate(270,197)" font-size="20" style="fill:rgb(30, 157, 137)">french president françois</text>
+<text transform="translate(2,114)" font-size="20" style="fill:rgb(68, 59, 132)">anti abortion</text>
+<text transform="translate(5,134)" font-size="20" style="fill:rgb(31, 152, 139)">ben carson</text>
+<text transform="translate(577,191)" font-size="20" style="fill:rgb(59, 82, 139)">criminal justice</text>
+<text transform="translate(584,461)" font-size="20" style="fill:rgb(72, 38, 119)">hostage situation</text>
+<text transform="translate(241,343)" font-size="20" style="fill:rgb(50, 100, 142)">success academy</text>
+<text transform="translate(661,255)" font-size="20" style="fill:rgb(241, 229, 29)">nuh nuh</text>
+<text transform="translate(542,79)" font-size="20" style="fill:rgb(46, 179, 124)">charter school</text>
+<text transform="translate(267,78)" font-size="18" style="fill:rgb(144, 215, 67)">criminal justice system</text>
+<text transform="translate(10,342)" font-size="18" style="fill:rgb(38, 173, 129)">state emergency</text>
+<text transform="translate(543,561)" font-size="18" style="fill:rgb(40, 174, 128)">justice system</text>
+<text transform="translate(93,560)" font-size="18" style="fill:rgb(72, 40, 120)">unite state</text>
+<text transform="translate(93,736)" font-size="18" style="fill:rgb(86, 198, 103)">black communities</text>
+<text transform="translate(588,210)" font-size="18" style="fill:rgb(251, 231, 35)">relate paris attack</text>
+<text transform="translate(26,432)" font-size="18" style="fill:rgb(46, 111, 142)">sex couple</text>
+<text transform="translate(654,379)" font-size="18" style="fill:rgb(70, 11, 94)">hunger strike</text>
+<text transform="translate(19,793)" font-size="18" style="fill:rgb(41, 175, 127)">relate paris</text>
+<text transform="translate(423,664)" font-size="18" style="fill:rgb(72, 31, 112)">civil war</text>
+<text transform="translate(619,658)" font-size="18" style="fill:rgb(76, 194, 108)">rice family</text>
+<text transform="translate(670,224)" font-size="18" style="fill:rgb(34, 167, 133)">isis attack</text>
+<text transform="translate(610,54)" font-size="18" style="fill:rgb(64, 69, 136)">chicago police</text>
+<text transform="translate(486,93)" font-size="18" style="fill:rgb(63, 72, 137)">accord french</text>
+<text transform="translate(179,661)" font-size="15" style="fill:rgb(72, 35, 116)">claim responsibility</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.393939393939394" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - November-2015 - Comm. 4 w. 154 documents</text>
+</svg>

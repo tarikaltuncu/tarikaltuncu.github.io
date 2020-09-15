@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(71,635)" font-size="94" style="fill:rgb(234, 229, 26)">game throne</text>
+<text transform="translate(356,250)" font-size="61" style="fill:rgb(62, 73, 137)">jon snow</text>
+<text transform="translate(249,729)" font-size="53" style="fill:rgb(34, 141, 141)">george martin</text>
+<text transform="translate(187,813)" font-size="46" style="fill:rgb(68, 57, 131)">wind winter</text>
+<text transform="translate(32,131)" font-size="44" style="fill:rgb(64, 189, 114)">benioff weiss</text>
+<text transform="translate(343,179)" font-size="43" style="fill:rgb(173, 220, 48)">white walkers</text>
+<text transform="translate(149,424)" font-size="39" style="fill:rgb(31, 152, 139)">battle bastards</text>
+<text transform="translate(514,396)" font-size="39" style="fill:rgb(45, 112, 142)">high sparrow</text>
+<text transform="translate(317,343)" font-size="39" style="fill:rgb(210, 226, 27)">ramsay bolton</text>
+<text transform="translate(131,682)" font-size="36" style="fill:rgb(31, 160, 136)">king land</text>
+<text transform="translate(235,496)" font-size="34" style="fill:rgb(71, 17, 100)">ice fire</text>
+<text transform="translate(413,79)" font-size="34" style="fill:rgb(144, 215, 67)">night watch</text>
+<text transform="translate(10,77)" font-size="34" style="fill:rgb(202, 225, 31)">david benioff</text>
+<text transform="translate(347,537)" font-size="33" style="fill:rgb(68, 58, 131)">dance dragons</text>
+<text transform="translate(434,765)" font-size="33" style="fill:rgb(39, 126, 142)">song ice</text>
+<text transform="translate(84,546)" font-size="33" style="fill:rgb(223, 227, 24)">song ice fire</text>
+<text transform="translate(404,665)" font-size="32" style="fill:rgb(49, 104, 142)">game throne season</text>
+<text transform="translate(301,300)" font-size="32" style="fill:rgb(66, 64, 134)">throne season</text>
+<text transform="translate(77,352)" font-size="31" style="fill:rgb(47, 108, 142)">iron throne</text>
+<text transform="translate(550,287)" font-size="31" style="fill:rgb(82, 197, 105)">arya stark</text>
+<text transform="translate(418,481)" font-size="31" style="fill:rgb(55, 90, 140)">lady stoneheart</text>
+<text transform="translate(254,450)" font-size="31" style="fill:rgb(74, 193, 109)">david benioff weiss</text>
+<text transform="translate(261,381)" font-size="31" style="fill:rgb(42, 119, 142)">martin book</text>
+<text transform="translate(433,118)" font-size="31" style="fill:rgb(229, 228, 25)">seven kingdoms</text>
+<text transform="translate(20,273)" font-size="31" style="fill:rgb(127, 211, 78)">faceless men</text>
+<text transform="translate(7,457)" font-size="31" style="fill:rgb(40, 125, 142)">plot line</text>
+<text transform="translate(627,528)" font-size="30" style="fill:rgb(45, 178, 125)">red wed</text>
+<text transform="translate(24,208)" font-size="30" style="fill:rgb(76, 194, 108)">season game throne</text>
+<text transform="translate(6,820)" font-size="30" style="fill:rgb(226, 228, 24)">red woman</text>
+<text transform="translate(48,737)" font-size="30" style="fill:rgb(38, 173, 129)">season game</text>
+<text transform="translate(1,171)" font-size="30" style="fill:rgb(46, 111, 142)">book stranger</text>
+<text transform="translate(405,202)" font-size="30" style="fill:rgb(69, 55, 129)">todd vanderwerff</text>
+<text transform="translate(24,314)" font-size="30" style="fill:rgb(72, 24, 106)">ned stark</text>
+<text transform="translate(31,768)" font-size="29" style="fill:rgb(31, 150, 139)">showrunners david</text>
+<text transform="translate(423,564)" font-size="25" style="fill:rgb(32, 163, 134)">showrunners david benioff</text>
+<text transform="translate(577,824)" font-size="25" style="fill:rgb(239, 229, 28)">sixth season</text>
+<text transform="translate(186,569)" font-size="25" style="fill:rgb(60, 79, 138)">sansa stark</text>
+<text transform="translate(642,78)" font-size="24" style="fill:rgb(48, 105, 142)">bran stark</text>
+<text transform="translate(136,246)" font-size="24" style="fill:rgb(33, 165, 133)">book readers</text>
+<text transform="translate(643,801)" font-size="24" style="fill:rgb(115, 208, 86)">book show</text>
+<text transform="translate(1,500)" font-size="24" style="fill:rgb(223, 227, 24)">alex abad santos</text>
+<text transform="translate(505,500)" font-size="24" style="fill:rgb(32, 146, 140)">alex abad</text>
+<text transform="translate(607,759)" font-size="24" style="fill:rgb(72, 33, 115)">abad santos</text>
+<text transform="translate(6,387)" font-size="24" style="fill:rgb(49, 104, 142)">back season</text>
+<text transform="translate(7,709)" font-size="24" style="fill:rgb(170, 220, 50)">sand snake</text>
+<text transform="translate(641,143)" font-size="24" style="fill:rgb(30, 157, 137)">dorne plot</text>
+<text transform="translate(638,327)" font-size="24" style="fill:rgb(70, 50, 126)">lord light</text>
+<text transform="translate(363,691)" font-size="24" style="fill:rgb(43, 117, 142)">season finale</text>
+<text transform="translate(640,432)" font-size="24" style="fill:rgb(49, 103, 142)">three eye</text>
+<text transform="translate(391,135)" font-size="22" style="fill:rgb(80, 196, 106)">three eye raven</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="18.823529411764707" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - Training subset - Comm. 5 w. 78 documents</text>
+</svg>

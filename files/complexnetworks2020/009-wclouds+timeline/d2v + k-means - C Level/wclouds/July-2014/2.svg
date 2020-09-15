@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(37,705)" font-size="61" style="fill:rgb(72, 32, 113)">reform conservatism</text>
+<text transform="translate(353,504)" font-size="49" style="fill:rgb(96, 202, 96)">people fund</text>
+<text transform="translate(40,604)" font-size="45" style="fill:rgb(46, 110, 142)">center responsive</text>
+<text transform="translate(93,132)" font-size="45" style="fill:rgb(234, 229, 26)">center responsive politics</text>
+<text transform="translate(83,234)" font-size="45" style="fill:rgb(50, 100, 142)">responsive politics</text>
+<text transform="translate(164,398)" font-size="44" style="fill:rgb(200, 224, 32)">sue president</text>
+<text transform="translate(21,797)" font-size="42" style="fill:rgb(82, 197, 105)">members congress</text>
+<text transform="translate(317,290)" font-size="41" style="fill:rgb(94, 201, 98)">dark money</text>
+<text transform="translate(113,79)" font-size="41" style="fill:rgb(66, 190, 113)">much much more</text>
+<text transform="translate(277,739)" font-size="40" style="fill:rgb(34, 168, 132)">campaign finance</text>
+<text transform="translate(234,341)" font-size="40" style="fill:rgb(38, 130, 142)">reform conservatives</text>
+<text transform="translate(20,168)" font-size="39" style="fill:rgb(168, 219, 52)">flight ban</text>
+<text transform="translate(163,440)" font-size="37" style="fill:rgb(39, 127, 142)">tea party</text>
+<text transform="translate(375,549)" font-size="37" style="fill:rgb(72, 24, 106)">mccain feingold</text>
+<text transform="translate(201,660)" font-size="37" style="fill:rgb(68, 191, 112)">bill wouldn</text>
+<text transform="translate(365,437)" font-size="37" style="fill:rgb(34, 139, 141)">big donors matter</text>
+<text transform="translate(329,176)" font-size="37" style="fill:rgb(72, 31, 112)">donations big donors</text>
+<text transform="translate(420,780)" font-size="35" style="fill:rgb(31, 154, 138)">donors matter much</text>
+<text transform="translate(418,815)" font-size="29" style="fill:rgb(246, 230, 32)">fund american politics</text>
+<text transform="translate(16,555)" font-size="29" style="fill:rgb(42, 120, 142)">minority people fund</text>
+<text transform="translate(1,296)" font-size="29" style="fill:rgb(117, 208, 84)">much more small</text>
+<text transform="translate(7,485)" font-size="29" style="fill:rgb(92, 200, 99)">people fund american</text>
+<text transform="translate(1,518)" font-size="29" style="fill:rgb(69, 55, 129)">people fund campaign</text>
+<text transform="translate(484,73)" font-size="29" style="fill:rgb(31, 159, 136)">politics much much</text>
+<text transform="translate(560,392)" font-size="29" style="fill:rgb(34, 140, 141)">much much</text>
+<text transform="translate(407,254)" font-size="22" style="fill:rgb(56, 89, 140)">contribute political campaign</text>
+<text transform="translate(214,193)" font-size="22" style="fill:rgb(205, 225, 29)">matter much much</text>
+<text transform="translate(606,590)" font-size="22" style="fill:rgb(47, 108, 142)">small donors</text>
+<text transform="translate(539,642)" font-size="22" style="fill:rgb(184, 222, 41)">house republicans</text>
+<text transform="translate(57,814)" font-size="22" style="fill:rgb(132, 212, 75)">donations big</text>
+<text transform="translate(34,361)" font-size="22" style="fill:rgb(59, 187, 117)">more politically polarize</text>
+<text transform="translate(148,766)" font-size="22" style="fill:rgb(112, 207, 87)">more small donors</text>
+<text transform="translate(597,225)" font-size="22" style="fill:rgb(200, 224, 32)">law professor</text>
+<text transform="translate(224,96)" font-size="22" style="fill:rgb(34, 141, 141)">hillary clinton</text>
+<text transform="translate(29,737)" font-size="22" style="fill:rgb(208, 225, 28)">donors matter</text>
+<text transform="translate(14,315)" font-size="22" style="fill:rgb(142, 214, 69)">fund american</text>
+<text transform="translate(502,614)" font-size="22" style="fill:rgb(160, 218, 57)">small minority people</text>
+<text transform="translate(587,294)" font-size="22" style="fill:rgb(194, 223, 35)">public finance</text>
+<text transform="translate(483,455)" font-size="22" style="fill:rgb(56, 185, 119)">american politics much</text>
+<text transform="translate(20,263)" font-size="22" style="fill:rgb(66, 65, 134)">contribute political</text>
+<text transform="translate(320,309)" font-size="22" style="fill:rgb(223, 227, 24)">republicans vote</text>
+<text transform="translate(38,621)" font-size="22" style="fill:rgb(61, 188, 116)">child migrant crisis</text>
+<text transform="translate(596,358)" font-size="22" style="fill:rgb(45, 112, 142)">cruz only need</text>
+<text transform="translate(7,333)" font-size="22" style="fill:rgb(38, 129, 142)">child migrant</text>
+<text transform="translate(41,198)" font-size="22" style="fill:rgb(42, 176, 127)">fund campaign</text>
+<text transform="translate(555,88)" font-size="19" style="fill:rgb(160, 218, 57)">much more politically</text>
+<text transform="translate(10,383)" font-size="19" style="fill:rgb(72, 23, 105)">say senior</text>
+<text transform="translate(8,647)" font-size="19" style="fill:rgb(44, 114, 142)">american politics</text>
+<text transform="translate(540,200)" font-size="19" style="fill:rgb(72, 28, 110)">ridiculous time believe</text>
+<text transform="translate(19,456)" font-size="19" style="fill:rgb(68, 57, 131)">seem ridiculous time</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - July-2014 - Comm. 2 w. 12 documents</text>
+</svg>

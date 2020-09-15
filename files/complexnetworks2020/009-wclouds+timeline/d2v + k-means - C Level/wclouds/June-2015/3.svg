@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(68,326)" font-size="87" style="fill:rgb(155, 217, 60)">jurassic world</text>
+<text transform="translate(189,511)" font-size="75" style="fill:rgb(35, 169, 131)">game throne</text>
+<text transform="translate(206,796)" font-size="69" style="fill:rgb(56, 88, 140)">true detective</text>
+<text transform="translate(115,370)" font-size="57" style="fill:rgb(35, 169, 131)">white walkers</text>
+<text transform="translate(208,610)" font-size="55" style="fill:rgb(44, 114, 142)">dance dragons</text>
+<text transform="translate(21,99)" font-size="50" style="fill:rgb(41, 175, 127)">night watch</text>
+<text transform="translate(532,446)" font-size="48" style="fill:rgb(41, 122, 142)">jon snow</text>
+<text transform="translate(75,197)" font-size="48" style="fill:rgb(90, 200, 100)">orange new black</text>
+<text transform="translate(275,669)" font-size="48" style="fill:rgb(251, 231, 35)">orange new</text>
+<text transform="translate(534,95)" font-size="47" style="fill:rgb(241, 229, 29)">new black</text>
+<text transform="translate(356,236)" font-size="45" style="fill:rgb(90, 200, 100)">culture editor</text>
+<text transform="translate(304,136)" font-size="44" style="fill:rgb(31, 152, 139)">season finale</text>
+<text transform="translate(12,709)" font-size="43" style="fill:rgb(157, 217, 59)">benioff weiss</text>
+<text transform="translate(19,419)" font-size="43" style="fill:rgb(32, 147, 140)">kung fury</text>
+<text transform="translate(429,707)" font-size="43" style="fill:rgb(103, 204, 92)">second season</text>
+<text transform="translate(440,550)" font-size="43" style="fill:rgb(56, 185, 119)">trap queen</text>
+<text transform="translate(20,241)" font-size="42" style="fill:rgb(194, 223, 35)">jurassic park</text>
+<text transform="translate(269,437)" font-size="42" style="fill:rgb(61, 77, 138)">comic book</text>
+<text transform="translate(47,739)" font-size="40" style="fill:rgb(32, 163, 134)">charlie charlie</text>
+<text transform="translate(4,158)" font-size="40" style="fill:rgb(38, 173, 129)">first season</text>
+<text transform="translate(5,651)" font-size="40" style="fill:rgb(55, 91, 141)">spider man</text>
+<text transform="translate(576,382)" font-size="40" style="fill:rgb(33, 145, 140)">plot line</text>
+<text transform="translate(24,460)" font-size="40" style="fill:rgb(68, 2, 86)">inside out</text>
+<text transform="translate(56,558)" font-size="38" style="fill:rgb(58, 84, 140)">david benioff</text>
+<text transform="translate(433,735)" font-size="37" style="fill:rgb(72, 26, 108)">todd vanderwerff</text>
+<text transform="translate(250,824)" font-size="35" style="fill:rgb(181, 222, 43)">detective season</text>
+<text transform="translate(416,262)" font-size="32" style="fill:rgb(137, 213, 72)">entourage movie</text>
+<text transform="translate(36,583)" font-size="32" style="fill:rgb(241, 229, 29)">fun home</text>
+<text transform="translate(397,58)" font-size="32" style="fill:rgb(168, 219, 52)">third season</text>
+<text transform="translate(7,54)" font-size="28" style="fill:rgb(50, 100, 142)">true detective season</text>
+<text transform="translate(611,666)" font-size="28" style="fill:rgb(30, 155, 138)">neural net</text>
+<text transform="translate(44,785)" font-size="28" style="fill:rgb(71, 44, 122)">jen trolio</text>
+<text transform="translate(573,165)" font-size="28" style="fill:rgb(72, 29, 111)">angry bird</text>
+<text transform="translate(288,395)" font-size="28" style="fill:rgb(72, 26, 108)">curious incident</text>
+<text transform="translate(611,636)" font-size="28" style="fill:rgb(34, 168, 132)">alex ada</text>
+<text transform="translate(16,813)" font-size="28" style="fill:rgb(229, 228, 25)">dick tracy</text>
+<text transform="translate(247,630)" font-size="25" style="fill:rgb(69, 53, 129)">season premiere</text>
+<text transform="translate(201,271)" font-size="25" style="fill:rgb(49, 104, 142)">neko atsume</text>
+<text transform="translate(641,586)" font-size="25" style="fill:rgb(236, 229, 27)">fight pit</text>
+<text transform="translate(540,194)" font-size="25" style="fill:rgb(78, 195, 107)">hannibal lecter</text>
+<text transform="translate(22,608)" font-size="25" style="fill:rgb(236, 229, 27)">dick costolo</text>
+<text transform="translate(7,505)" font-size="25" style="fill:rgb(35, 136, 142)">mother mercy</text>
+<text transform="translate(603,407)" font-size="25" style="fill:rgb(49, 102, 142)">george martin</text>
+<text transform="translate(612,816)" font-size="25" style="fill:rgb(68, 2, 86)">white walker</text>
+<text transform="translate(115,124)" font-size="25" style="fill:rgb(30, 157, 137)">image credit</text>
+<text transform="translate(1,475)" font-size="20" style="fill:rgb(44, 113, 142)">angry bird space</text>
+<text transform="translate(665,128)" font-size="20" style="fill:rgb(55, 90, 140)">bird space</text>
+<text transform="translate(351,101)" font-size="20" style="fill:rgb(72, 28, 110)">magic mike</text>
+<text transform="translate(365,74)" font-size="20" style="fill:rgb(72, 37, 118)">julia child</text>
+<text transform="translate(629,340)" font-size="20" style="fill:rgb(39, 173, 129)">more more</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - June-2015 - Comm. 3 w. 152 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(31,750)" font-size="84" style="fill:rgb(49, 102, 142)">cheer applause</text>
+<text transform="translate(363,246)" font-size="69" style="fill:rgb(41, 121, 142)">white lash</text>
+<text transform="translate(203,607)" font-size="68" style="fill:rgb(74, 193, 109)">donald trump</text>
+<text transform="translate(81,525)" font-size="65" style="fill:rgb(50, 101, 142)">intelligent people</text>
+<text transform="translate(54,425)" font-size="64" style="fill:rgb(72, 26, 108)">thank very</text>
+<text transform="translate(99,674)" font-size="61" style="fill:rgb(170, 220, 50)">tell kid</text>
+<text transform="translate(246,153)" font-size="60" style="fill:rgb(101, 203, 94)">want child</text>
+<text transform="translate(8,296)" font-size="57" style="fill:rgb(234, 229, 26)">most intelligent people</text>
+<text transform="translate(334,358)" font-size="56" style="fill:rgb(39, 173, 129)">nawaz sharif</text>
+<text transform="translate(209,82)" font-size="55" style="fill:rgb(72, 26, 108)">most intelligent</text>
+<text transform="translate(62,226)" font-size="55" style="fill:rgb(221, 227, 24)">rule law</text>
+<text transform="translate(10,803)" font-size="42" style="fill:rgb(58, 83, 139)">particularly minority americans</text>
+<text transform="translate(2,350)" font-size="42" style="fill:rgb(31, 151, 139)">say tonight</text>
+<text transform="translate(11,461)" font-size="42" style="fill:rgb(51, 98, 141)">sense inclusion</text>
+<text transform="translate(406,663)" font-size="42" style="fill:rgb(56, 89, 140)">thank very much</text>
+<text transform="translate(566,409)" font-size="42" style="fill:rgb(49, 181, 123)">more say</text>
+<text transform="translate(462,445)" font-size="42" style="fill:rgb(246, 230, 32)">prose poem</text>
+<text transform="translate(435,178)" font-size="32" style="fill:rgb(56, 88, 140)">president elect</text>
+<text transform="translate(30,106)" font-size="30" style="fill:rgb(57, 86, 140)">campaign want know</text>
+<text transform="translate(2,139)" font-size="29" style="fill:rgb(72, 24, 106)">prime minister</text>
+<text transform="translate(9,161)" font-size="29" style="fill:rgb(32, 146, 140)">race religions</text>
+<text transform="translate(264,177)" font-size="29" style="fill:rgb(41, 175, 127)">want thank</text>
+<text transform="translate(230,377)" font-size="24" style="fill:rgb(65, 68, 135)">particularly minority</text>
+<text transform="translate(24,561)" font-size="24" style="fill:rgb(241, 229, 29)">back more say</text>
+<text transform="translate(491,474)" font-size="24" style="fill:rgb(117, 208, 84)">count let bring</text>
+<text transform="translate(10,51)" font-size="24" style="fill:rgb(56, 89, 140)">get vote count</text>
+<text transform="translate(558,691)" font-size="24" style="fill:rgb(72, 29, 111)">know want person</text>
+<text transform="translate(3,613)" font-size="24" style="fill:rgb(181, 222, 43)">let bring home</text>
+<text transform="translate(628,112)" font-size="24" style="fill:rgb(55, 184, 120)">let get vote</text>
+<text transform="translate(130,692)" font-size="22" style="fill:rgb(31, 149, 139)">say tonight goodnight</text>
+<text transform="translate(542,821)" font-size="22" style="fill:rgb(30, 155, 138)">tonight goodnight</text>
+<text transform="translate(326,822)" font-size="22" style="fill:rgb(234, 229, 26)">vote count let</text>
+<text transform="translate(68,820)" font-size="22" style="fill:rgb(86, 198, 103)">claim victory</text>
+<text transform="translate(512,768)" font-size="22" style="fill:rgb(115, 208, 86)">easy clinton</text>
+<text transform="translate(25,242)" font-size="20" style="fill:rgb(168, 219, 52)">jacob javits convention</text>
+<text transform="translate(524,557)" font-size="20" style="fill:rgb(31, 161, 135)">corner country say</text>
+<text transform="translate(572,375)" font-size="20" style="fill:rgb(218, 227, 25)">country say voice</text>
+<text transform="translate(387,97)" font-size="18" style="fill:rgb(170, 220, 50)">half bring together</text>
+<text transform="translate(401,622)" font-size="18" style="fill:rgb(40, 174, 128)">millions people corner</text>
+<text transform="translate(83,539)" font-size="17" style="fill:rgb(30, 157, 137)">people corner country</text>
+<text transform="translate(4,579)" font-size="17" style="fill:rgb(210, 226, 27)">say voice believe</text>
+<text transform="translate(138,766)" font-size="17" style="fill:rgb(40, 124, 142)">voice believe american</text>
+<text transform="translate(608,134)" font-size="17" style="fill:rgb(80, 196, 106)">year half bring</text>
+<text transform="translate(667,621)" font-size="17" style="fill:rgb(181, 222, 43)">men women</text>
+<text transform="translate(307,310)" font-size="17" style="fill:rgb(189, 223, 38)">dream big</text>
+<text transform="translate(37,185)" font-size="17" style="fill:rgb(71, 14, 97)">count let</text>
+<text transform="translate(22,72)" font-size="17" style="fill:rgb(149, 216, 64)">american dream big</text>
+<text transform="translate(88,310)" font-size="16" style="fill:rgb(37, 133, 142)">big enough everyone</text>
+<text transform="translate(206,624)" font-size="16" style="fill:rgb(72, 36, 117)">cherish value too</text>
+<text transform="translate(397,538)" font-size="15" style="fill:rgb(53, 94, 141)">dream big enough</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">baas + MS - C Level - November-2016 - Comm. 4 w. 12 documents</text>
+</svg>

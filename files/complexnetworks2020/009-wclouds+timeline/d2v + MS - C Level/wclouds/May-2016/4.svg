@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(79,752)" font-size="98" style="fill:rgb(72, 20, 103)">trans people</text>
+<text transform="translate(14,380)" font-size="82" style="fill:rgb(65, 66, 135)">gender identity</text>
+<text transform="translate(230,585)" font-size="76" style="fill:rgb(45, 112, 142)">use bathroom</text>
+<text transform="translate(85,508)" font-size="65" style="fill:rgb(37, 133, 142)">north carolina</text>
+<text transform="translate(60,82)" font-size="60" style="fill:rgb(70, 11, 94)">transgender people</text>
+<text transform="translate(85,241)" font-size="59" style="fill:rgb(70, 7, 90)">people use bathroom</text>
+<text transform="translate(167,149)" font-size="59" style="fill:rgb(216, 226, 25)">trans people use</text>
+<text transform="translate(79,428)" font-size="56" style="fill:rgb(186, 222, 40)">anti lgbtq</text>
+<text transform="translate(206,663)" font-size="54" style="fill:rgb(181, 222, 43)">let trans</text>
+<text transform="translate(87,793)" font-size="52" style="fill:rgb(70, 51, 127)">people use</text>
+<text transform="translate(83,294)" font-size="51" style="fill:rgb(68, 58, 131)">federal civil right</text>
+<text transform="translate(395,818)" font-size="51" style="fill:rgb(35, 138, 141)">federal civil</text>
+<text transform="translate(428,433)" font-size="39" style="fill:rgb(71, 16, 99)">people bathrooms</text>
+<text transform="translate(512,661)" font-size="39" style="fill:rgb(56, 88, 140)">locker room</text>
+<text transform="translate(5,178)" font-size="37" style="fill:rgb(72, 26, 108)">civil right</text>
+<text transform="translate(378,613)" font-size="36" style="fill:rgb(229, 228, 25)">let trans people</text>
+<text transform="translate(497,177)" font-size="35" style="fill:rgb(181, 222, 43)">anti lgbtq law</text>
+<text transform="translate(29,574)" font-size="35" style="fill:rgb(170, 220, 50)">lgbtq law</text>
+<text transform="translate(91,608)" font-size="29" style="fill:rgb(40, 125, 142)">criminal justice</text>
+<text transform="translate(136,685)" font-size="27" style="fill:rgb(49, 102, 142)">align gender identity</text>
+<text transform="translate(83,534)" font-size="27" style="fill:rgb(62, 74, 137)">obama administration</text>
+<text transform="translate(11,452)" font-size="25" style="fill:rgb(46, 179, 124)">sexual orientation</text>
+<text transform="translate(617,452)" font-size="25" style="fill:rgb(56, 89, 140)">align gender</text>
+<text transform="translate(625,503)" font-size="25" style="fill:rgb(35, 137, 142)">right laws</text>
+<text transform="translate(251,183)" font-size="25" style="fill:rgb(70, 192, 111)">civil right laws</text>
+<text transform="translate(603,529)" font-size="25" style="fill:rgb(129, 211, 77)">lgbtq people</text>
+<text transform="translate(75,821)" font-size="20" style="fill:rgb(33, 142, 141)">orientation gender identity</text>
+<text transform="translate(486,684)" font-size="20" style="fill:rgb(160, 218, 57)">ferguson effect</text>
+<text transform="translate(277,101)" font-size="20" style="fill:rgb(244, 230, 30)">orientation gender</text>
+<text transform="translate(192,309)" font-size="18" style="fill:rgb(155, 217, 60)">sexual orientation gender</text>
+<text transform="translate(19,623)" font-size="17" style="fill:rgb(44, 115, 142)">sex discrimination</text>
+<text transform="translate(24,98)" font-size="17" style="fill:rgb(41, 122, 142)">bathroom align gender</text>
+<text transform="translate(445,394)" font-size="17" style="fill:rgb(62, 73, 137)">bathroom gender identity</text>
+<text transform="translate(618,101)" font-size="17" style="fill:rgb(67, 62, 133)">bathroom align</text>
+<text transform="translate(17,655)" font-size="17" style="fill:rgb(68, 59, 132)">bathroom gender</text>
+<text transform="translate(256,465)" font-size="14" style="fill:rgb(33, 145, 140)">transgender people bathrooms</text>
+<text transform="translate(278,201)" font-size="14" style="fill:rgb(41, 123, 142)">affirmative action</text>
+<text transform="translate(635,473)" font-size="14" style="fill:rgb(43, 116, 142)">use bathroom align</text>
+<text transform="translate(15,115)" font-size="14" style="fill:rgb(112, 207, 87)">use bathroom gender</text>
+<text transform="translate(667,201)" font-size="14" style="fill:rgb(68, 59, 132)">bathroom locker</text>
+<text transform="translate(13,313)" font-size="14" style="fill:rgb(72, 37, 118)">bathroom locker room</text>
+<text transform="translate(659,766)" font-size="14" style="fill:rgb(37, 131, 142)">justice system</text>
+<text transform="translate(1,130)" font-size="14" style="fill:rgb(41, 122, 142)">protect trans</text>
+<text transform="translate(183,45)" font-size="14" style="fill:rgb(31, 154, 138)">use bathroom locker</text>
+<text transform="translate(60,326)" font-size="14" style="fill:rgb(229, 228, 25)">bathrooms locker</text>
+<text transform="translate(40,466)" font-size="14" style="fill:rgb(32, 146, 140)">bathrooms locker room</text>
+<text transform="translate(668,266)" font-size="14" style="fill:rgb(46, 110, 142)">final club</text>
+<text transform="translate(672,289)" font-size="14" style="fill:rgb(56, 185, 119)">supreme court</text>
+<text transform="translate(34,198)" font-size="14" style="fill:rgb(32, 164, 134)">administration guidance</text>
+<text transform="translate(626,633)" font-size="14" style="fill:rgb(69, 55, 129)">more likely</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="23.272727272727273" style="fill:rgb(0, 0, 0)">d2v + MS - C Level - May-2016 - Comm. 4 w. 68 documents</text>
+</svg>

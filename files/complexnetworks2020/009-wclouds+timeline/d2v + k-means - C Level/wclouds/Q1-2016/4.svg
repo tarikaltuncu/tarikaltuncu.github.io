@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(8,640)" font-size="105" style="fill:rgb(192, 223, 37)">donald trump</text>
+<text transform="translate(13,495)" font-size="98" style="fill:rgb(51, 99, 141)">supreme court</text>
+<text transform="translate(314,286)" font-size="82" style="fill:rgb(92, 200, 99)">same sex</text>
+<text transform="translate(97,354)" font-size="77" style="fill:rgb(38, 130, 142)">new york</text>
+<text transform="translate(165,715)" font-size="75" style="fill:rgb(48, 106, 142)">live matter</text>
+<text transform="translate(49,775)" font-size="73" style="fill:rgb(56, 185, 119)">law enforcement</text>
+<text transform="translate(120,143)" font-size="72" style="fill:rgb(241, 229, 29)">black live</text>
+<text transform="translate(35,224)" font-size="71" style="fill:rgb(58, 83, 139)">black live matter</text>
+<text transform="translate(87,417)" font-size="56" style="fill:rgb(181, 222, 43)">plan parenthood</text>
+<text transform="translate(13,281)" font-size="55" style="fill:rgb(39, 126, 142)">trump say</text>
+<text transform="translate(213,546)" font-size="54" style="fill:rgb(37, 171, 130)">sexual assault</text>
+<text transform="translate(448,72)" font-size="49" style="fill:rgb(58, 186, 118)">lgbtq people</text>
+<text transform="translate(162,811)" font-size="46" style="fill:rgb(30, 155, 138)">police officer</text>
+<text transform="translate(499,340)" font-size="45" style="fill:rgb(48, 105, 142)">trump rally</text>
+<text transform="translate(18,67)" font-size="45" style="fill:rgb(88, 199, 101)">criminal justice</text>
+<text transform="translate(546,136)" font-size="30" style="fill:rgb(86, 198, 103)">justice system</text>
+<text transform="translate(630,811)" font-size="29" style="fill:rgb(40, 124, 142)">fox news</text>
+<text transform="translate(374,167)" font-size="28" style="fill:rgb(231, 228, 25)">black people</text>
+<text transform="translate(499,569)" font-size="28" style="fill:rgb(42, 120, 142)">hillary clinton</text>
+<text transform="translate(5,813)" font-size="27" style="fill:rgb(44, 113, 142)">year old</text>
+<text transform="translate(610,378)" font-size="27" style="fill:rgb(58, 186, 118)">unite state</text>
+<text transform="translate(307,662)" font-size="27" style="fill:rgb(65, 66, 135)">white house</text>
+<text transform="translate(6,543)" font-size="25" style="fill:rgb(46, 111, 142)">trump campaign</text>
+<text transform="translate(577,163)" font-size="25" style="fill:rgb(170, 220, 50)">north carolina</text>
+<text transform="translate(573,101)" font-size="22" style="fill:rgb(127, 211, 78)">same sex marriage</text>
+<text transform="translate(2,704)" font-size="22" style="fill:rgb(157, 217, 59)">sex marriage</text>
+<text transform="translate(599,414)" font-size="22" style="fill:rgb(96, 202, 96)">gender identity</text>
+<text transform="translate(155,567)" font-size="22" style="fill:rgb(31, 148, 140)">ted cruz</text>
+<text transform="translate(536,304)" font-size="22" style="fill:rgb(253, 231, 37)">new york time</text>
+<text transform="translate(14,663)" font-size="22" style="fill:rgb(37, 133, 142)">york time</text>
+<text transform="translate(641,705)" font-size="22" style="fill:rgb(54, 92, 141)">civil right</text>
+<text transform="translate(31,245)" font-size="22" style="fill:rgb(33, 165, 133)">saudi arabia</text>
+<text transform="translate(547,662)" font-size="22" style="fill:rgb(44, 177, 126)">more likely</text>
+<text transform="translate(224,161)" font-size="22" style="fill:rgb(54, 93, 141)">state union</text>
+<text transform="translate(416,435)" font-size="22" style="fill:rgb(157, 217, 59)">bernie sanders</text>
+<text transform="translate(62,162)" font-size="22" style="fill:rgb(103, 204, 92)">north korea</text>
+<text transform="translate(74,80)" font-size="16" style="fill:rgb(68, 1, 84)">federal government</text>
+<text transform="translate(237,824)" font-size="16" style="fill:rgb(229, 228, 25)">racial disparities</text>
+<text transform="translate(26,369)" font-size="16" style="fill:rgb(165, 219, 54)">terrorist attack</text>
+<text transform="translate(534,824)" font-size="16" style="fill:rgb(223, 227, 24)">criminal justice system</text>
+<text transform="translate(26,677)" font-size="16" style="fill:rgb(53, 95, 141)">washington post</text>
+<text transform="translate(48,307)" font-size="16" style="fill:rgb(38, 130, 142)">sexual orientation</text>
+<text transform="translate(280,80)" font-size="16" style="fill:rgb(69, 53, 129)">republican debate</text>
+<text transform="translate(98,431)" font-size="16" style="fill:rgb(31, 148, 140)">trump supporters</text>
+<text transform="translate(353,368)" font-size="16" style="fill:rgb(30, 157, 137)">anti abortion</text>
+<text transform="translate(645,509)" font-size="16" style="fill:rgb(44, 177, 126)">president obama</text>
+<text transform="translate(78,727)" font-size="15" style="fill:rgb(63, 188, 115)">president barack obama</text>
+<text transform="translate(446,508)" font-size="15" style="fill:rgb(58, 186, 118)">president barack</text>
+<text transform="translate(244,306)" font-size="15" style="fill:rgb(231, 228, 25)">attack brussels</text>
+<text transform="translate(691,536)" font-size="15" style="fill:rgb(137, 213, 72)">police kill</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q1-2016 - Comm. 4 w. 517 documents</text>
+</svg>

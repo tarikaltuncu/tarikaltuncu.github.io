@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAkIAAsAAAAACugAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PGNtYXAAAAIEAAAARwAAAFQBGAGYZ2FzcAAACPwAAAAMAAAADAAEAAdnbHlmAAACgAAABZcAAAcA7YWkl2hlYWQAAAEIAAAANgAAADYBGHE4aGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADIAAAAyCw4HBWxvY2EAAAJMAAAAMgAAADIV4xQ+bWF4cAAAAWAAAAAYAAAAIAAcADhuYW1lAAAIGAAAAMsAAAFoHBo1AHBvc3QAAAjkAAAAFgAAACD/aQBnAAEAAAABAADSdkHZXw889QALCAAAAAAAwcfpVAAAAADbZD6z//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQYDBnYGYAAUYGNAAACHwAVXicY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBgq2eT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRbwx9AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUA1wC8AFwAoABzAJ4BCADLAIsAoABS//wAUgAAeJxjYGBgYmBgYAZiESDJCKZZGByANA8DB1COhUGBIZOhgKGcofL/f6CoAkMiQzZDEYj3/+H/hf8X/J//fx5YHxwAANXgEKcAAAAAAAAAADQAZACKALsA5wEMAVoBegGdAb4B1QIFAiMCTAJ9ApsCygLtAwwDJwNXA4AAAHicVVULTFNnFP7P7eW2QwK99DWCBtq7QhgSR0vbyQbOqQmrkDmCyIwjHSI+WHyA0WBjkJmKrFscgkh0Ml5hJjoQwpox0UkqPkbUEGEal4wRJosLU8Iwc673d+cvdbLk3v/2Jvd85zvf+c4p4Uj1syme4wuJgRgJMSZKgiCZEmxqs8OWJpmUiXarRa8TFUpB0GmtFrtNUWlW5bQeaOsDOjRb982yy+cnhnpbL7dfq+tq/HD12ZOQrVaumsqtcXVektVcjFJVur2nrZ5wpAnzrBS0JJosJMQsKSXRKmqVVsSPFtWcZFJo9dZ4UW00CZAXYfb4VKrSO9fvT167Ve5tBDV9ePKQ1yto6eH3atvpKJ2lM/Q298bEAHRAUz8hQM4ivhnr0OCLMkFiUBaHTpDiiagmRgtvzmzYQz+DrafaD/npM/ormEDZw0tNS+lGui2zOQMkUEMMJBDkWoNYS4JcFzGuqAgnqqOtFoM1wYa0JYUtLZTBrqhS7RpmPG/ujojw1UneRjoN0Y2euq8gGSIgElKaq4zQ+/cUPE2aGKDraVE3y+DBDFnIViR65GuMnuNqYlxREJ3ZqDbG81mBpypY4+/quPKY3oOoiRE5QLkMOk3/4Dhak928GlMIEA4OOjsmQSpT4QtC+PVCHNExVFESjTazLQ01NqAkJkGnM/Ja6vZRP2T0Dle5k7ZsdheARzEQWKYY2G50DXRKRxYWl28hREFKqJYvQYavkMXEjmg6pV6nRYqJzAjMFNiqBFuaI3gnzCVRWJhpdFpghzEeVeJLLi8fveiIK2453/mtPHRvYtrleb9kdDD/rRNj4+Owqn8SosBbzDt3xa490PK98HpO3okjtLqldiR9SenONeYzm3yDWrl/8tHMBI240jlWkMGqbMYqU7A/IjpWVGMnROYmZib8qdj7kN7w+VThmx+Ah/MDT8vkq+gcy+en6Q7ZytQfxHirEElU2GEClmBdtjSN2WYUw3QoGVexbVlyaRT9E/zgChyFAiGyLH1peZl8VucOrNK63VrG4g6ioCVJJL44wAroIGWQiAIqq8H7M43mwkdpflVvr5pLaoQaapZr4UkuXS9oZTsdQwQ0Lp+MCC8hwovkWjobzFsLBWEe3b6n7mBCIBvw63LsSDyrOi3YT0ynDj2tBjZLwYMN7LAtc927LfvzslorY8NXHGqzCNlHDuzm/EfLOvxyK5Ply0fyVd5Zf9rn67uLsoRURXz1fFUN80Wti/2fqCw6KClHytHPBRi7gM1fWMjH7ExkY4I3V3SXPoCoyXugpw9/ATu9Roe0KBsPSniN/oAT+Re9eRzaoZm66Aa2L9B/KxExNIP6FzWG9oVu/sLA0YtVbR+ZvzAaPd4qI00W7Ejy+cIoTprbGOdQcFBhvdJcvaBMmCcj5uClVPemtm5fvV6V3Vm5h0/tSOnrks/xzut7S1jvh0JbM44Qhw15oNUTn08Bw0JyBv3cwAwNdIOmqPtBxdjglTNv+mqmNvlue3//8UlqR37r0ry31tVuPHzSeSzLk/HO8pxjHzWcQXQvQw/bwbQ0sxUmsjnWWEWjzijiFlYEPt5HG+hjWJCzFXzUeemDhk/ioYDbX5gKcfSnGvmgPzgliJLCO4NTgnudwVhFNVvizKMnYsO33qcVvqmWeh8uq1ruhpxBA30jXPo/Phadi+pUYPQCjAarRo+6aDRo8hnq6p9eGyUoCx9doC7eKe/+rXAxxHCfYhg8C2DUMEbFYJRCIbFrLtah+e+pUKQcXCksr74w1lpkMghxZs9AZfLLQtyikqZxLg+ctIcJLY9/d6vva+5t+aK/beY4Fxdiha5grHBrIpkQILD/rERsg8XucOT2g5CrFAwrkJ55Rc+p/NxMp6v01XRELLuxdmcvEk3s7BJrI3KLG8i/+3ovJwB4nH2OQQ7BUBRFD4qYWICB/AUgisRYSIxMSAzMqqSaSCvFgAVYgU3YiQVZgNvvS4ykuc1979133geqrChR8GrATvr4Ak1VH1+kzs35EgPuzns/mTItns5XaPBiQkwknaQrWzYYKVAdyIWkHLiQ2dROXcND6tHVNxTNMFUm1XSvbcNYPtNO/g8sNSWhozuZXGz5C00SjnIzO02ZazfiLEag3EizUJ1E6a1qQ1v6T1ja5NHdM/i6mb/RsBY3Fnljuz79H9KX4yhvK1I1NwB4nGNgZgCD/2kMaUCKkQENAAAp/gHQAAAAAAACAAUAAv//AAM=")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(6,505)" font-size="116" style="fill:rgb(52, 96, 141)">trump tower</text>
+<text transform="translate(53,298)" font-size="110" style="fill:rgb(58, 83, 139)">body camera</text>
+<text transform="translate(28,652)" font-size="107" style="fill:rgb(71, 14, 97)">police shoot</text>
+<text transform="translate(134,789)" font-size="104" style="fill:rgb(53, 95, 141)">shoot noah</text>
+<text transform="translate(35,153)" font-size="104" style="fill:rgb(253, 231, 37)">body cameras</text>
+<text transform="translate(49,389)" font-size="85" style="fill:rgb(149, 216, 64)">multiple angle</text>
+<text transform="translate(250,223)" font-size="70" style="fill:rgb(147, 215, 65)">shoot cameras</text>
+<text transform="translate(331,556)" font-size="66" style="fill:rgb(47, 180, 124)">noah ask</text>
+<text transform="translate(219,72)" font-size="50" style="fill:rgb(30, 157, 137)">police body cameras</text>
+<text transform="translate(348,695)" font-size="49" style="fill:rgb(157, 217, 59)">police body</text>
+<text transform="translate(18,543)" font-size="48" style="fill:rgb(236, 229, 27)">noah say</text>
+<text transform="translate(208,816)" font-size="34" style="fill:rgb(54, 93, 141)">accountable whole point</text>
+<text transform="translate(65,434)" font-size="33" style="fill:rgb(47, 180, 124)">actual shoot noah</text>
+<text transform="translate(460,429)" font-size="26" style="fill:rgb(173, 220, 48)">again shoot certainly</text>
+<text transform="translate(31,818)" font-size="26" style="fill:rgb(210, 226, 27)">airbag turn</text>
+<text transform="translate(57,688)" font-size="26" style="fill:rgb(64, 70, 136)">airbag turn camera</text>
+<text transform="translate(272,579)" font-size="26" style="fill:rgb(49, 102, 142)">airbags multiple</text>
+<text transform="translate(458,172)" font-size="23" style="fill:rgb(54, 92, 141)">airbags multiple angle</text>
+<text transform="translate(40,198)" font-size="23" style="fill:rgb(31, 160, 136)">also ask case</text>
+<text transform="translate(484,318)" font-size="23" style="fill:rgb(39, 173, 129)">americans hold officer</text>
+<text transform="translate(414,716)" font-size="23" style="fill:rgb(72, 33, 115)">angle everything</text>
+<text transform="translate(239,87)" font-size="18" style="fill:rgb(34, 168, 132)">angle everything happen</text>
+<text transform="translate(613,581)" font-size="18" style="fill:rgb(155, 217, 60)">angle still</text>
+<text transform="translate(24,58)" font-size="18" style="fill:rgb(69, 4, 87)">angle still work</text>
+<text transform="translate(401,332)" font-size="18" style="fill:rgb(52, 96, 141)">apparently fell moments</text>
+<text transform="translate(645,86)" font-size="18" style="fill:rgb(72, 22, 104)">ask case body</text>
+<text transform="translate(2,315)" font-size="18" style="fill:rgb(54, 93, 141)">ask little suspicious</text>
+<text transform="translate(193,667)" font-size="18" style="fill:rgb(105, 205, 91)">ask look neal</text>
+<text transform="translate(37,404)" font-size="18" style="fill:rgb(236, 229, 27)">attention media cameras</text>
+<text transform="translate(12,561)" font-size="18" style="fill:rgb(46, 109, 142)">available multiple</text>
+<text transform="translate(5,170)" font-size="15" style="fill:rgb(41, 123, 142)">available multiple angle</text>
+<text transform="translate(46,712)" font-size="15" style="fill:rgb(34, 139, 141)">body camera call</text>
+<text transform="translate(656,550)" font-size="15" style="fill:rgb(49, 104, 142)">body camera hit</text>
+<text transform="translate(418,402)" font-size="14" style="fill:rgb(41, 123, 142)">body cameras apparently</text>
+<text transform="translate(310,314)" font-size="14" style="fill:rgb(46, 110, 142)">body cameras reliable</text>
+<text transform="translate(687,526)" font-size="14" style="fill:rgb(213, 226, 26)">bullshit noah</text>
+<text transform="translate(20,578)" font-size="14" style="fill:rgb(86, 198, 103)">bullshit noah say</text>
+<text transform="translate(255,723)" font-size="14" style="fill:rgb(39, 127, 142)">bystanders capture</text>
+<text transform="translate(330,824)" font-size="11" style="fill:rgb(31, 161, 135)">bystanders capture video</text>
+<text transform="translate(98,216)" font-size="11" style="fill:rgb(82, 197, 105)">call bullshit noah</text>
+<text transform="translate(80,88)" font-size="11" style="fill:rgb(71, 44, 122)">camera call</text>
+<text transform="translate(510,437)" font-size="11" style="fill:rgb(72, 38, 119)">camera call bullshit</text>
+<text transform="translate(375,165)" font-size="11" style="fill:rgb(69, 53, 129)">camera hit</text>
+<text transform="translate(76,226)" font-size="11" style="fill:rgb(66, 63, 133)">camera hit airbags</text>
+<text transform="translate(37,727)" font-size="11" style="fill:rgb(69, 4, 87)">camera noah solution</text>
+<text transform="translate(17,744)" font-size="11" style="fill:rgb(45, 112, 142)">camera right chase</text>
+<text transform="translate(430,233)" font-size="11" style="fill:rgb(221, 227, 24)">camera video available</text>
+<text transform="translate(672,818)" font-size="11" style="fill:rgb(66, 65, 134)">cameras apparently</text>
+<text transform="translate(187,698)" font-size="11" style="fill:rgb(96, 202, 96)">cameras apparently fell</text>
+<text transform="translate(10,334)" font-size="11" style="fill:rgb(56, 88, 140)">cameras cameras stay</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.06896551724138" style="fill:rgb(0, 0, 0)">baas + MS - C Level - August-2016 - Comm. 4 w. 1 documents</text>
+</svg>

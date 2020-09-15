@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(23,635)" font-size="125" style="fill:rgb(53, 95, 141)">break bad</text>
+<text transform="translate(5,202)" font-size="110" style="fill:rgb(32, 163, 134)">spider woman</text>
+<text transform="translate(18,750)" font-size="109" style="fill:rgb(34, 141, 141)">drama series</text>
+<text transform="translate(3,324)" font-size="102" style="fill:rgb(30, 155, 138)">louis dreyfus</text>
+<text transform="translate(38,421)" font-size="93" style="fill:rgb(253, 231, 37)">comedy series</text>
+<text transform="translate(12,99)" font-size="77" style="fill:rgb(33, 144, 141)">brandon ambrosino</text>
+<text transform="translate(216,508)" font-size="76" style="fill:rgb(34, 167, 133)">taylor swift</text>
+<text transform="translate(45,802)" font-size="67" style="fill:rgb(50, 101, 142)">bryan cranston</text>
+<text transform="translate(143,679)" font-size="56" style="fill:rgb(34, 139, 141)">ice bucket</text>
+<text transform="translate(45,551)" font-size="55" style="fill:rgb(213, 226, 26)">cool cat</text>
+<text transform="translate(17,360)" font-size="46" style="fill:rgb(251, 231, 35)">lead actor</text>
+<text transform="translate(253,236)" font-size="44" style="fill:rgb(124, 210, 80)">true detective</text>
+<text transform="translate(383,455)" font-size="44" style="fill:rgb(52, 97, 141)">nbc losers</text>
+<text transform="translate(298,133)" font-size="43" style="fill:rgb(236, 229, 27)">miniseries movie</text>
+<text transform="translate(362,533)" font-size="31" style="fill:rgb(147, 215, 65)">actress drama series</text>
+<text transform="translate(317,348)" font-size="30" style="fill:rgb(197, 224, 33)">modern family</text>
+<text transform="translate(172,445)" font-size="29" style="fill:rgb(32, 164, 134)">rita ora</text>
+<text transform="translate(545,658)" font-size="29" style="fill:rgb(110, 206, 88)">actress drama</text>
+<text transform="translate(27,477)" font-size="29" style="fill:rgb(78, 195, 107)">josh thomas</text>
+<text transform="translate(601,776)" font-size="27" style="fill:rgb(165, 219, 54)">actor comedy</text>
+<text transform="translate(424,255)" font-size="25" style="fill:rgb(132, 212, 75)">actress comedy</text>
+<text transform="translate(624,235)" font-size="25" style="fill:rgb(42, 176, 127)">watch like</text>
+<text transform="translate(459,825)" font-size="25" style="fill:rgb(251, 231, 35)">lead actress</text>
+<text transform="translate(621,805)" font-size="25" style="fill:rgb(32, 147, 140)">actor drama</text>
+<text transform="translate(277,823)" font-size="25" style="fill:rgb(33, 166, 133)">first season</text>
+<text transform="translate(644,351)" font-size="25" style="fill:rgb(139, 214, 70)">nate green</text>
+<text transform="translate(43,491)" font-size="20" style="fill:rgb(44, 115, 142)">support actress</text>
+<text transform="translate(254,47)" font-size="18" style="fill:rgb(189, 223, 38)">actor comedy series</text>
+<text transform="translate(34,47)" font-size="17" style="fill:rgb(46, 110, 142)">outstanding support</text>
+<text transform="translate(273,255)" font-size="17" style="fill:rgb(46, 110, 142)">blake harris</text>
+<text transform="translate(336,361)" font-size="17" style="fill:rgb(40, 124, 142)">ariana grande</text>
+<text transform="translate(696,614)" font-size="17" style="fill:rgb(234, 229, 26)">anna gunn</text>
+<text transform="translate(338,727)" font-size="17" style="fill:rgb(37, 171, 130)">boyz men</text>
+<text transform="translate(39,248)" font-size="15" style="fill:rgb(72, 33, 115)">swift taylorswift13</text>
+<text transform="translate(81,111)" font-size="14" style="fill:rgb(45, 113, 142)">taylor swift taylorswift13</text>
+<text transform="translate(5,444)" font-size="14" style="fill:rgb(176, 221, 47)">julia louis dreyfus</text>
+<text transform="translate(687,435)" font-size="14" style="fill:rgb(241, 229, 29)">julia louis</text>
+<text transform="translate(542,550)" font-size="14" style="fill:rgb(42, 118, 142)">alfred molina</text>
+<text transform="translate(651,670)" font-size="14" style="fill:rgb(69, 56, 130)">authorial intent</text>
+<text transform="translate(7,509)" font-size="14" style="fill:rgb(71, 19, 101)">guardians galaxy</text>
+<text transform="translate(109,222)" font-size="14" style="fill:rgb(134, 213, 73)">selena gomez</text>
+<text transform="translate(28,652)" font-size="14" style="fill:rgb(30, 157, 137)">sofia vergara</text>
+<text transform="translate(675,253)" font-size="14" style="fill:rgb(37, 133, 142)">edge tomorrow</text>
+<text transform="translate(368,181)" font-size="14" style="fill:rgb(33, 145, 140)">roman empire</text>
+<text transform="translate(377,548)" font-size="14" style="fill:rgb(72, 37, 118)">lev grossman</text>
+<text transform="translate(1,126)" font-size="14" style="fill:rgb(54, 92, 141)">jim parsons</text>
+<text transform="translate(651,820)" font-size="14" style="fill:rgb(115, 208, 86)">pop star</text>
+<text transform="translate(501,53)" font-size="14" style="fill:rgb(66, 190, 113)">actor drama series</text>
+<text transform="translate(390,621)" font-size="14" style="fill:rgb(47, 180, 124)">hate hate</text>
+<text transform="translate(709,559)" font-size="14" style="fill:rgb(31, 161, 136)">seth meyers</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.0" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - August-2014 - Comm. 3 w. 105 documents</text>
+</svg>

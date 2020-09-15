@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(33,420)" font-size="155" style="fill:rgb(37, 131, 142)">jeb bush</text>
+<text transform="translate(3,670)" font-size="147" style="fill:rgb(49, 103, 142)">iran deal</text>
+<text transform="translate(1,236)" font-size="110" style="fill:rgb(72, 38, 119)">nuclear deal</text>
+<text transform="translate(30,758)" font-size="107" style="fill:rgb(38, 130, 142)">donald trump</text>
+<text transform="translate(8,105)" font-size="94" style="fill:rgb(37, 171, 130)">foreign policy</text>
+<text transform="translate(10,522)" font-size="85" style="fill:rgb(63, 188, 115)">hillary clinton</text>
+<text transform="translate(129,816)" font-size="75" style="fill:rgb(42, 118, 142)">scott walker</text>
+<text transform="translate(14,287)" font-size="66" style="fill:rgb(62, 76, 138)">iran nuclear</text>
+<text transform="translate(70,579)" font-size="49" style="fill:rgb(72, 29, 111)">bernie sanders</text>
+<text transform="translate(182,443)" font-size="28" style="fill:rgb(69, 55, 129)">unauthorized immigrants</text>
+<text transform="translate(534,273)" font-size="28" style="fill:rgb(49, 104, 142)">nuclear program</text>
+<text transform="translate(68,134)" font-size="28" style="fill:rgb(72, 193, 110)">new hampshire</text>
+<text transform="translate(521,564)" font-size="26" style="fill:rgb(234, 229, 26)">wall street</text>
+<text transform="translate(247,160)" font-size="24" style="fill:rgb(42, 119, 142)">republican presidential</text>
+<text transform="translate(389,542)" font-size="24" style="fill:rgb(71, 46, 124)">child leave</text>
+<text transform="translate(605,442)" font-size="24" style="fill:rgb(241, 229, 29)">national poll</text>
+<text transform="translate(511,688)" font-size="21" style="fill:rgb(69, 4, 87)">presidential candidate</text>
+<text transform="translate(246,307)" font-size="21" style="fill:rgb(70, 8, 92)">unite state</text>
+<text transform="translate(576,584)" font-size="21" style="fill:rgb(72, 40, 120)">deal iran</text>
+<text transform="translate(221,463)" font-size="21" style="fill:rgb(208, 225, 28)">republican party</text>
+<text transform="translate(511,323)" font-size="21" style="fill:rgb(71, 46, 124)">rick perry</text>
+<text transform="translate(469,292)" font-size="20" style="fill:rgb(139, 214, 70)">capital gain</text>
+<text transform="translate(2,790)" font-size="20" style="fill:rgb(71, 13, 96)">white house</text>
+<text transform="translate(482,130)" font-size="20" style="fill:rgb(34, 140, 141)">child leave behind</text>
+<text transform="translate(30,157)" font-size="20" style="fill:rgb(94, 201, 98)">george bush</text>
+<text transform="translate(604,157)" font-size="20" style="fill:rgb(139, 214, 70)">puerto rico</text>
+<text transform="translate(87,688)" font-size="17" style="fill:rgb(173, 220, 48)">republican candidates</text>
+<text transform="translate(587,537)" font-size="17" style="fill:rgb(31, 161, 135)">iran nuclear program</text>
+<text transform="translate(354,46)" font-size="17" style="fill:rgb(33, 143, 141)">leave behind</text>
+<text transform="translate(20,824)" font-size="17" style="fill:rgb(110, 206, 88)">marco rubio</text>
+<text transform="translate(669,465)" font-size="17" style="fill:rgb(47, 107, 142)">clean energy</text>
+<text transform="translate(252,324)" font-size="17" style="fill:rgb(99, 203, 95)">state department</text>
+<text transform="translate(654,808)" font-size="17" style="fill:rgb(61, 78, 138)">climate change</text>
+<text transform="translate(619,293)" font-size="17" style="fill:rgb(31, 159, 136)">outside group</text>
+<text transform="translate(601,250)" font-size="15" style="fill:rgb(82, 197, 105)">presidential campaign</text>
+<text transform="translate(423,691)" font-size="15" style="fill:rgb(61, 78, 138)">new york</text>
+<text transform="translate(23,534)" font-size="15" style="fill:rgb(35, 169, 131)">iran nuclear deal</text>
+<text transform="translate(672,42)" font-size="15" style="fill:rgb(33, 166, 133)">super pac</text>
+<text transform="translate(66,45)" font-size="15" style="fill:rgb(51, 98, 141)">mass deportation</text>
+<text transform="translate(643,824)" font-size="15" style="fill:rgb(192, 223, 37)">washington post</text>
+<text transform="translate(313,395)" font-size="15" style="fill:rgb(55, 184, 120)">gop field</text>
+<text transform="translate(365,130)" font-size="15" style="fill:rgb(192, 223, 37)">kill deal</text>
+<text transform="translate(198,535)" font-size="14" style="fill:rgb(55, 90, 140)">president obama</text>
+<text transform="translate(103,321)" font-size="14" style="fill:rgb(31, 149, 139)">karl whelan</text>
+<text transform="translate(309,359)" font-size="14" style="fill:rgb(129, 211, 77)">john mccain</text>
+<text transform="translate(516,828)" font-size="14" style="fill:rgb(62, 76, 138)">middle east</text>
+<text transform="translate(143,828)" font-size="14" style="fill:rgb(69, 5, 89)">obama administration</text>
+<text transform="translate(347,641)" font-size="14" style="fill:rgb(33, 143, 141)">daily show</text>
+<text transform="translate(318,828)" font-size="14" style="fill:rgb(69, 53, 129)">karl whelan whelankarl</text>
+<text transform="translate(35,771)" font-size="14" style="fill:rgb(157, 217, 59)">whelan whelankarl</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - July-2015 - Comm. 2 w. 120 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(45,565)" font-size="139" style="fill:rgb(72, 26, 108)">good wife</text>
+<text transform="translate(21,169)" font-size="128" style="fill:rgb(70, 51, 127)">sign bunny</text>
+<text transform="translate(5,433)" font-size="110" style="fill:rgb(72, 33, 115)">reid wiseman</text>
+<text transform="translate(3,705)" font-size="89" style="fill:rgb(47, 180, 124)">kelsey mckinney</text>
+<text transform="translate(109,280)" font-size="88" style="fill:rgb(157, 217, 59)">bill virginia</text>
+<text transform="translate(56,789)" font-size="83" style="fill:rgb(55, 90, 140)">laguna beach</text>
+<text transform="translate(164,621)" font-size="73" style="fill:rgb(31, 151, 139)">session season</text>
+<text transform="translate(3,334)" font-size="70" style="fill:rgb(62, 73, 137)">final season</text>
+<text transform="translate(438,86)" font-size="50" style="fill:rgb(35, 136, 142)">first season</text>
+<text transform="translate(3,468)" font-size="45" style="fill:rgb(31, 158, 137)">olivia pope</text>
+<text transform="translate(506,349)" font-size="44" style="fill:rgb(71, 16, 99)">family tree</text>
+<text transform="translate(325,203)" font-size="44" style="fill:rgb(69, 5, 89)">season show</text>
+<text transform="translate(144,59)" font-size="34" style="fill:rgb(165, 219, 54)">september abc</text>
+<text transform="translate(349,822)" font-size="34" style="fill:rgb(64, 70, 136)">birth control</text>
+<text transform="translate(191,83)" font-size="29" style="fill:rgb(251, 231, 35)">gilmore girls</text>
+<text transform="translate(224,647)" font-size="29" style="fill:rgb(40, 174, 128)">second season</text>
+<text transform="translate(620,816)" font-size="29" style="fill:rgb(226, 228, 24)">red band</text>
+<text transform="translate(574,644)" font-size="27" style="fill:rgb(197, 224, 33)">eimear mcbride</text>
+<text transform="translate(367,456)" font-size="26" style="fill:rgb(160, 218, 57)">space station</text>
+<text transform="translate(433,730)" font-size="26" style="fill:rgb(41, 175, 127)">bill master</text>
+<text transform="translate(587,302)" font-size="26" style="fill:rgb(160, 218, 57)">september cbs</text>
+<text transform="translate(390,482)" font-size="25" style="fill:rgb(54, 93, 141)">albums debut</text>
+<text transform="translate(85,729)" font-size="25" style="fill:rgb(49, 181, 123)">reality show</text>
+<text transform="translate(3,359)" font-size="25" style="fill:rgb(72, 31, 112)">fun home</text>
+<text transform="translate(26,197)" font-size="25" style="fill:rgb(142, 214, 69)">high moon</text>
+<text transform="translate(590,48)" font-size="20" style="fill:rgb(84, 197, 104)">madam secretary</text>
+<text transform="translate(4,807)" font-size="20" style="fill:rgb(41, 121, 142)">angry black</text>
+<text transform="translate(12,622)" font-size="20" style="fill:rgb(132, 212, 75)">sleepy hollow</text>
+<text transform="translate(585,449)" font-size="19" style="fill:rgb(105, 205, 91)">bunny bunnywithsign</text>
+<text transform="translate(58,823)" font-size="16" style="fill:rgb(82, 197, 105)">bunny bunnywithsign september</text>
+<text transform="translate(442,364)" font-size="14" style="fill:rgb(68, 58, 131)">bunnywithsign september</text>
+<text transform="translate(1,479)" font-size="13" style="fill:rgb(35, 169, 131)">sign bunny bunnywithsign</text>
+<text transform="translate(349,214)" font-size="13" style="fill:rgb(72, 22, 104)">roman empire</text>
+<text transform="translate(24,58)" font-size="13" style="fill:rgb(39, 127, 142)">obvious child</text>
+<text transform="translate(288,734)" font-size="13" style="fill:rgb(33, 143, 141)">season premiere</text>
+<text transform="translate(323,153)" font-size="13" style="fill:rgb(37, 131, 142)">queen rap</text>
+<text transform="translate(662,740)" font-size="13" style="fill:rgb(253, 231, 37)">michelle ashford</text>
+<text transform="translate(261,363)" font-size="13" style="fill:rgb(39, 127, 142)">tuesday september</text>
+<text transform="translate(477,213)" font-size="13" style="fill:rgb(96, 202, 96)">todd vanderwerff</text>
+<text transform="translate(214,802)" font-size="13" style="fill:rgb(63, 71, 136)">box office</text>
+<text transform="translate(669,776)" font-size="13" style="fill:rgb(42, 118, 142)">hilary duff</text>
+<text transform="translate(523,225)" font-size="13" style="fill:rgb(38, 130, 142)">new show</text>
+<text transform="translate(39,232)" font-size="13" style="fill:rgb(192, 223, 37)">come back</text>
+<text transform="translate(638,718)" font-size="13" style="fill:rgb(56, 89, 140)">nurse jackie</text>
+<text transform="translate(490,44)" font-size="13" style="fill:rgb(66, 64, 134)">ray rice</text>
+<text transform="translate(624,189)" font-size="13" style="fill:rgb(55, 90, 140)">little bite</text>
+<text transform="translate(677,752)" font-size="13" style="fill:rgb(42, 118, 142)">press release</text>
+<text transform="translate(326,105)" font-size="13" style="fill:rgb(31, 160, 136)">family guy</text>
+<text transform="translate(658,365)" font-size="13" style="fill:rgb(72, 20, 103)">most promise new</text>
+<text transform="translate(21,84)" font-size="13" style="fill:rgb(71, 42, 122)">shonda rhimes</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.104477611940297" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - September-2014 - Comm. 3 w. 131 documents</text>
+</svg>

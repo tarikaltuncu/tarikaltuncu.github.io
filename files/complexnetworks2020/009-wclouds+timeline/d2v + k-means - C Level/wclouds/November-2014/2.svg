@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(36,196)" font-size="85" style="fill:rgb(96, 202, 96)">foreign policy</text>
+<text transform="translate(101,725)" font-size="72" style="fill:rgb(63, 188, 115)">executive action</text>
+<text transform="translate(292,810)" font-size="72" style="fill:rgb(53, 94, 141)">white house</text>
+<text transform="translate(298,563)" font-size="71" style="fill:rgb(236, 229, 27)">exit poll</text>
+<text transform="translate(94,356)" font-size="65" style="fill:rgb(31, 161, 136)">president obama</text>
+<text transform="translate(10,624)" font-size="57" style="fill:rgb(42, 176, 127)">unauthorized immigrants</text>
+<text transform="translate(154,472)" font-size="57" style="fill:rgb(42, 118, 142)">lizard people</text>
+<text transform="translate(232,276)" font-size="56" style="fill:rgb(70, 10, 93)">defer action</text>
+<text transform="translate(160,79)" font-size="53" style="fill:rgb(36, 134, 142)">midterm elections</text>
+<text transform="translate(142,403)" font-size="52" style="fill:rgb(38, 130, 142)">obama administration</text>
+<text transform="translate(217,112)" font-size="42" style="fill:rgb(48, 105, 142)">democratic party</text>
+<text transform="translate(18,503)" font-size="42" style="fill:rgb(218, 227, 25)">supreme court</text>
+<text transform="translate(14,655)" font-size="40" style="fill:rgb(72, 37, 118)">majority leader</text>
+<text transform="translate(2,759)" font-size="37" style="fill:rgb(90, 200, 100)">mitch mcconnell</text>
+<text transform="translate(9,543)" font-size="27" style="fill:rgb(34, 140, 141)">immigration reform</text>
+<text transform="translate(387,660)" font-size="26" style="fill:rgb(112, 207, 87)">state legislatures</text>
+<text transform="translate(6,800)" font-size="25" style="fill:rgb(69, 55, 129)">democracy alliance</text>
+<text transform="translate(639,277)" font-size="23" style="fill:rgb(44, 177, 126)">poll close</text>
+<text transform="translate(573,313)" font-size="23" style="fill:rgb(53, 95, 141)">senate seat</text>
+<text transform="translate(74,225)" font-size="23" style="fill:rgb(55, 91, 141)">unite state</text>
+<text transform="translate(64,295)" font-size="23" style="fill:rgb(41, 123, 142)">action immigration</text>
+<text transform="translate(29,245)" font-size="23" style="fill:rgb(34, 139, 141)">patent reform</text>
+<text transform="translate(522,494)" font-size="23" style="fill:rgb(36, 134, 142)">divide government</text>
+<text transform="translate(337,295)" font-size="23" style="fill:rgb(67, 61, 132)">republican party</text>
+<text transform="translate(448,747)" font-size="23" style="fill:rgb(69, 56, 130)">senate democrats</text>
+<text transform="translate(4,111)" font-size="23" style="fill:rgb(66, 63, 133)">control senate</text>
+<text transform="translate(561,223)" font-size="23" style="fill:rgb(69, 55, 129)">harry reid</text>
+<text transform="translate(624,118)" font-size="23" style="fill:rgb(92, 200, 99)">legal status</text>
+<text transform="translate(13,568)" font-size="22" style="fill:rgb(61, 77, 138)">presidential elections</text>
+<text transform="translate(621,429)" font-size="22" style="fill:rgb(147, 215, 65)">election day</text>
+<text transform="translate(285,137)" font-size="22" style="fill:rgb(71, 46, 124)">nuclear program</text>
+<text transform="translate(23,266)" font-size="20" style="fill:rgb(39, 126, 142)">american politics</text>
+<text transform="translate(204,419)" font-size="19" style="fill:rgb(69, 5, 89)">executive action immigration</text>
+<text transform="translate(53,821)" font-size="19" style="fill:rgb(35, 136, 142)">new hampshire</text>
+<text transform="translate(49,780)" font-size="19" style="fill:rgb(165, 219, 54)">senate race</text>
+<text transform="translate(642,466)" font-size="19" style="fill:rgb(34, 139, 141)">democrats win</text>
+<text transform="translate(38,422)" font-size="19" style="fill:rgb(38, 129, 142)">greg orman</text>
+<text transform="translate(106,139)" font-size="19" style="fill:rgb(42, 119, 142)">daca program</text>
+<text transform="translate(342,235)" font-size="19" style="fill:rgb(80, 196, 106)">senate majority</text>
+<text transform="translate(51,310)" font-size="19" style="fill:rgb(47, 108, 142)">george bush</text>
+<text transform="translate(590,579)" font-size="19" style="fill:rgb(53, 183, 121)">american jews</text>
+<text transform="translate(6,446)" font-size="19" style="fill:rgb(42, 120, 142)">barack obama</text>
+<text transform="translate(504,514)" font-size="19" style="fill:rgb(37, 133, 142)">boom bust</text>
+<text transform="translate(6,58)" font-size="19" style="fill:rgb(31, 160, 136)">minimum wage</text>
+<text transform="translate(8,466)" font-size="19" style="fill:rgb(46, 109, 142)">more likely</text>
+<text transform="translate(14,79)" font-size="19" style="fill:rgb(69, 56, 130)">keystone bill</text>
+<text transform="translate(490,826)" font-size="19" style="fill:rgb(30, 155, 138)">leader mitch</text>
+<text transform="translate(16,680)" font-size="19" style="fill:rgb(35, 169, 131)">leader mitch mcconnell</text>
+<text transform="translate(567,761)" font-size="18" style="fill:rgb(42, 118, 142)">national security</text>
+<text transform="translate(629,826)" font-size="18" style="fill:rgb(119, 209, 83)">house senate</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.393939393939394" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - November-2014 - Comm. 2 w. 108 documents</text>
+</svg>

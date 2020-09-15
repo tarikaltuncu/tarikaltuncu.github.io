@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(6,599)" font-size="102" style="fill:rgb(32, 163, 134)">gun violence</text>
+<text transform="translate(170,387)" font-size="89" style="fill:rgb(62, 73, 137)">mass shoot</text>
+<text transform="translate(25,458)" font-size="88" style="fill:rgb(124, 210, 80)">police officer</text>
+<text transform="translate(101,211)" font-size="84" style="fill:rgb(248, 230, 33)">more gun</text>
+<text transform="translate(153,787)" font-size="83" style="fill:rgb(68, 58, 131)">gun control</text>
+<text transform="translate(4,116)" font-size="73" style="fill:rgb(155, 217, 60)">background check</text>
+<text transform="translate(30,679)" font-size="71" style="fill:rgb(35, 137, 142)">gun deaths</text>
+<text transform="translate(1,285)" font-size="71" style="fill:rgb(117, 208, 84)">umpqua community</text>
+<text transform="translate(48,498)" font-size="51" style="fill:rgb(60, 80, 139)">umpqua community college</text>
+<text transform="translate(144,719)" font-size="50" style="fill:rgb(70, 192, 111)">black students</text>
+<text transform="translate(458,640)" font-size="50" style="fill:rgb(57, 86, 140)">more likely</text>
+<text transform="translate(307,147)" font-size="39" style="fill:rgb(176, 221, 47)">community college</text>
+<text transform="translate(402,820)" font-size="38" style="fill:rgb(94, 201, 98)">resource officer</text>
+<text transform="translate(43,329)" font-size="36" style="fill:rgb(50, 182, 122)">school resource</text>
+<text transform="translate(177,54)" font-size="28" style="fill:rgb(84, 197, 104)">school resource officer</text>
+<text transform="translate(566,186)" font-size="28" style="fill:rgb(62, 73, 137)">biden decide</text>
+<text transform="translate(500,208)" font-size="28" style="fill:rgb(34, 168, 132)">west florida</text>
+<text transform="translate(572,677)" font-size="28" style="fill:rgb(229, 228, 25)">mental health</text>
+<text transform="translate(77,233)" font-size="27" style="fill:rgb(39, 127, 142)">criminal justice</text>
+<text transform="translate(498,530)" font-size="26" style="fill:rgb(49, 181, 123)">hillary clinton</text>
+<text transform="translate(600,711)" font-size="26" style="fill:rgb(44, 113, 142)">oregon shoot</text>
+<text transform="translate(5,529)" font-size="25" style="fill:rgb(86, 198, 103)">more gun deaths</text>
+<text transform="translate(405,306)" font-size="25" style="fill:rgb(168, 219, 52)">spring valley</text>
+<text transform="translate(5,154)" font-size="22" style="fill:rgb(65, 66, 135)">community college shoot</text>
+<text transform="translate(65,826)" font-size="22" style="fill:rgb(200, 224, 32)">black live</text>
+<text transform="translate(209,810)" font-size="22" style="fill:rgb(68, 57, 131)">other develop</text>
+<text transform="translate(399,230)" font-size="22" style="fill:rgb(208, 225, 28)">college shoot</text>
+<text transform="translate(601,52)" font-size="22" style="fill:rgb(33, 144, 141)">live matter</text>
+<text transform="translate(10,743)" font-size="22" style="fill:rgb(35, 169, 131)">gun problem</text>
+<text transform="translate(181,617)" font-size="22" style="fill:rgb(72, 22, 104)">south carolina</text>
+<text transform="translate(170,300)" font-size="18" style="fill:rgb(51, 99, 141)">gun violence america</text>
+<text transform="translate(34,721)" font-size="18" style="fill:rgb(63, 72, 137)">use force</text>
+<text transform="translate(685,370)" font-size="18" style="fill:rgb(241, 229, 29)">new york</text>
+<text transform="translate(1,375)" font-size="18" style="fill:rgb(41, 121, 142)">justice system</text>
+<text transform="translate(231,515)" font-size="18" style="fill:rgb(42, 176, 127)">violence america</text>
+<text transform="translate(14,764)" font-size="18" style="fill:rgb(92, 200, 99)">black people</text>
+<text transform="translate(333,736)" font-size="18" style="fill:rgb(105, 205, 91)">freedom caucus</text>
+<text transform="translate(577,224)" font-size="18" style="fill:rgb(46, 111, 142)">lincoln chafee</text>
+<text transform="translate(598,317)" font-size="18" style="fill:rgb(35, 169, 131)">spring valley high</text>
+<text transform="translate(208,67)" font-size="17" style="fill:rgb(39, 173, 129)">valley high school</text>
+<text transform="translate(687,753)" font-size="17" style="fill:rgb(88, 199, 101)">gun laws</text>
+<text transform="translate(272,402)" font-size="17" style="fill:rgb(31, 162, 135)">clinton email</text>
+<text transform="translate(215,823)" font-size="17" style="fill:rgb(72, 32, 113)">valley high</text>
+<text transform="translate(9,132)" font-size="17" style="fill:rgb(72, 29, 111)">black live matter</text>
+<text transform="translate(71,613)" font-size="17" style="fill:rgb(88, 199, 101)">america gun</text>
+<text transform="translate(463,653)" font-size="17" style="fill:rgb(36, 135, 142)">sexual orientation</text>
+<text transform="translate(609,401)" font-size="17" style="fill:rgb(69, 56, 130)">second amendment</text>
+<text transform="translate(18,53)" font-size="17" style="fill:rgb(241, 229, 29)">shoot oregon</text>
+<text transform="translate(629,239)" font-size="17" style="fill:rgb(71, 16, 99)">secret service</text>
+<text transform="translate(8,786)" font-size="17" style="fill:rgb(251, 231, 35)">relate america</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - October-2015 - Comm. 4 w. 115 documents</text>
+</svg>

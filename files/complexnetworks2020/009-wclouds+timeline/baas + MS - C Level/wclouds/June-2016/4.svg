@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAlgAAsAAAAAC3gAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PWNtYXAAAAIIAAAAQwAAAEwBVADSZ2FzcAAACVQAAAAMAAAADAAEAAdnbHlmAAAChAAABesAAAeQfVPcF2hlYWQAAAEIAAAANgAAADYBGHDIaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADYAAAA2C3wH1WxvY2EAAAJMAAAANgAAADYZ6hgEbWF4cAAAAWAAAAAYAAAAIAAeADhuYW1lAAAIcAAAAMsAAAFoHBo1AHBvc3QAAAk8AAAAFgAAACD/aQBnAAEAAAABAACpc8nXXw889QALCAAAAAAAwcfpVAAAAADbZD5D//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQYjBnYGYAAUYGNAAACLIAV3icY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBiq2OT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRjAx+AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUA1wC8AFwAoABzAJ4AiQEIAMsAiwCgAFL//ABSALYAAHicY2BgYGJgYGAGYhEgyQimWRgsgDQXAwdQjolBgSGToZyh6v9/oJgCQyJDNkPl////H/5f+H/B//lgHVAAAFUhDh0AAAAAAAAAADQAZACKALsA5wEMAVoBegGdAb4B1QIFAiMCTAJ9Aq4CzAL7Ax4DPQNYA4gDsQPIAAB4nFVVC0xTZxT+z73X2w4b6aW9ZQYNXO4KYUgcLW0nGz4mJq5K5ggiM44wRXyw+ACjQWKQmaqsMw5BZD4YrzATHahhN2Oik1R8ETVEmMYlY4Tp4sLUOJep6/3d+UtVlvS+kp7vfOc75zs/4ciu56MCJ+STaKIQoiSqoqjGJ7jMdo8rTY03JLqdDpss8QZRlK1Oh9vFV9iNWc3bW7qA9j2u+W7W+dMjfZ3N51sv1XTUf7Lg+CFYaDbMG82uKmg/p5u5yQZj8bpTLbWEIw2YJ1O0kigyhRC7alAlp2Q1OBE/SjJzajxvtTnjJLMSL0KOye7TjMbim5fv3L10vdRfD2Z6/9BOv1+00t0fVrfSQfqYPqI3uHdGeqANGroJAXIc8e1YhwU/DAkqg3J4ZFGNI5KZKA7BPrNuM90Da4607gzQ5/Q3iAfDKUFtmEFX0LUzGzNABTNMhgSCXKsQa3qI61TGFRXhJHOU0xHtTHAhbZV3pYUzuPlK48Z+xvPaJpNJq1H99fQhRNX7ar6BZDDBJEhprFSg8+koPEsa6aFL6fKTLIMPM8xHthKxIV8laoxrPOOKgsh2xazECfODz4ywKNDRduFvehsiRwb0IOUy6EP6J8fRqoWNCzCFCBHgoY+HVEhlKhwmRFgqxhKZoUqqpLjsrjTUOBoliRdlWRGstFyjAcjo7K8sT1q9qjwPfHxPcBbfs04p6GlX904pLF1NCE+KqFUoQoZvkGnEjWiywSZbkWIiGwQ2FNiqBFeaJ3QljCXhHWxoZCuwmxKHKglF5+cMnvXEFjadbv9e77s98rDA91HRYG/u7INDw8Mwr/suRIK/UPBujFm8velH8e2snIN76a6m6oH06cUbFtmPrdR6rXr33QePRqjpQvtQXgarshGrTMH+SDixkhk7IbFpYsOEr/yW+/SqphkjVt0DHxcAgZboF3FyHF8epet1J1O/F+Od4iRixA4TcITqcqVZ7C5FmiCjZFzZ2lnJxZH0LwhAQXAf5ImTStJnlJbox+Xy4DxrebmVsbiJKDiSZBJ+eMAJOEGGEBEeKnaB/xcaxUUM0tzKzk4zl1QPVdSuV8OTbLpUtOpuOoQIOLhCMiK8hgivklvp41Deasib4JO3PisPJQSyDP9dih2JY1WnhfqJ6czhpzOaeSl0Y4btd81c8kHTtpz5zRUxEXN3tjjEhXu3b+IC+0raAnozk+XrB/pFwVt7VNO6bqEsYVUR3zxe1ejxotbE/E9UFh2SlCOlOM95GDuR+W9CeI7ZPZHZBC9u+S16DyLv3gYbvf8ruOkl2mdF2QQwwFv0CjryH3rtALRCIy2gy9i+wPnLRMSwB22vagzvC3n8wkDrxRjXDYxfGPU+f6VCk0U3knyxMAqTxjbGiZDLMcP0FxnA6UFjS2meV263jHN5mTGmRjOZxqzOMoy5nNdqn16BwaTKl27XD7+0OYARFVXHFAVDwrhGYRWCmlq+suWkVmszLmyv2CyktqV0degnBO/lLUVsuvrCezmWEI8LK0UyiS98xrCw/GjbmCX7ek6CZfnJe2VDvReOvatVja7Ubvj/+OlJaltu84yc2UuqV+w+5N0/35fx/pys/Z/WHUN0P0OfsJ51y86WpMQ2hcUpKbIi4Z7ng59tpXX0b5iYtQY06j33cd3ncZDHbctPhVj6c5W+IxDyIaKkCN6QD/HkYDBOycyOCeaCgzERa+7QMm20qVbDdVjNXdUzaLBrgEv/V2PR2ahOGUZPxGhwWmyoi8WCNnpEC7ofLo4UDfkPztACwatv+j1/GkzmvsAweB7EqH6MmoxRPK+y31isx/LyyfMpOzLFObvODDUvj48WY+2+nork18XYqUUNw1wOeOkpJrQ+/MP1rm+59/SzgZZHB7jYMCucCsYK9zKSCQMCOxUTsQ0Ot8eT3Q1itkGMnov07HNPHcnNnuktKH4zHRFLri7e0IlEE9s7pGpTdmEdQ0RYwYqI6HJFcYHiUmTAPRxs5mr1PXyyXsZ9tY3PrNoX7Cf/AcCOWhcAeJx9jkEOwVAURQ+KmFiAgfwFIIrEWEiMTEgMzKqkmkgrxYAFWIFN2IkFWYDb70uMpLnNfe/dd94HqqwoUfBqwE76+AJNVR9fpM7N+RID7s57P5kyLZ7OV2jwYkJMJJ2kK1s2GClQHciFpBy4kNnUTl3DQ+rR1TcUzTBVJtV0r23DWD7TTv4PLDUloaM7mVxs+QtNEo5yMztNmWs34ixGoNxIs1CdROmtakNb+k9Y2uTR3TP4upm/0bAWNxZ5Y7s+/R/Sl+MobytSNTcAeJxjYGYAg/9pDGlAipEBDQAAKf4B0AAAAAAAAgAFAAL//wAD")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(123,545)" font-size="93" style="fill:rgb(61, 77, 138)">black people</text>
+<text transform="translate(8,700)" font-size="82" style="fill:rgb(32, 164, 134)">lgbt individuals</text>
+<text transform="translate(158,121)" font-size="74" style="fill:rgb(41, 123, 142)">end disgrace</text>
+<text transform="translate(112,293)" font-size="74" style="fill:rgb(64, 70, 136)">gun violence</text>
+<text transform="translate(280,370)" font-size="72" style="fill:rgb(34, 140, 141)">sandy hook</text>
+<text transform="translate(356,211)" font-size="67" style="fill:rgb(251, 231, 35)">mass shoot</text>
+<text transform="translate(174,777)" font-size="65" style="fill:rgb(59, 81, 139)">hillary clinton</text>
+<text transform="translate(54,619)" font-size="64" style="fill:rgb(39, 126, 142)">love ones</text>
+<text transform="translate(164,435)" font-size="62" style="fill:rgb(244, 230, 30)">lgbt community</text>
+<text transform="translate(15,229)" font-size="61" style="fill:rgb(71, 17, 100)">bet award</text>
+<text transform="translate(395,611)" font-size="52" style="fill:rgb(213, 226, 26)">accept script</text>
+<text transform="translate(4,818)" font-size="52" style="fill:rgb(62, 76, 138)">america first</text>
+<text transform="translate(20,160)" font-size="49" style="fill:rgb(32, 164, 134)">equal right</text>
+<text transform="translate(414,69)" font-size="48" style="fill:rgb(72, 38, 119)">radical islam</text>
+<text transform="translate(4,359)" font-size="47" style="fill:rgb(31, 161, 135)">black pain</text>
+<text transform="translate(432,821)" font-size="47" style="fill:rgb(117, 208, 84)">first mean</text>
+<text transform="translate(367,478)" font-size="34" style="fill:rgb(189, 223, 38)">democratic party</text>
+<text transform="translate(119,573)" font-size="34" style="fill:rgb(31, 148, 140)">black live matter</text>
+<text transform="translate(496,243)" font-size="34" style="fill:rgb(70, 192, 111)">live matter</text>
+<text transform="translate(547,151)" font-size="34" style="fill:rgb(32, 147, 140)">black live</text>
+<text transform="translate(115,59)" font-size="34" style="fill:rgb(66, 64, 134)">year old</text>
+<text transform="translate(352,721)" font-size="26" style="fill:rgb(31, 149, 139)">america first mean</text>
+<text transform="translate(162,312)" font-size="22" style="fill:rgb(59, 81, 139)">political revolution</text>
+<text transform="translate(110,718)" font-size="19" style="fill:rgb(31, 160, 136)">background check bill</text>
+<text transform="translate(346,165)" font-size="18" style="fill:rgb(32, 146, 140)">cultural appropriation</text>
+<text transform="translate(317,386)" font-size="18" style="fill:rgb(54, 92, 141)">lgbt people</text>
+<text transform="translate(170,247)" font-size="18" style="fill:rgb(65, 66, 135)">mother emanuel</text>
+<text transform="translate(75,462)" font-size="18" style="fill:rgb(62, 73, 137)">unite state</text>
+<text transform="translate(568,629)" font-size="18" style="fill:rgb(31, 151, 139)">white fragility</text>
+<text transform="translate(251,464)" font-size="18" style="fill:rgb(37, 171, 130)">check bill</text>
+<text transform="translate(493,561)" font-size="18" style="fill:rgb(59, 82, 139)">williams say</text>
+<text transform="translate(30,89)" font-size="18" style="fill:rgb(33, 144, 141)">love give</text>
+<text transform="translate(467,308)" font-size="18" style="fill:rgb(41, 122, 142)">want ask someone</text>
+<text transform="translate(8,535)" font-size="18" style="fill:rgb(72, 24, 106)">abuse bury</text>
+<text transform="translate(136,186)" font-size="18" style="fill:rgb(218, 227, 25)">abuse bury black</text>
+<text transform="translate(17,413)" font-size="18" style="fill:rgb(90, 200, 100)">award year bet</text>
+<text transform="translate(291,633)" font-size="17" style="fill:rgb(49, 103, 142)">better establish record</text>
+<text transform="translate(598,384)" font-size="17" style="fill:rgb(197, 224, 33)">black gold ghettoize</text>
+<text transform="translate(12,256)" font-size="17" style="fill:rgb(72, 37, 118)">body rinds</text>
+<text transform="translate(636,270)" font-size="15" style="fill:rgb(64, 69, 136)">body rinds strange</text>
+<text transform="translate(317,734)" font-size="15" style="fill:rgb(132, 212, 75)">brutalize comfort</text>
+<text transform="translate(9,381)" font-size="14" style="fill:rgb(72, 193, 110)">brutalize comfort bystander</text>
+<text transform="translate(246,325)" font-size="14" style="fill:rgb(44, 115, 142)">burden brutalize</text>
+<text transform="translate(592,792)" font-size="14" style="fill:rgb(48, 105, 142)">burden brutalize comfort</text>
+<text transform="translate(4,124)" font-size="14" style="fill:rgb(70, 48, 126)">call whiten use</text>
+<text transform="translate(640,290)" font-size="14" style="fill:rgb(59, 81, 139)">comfort bystander</text>
+<text transform="translate(10,436)" font-size="14" style="fill:rgb(162, 218, 55)">costume discard</text>
+<text transform="translate(9,754)" font-size="14" style="fill:rgb(37, 132, 142)">costume discard body</text>
+<text transform="translate(642,713)" font-size="14" style="fill:rgb(101, 203, 94)">creations then</text>
+<text transform="translate(15,736)" font-size="14" style="fill:rgb(127, 211, 78)">creations then steal</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.45614035087719" style="fill:rgb(0, 0, 0)">baas + MS - C Level - June-2016 - Comm. 4 w. 10 documents</text>
+</svg>

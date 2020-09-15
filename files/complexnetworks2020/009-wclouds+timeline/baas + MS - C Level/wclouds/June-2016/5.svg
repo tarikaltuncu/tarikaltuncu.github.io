@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(5,284)" font-size="86" style="fill:rgb(70, 51, 127)">european union</text>
+<text transform="translate(183,814)" font-size="73" style="fill:rgb(36, 134, 142)">vote leave</text>
+<text transform="translate(62,596)" font-size="60" style="fill:rgb(55, 91, 141)">northern ireland</text>
+<text transform="translate(299,664)" font-size="60" style="fill:rgb(122, 209, 81)">unite kingdom</text>
+<text transform="translate(190,169)" font-size="60" style="fill:rgb(90, 200, 100)">prime minister</text>
+<text transform="translate(280,454)" font-size="60" style="fill:rgb(50, 182, 122)">leave european</text>
+<text transform="translate(31,96)" font-size="60" style="fill:rgb(84, 197, 104)">leave european union</text>
+<text transform="translate(290,734)" font-size="57" style="fill:rgb(64, 189, 114)">david cameron</text>
+<text transform="translate(411,508)" font-size="53" style="fill:rgb(88, 199, 101)">brexit vote</text>
+<text transform="translate(272,382)" font-size="50" style="fill:rgb(31, 150, 139)">minister david</text>
+<text transform="translate(204,207)" font-size="45" style="fill:rgb(149, 216, 64)">minister david cameron</text>
+<text transform="translate(242,321)" font-size="45" style="fill:rgb(103, 204, 92)">prime minister david</text>
+<text transform="translate(5,525)" font-size="43" style="fill:rgb(59, 187, 117)">british economy</text>
+<text transform="translate(392,534)" font-size="33" style="fill:rgb(70, 48, 126)">vote leave european</text>
+<text transform="translate(353,407)" font-size="31" style="fill:rgb(69, 5, 89)">conservative party</text>
+<text transform="translate(31,420)" font-size="30" style="fill:rgb(244, 230, 30)">leave campaign</text>
+<text transform="translate(4,331)" font-size="30" style="fill:rgb(54, 92, 141)">boris johnson</text>
+<text transform="translate(469,761)" font-size="30" style="fill:rgb(35, 169, 131)">british exit</text>
+<text transform="translate(5,707)" font-size="29" style="fill:rgb(239, 229, 28)">britain leave</text>
+<text transform="translate(19,476)" font-size="29" style="fill:rgb(72, 41, 121)">independence party</text>
+<text transform="translate(21,659)" font-size="28" style="fill:rgb(70, 52, 128)">british people</text>
+<text transform="translate(9,743)" font-size="28" style="fill:rgb(30, 157, 137)">nigel farage</text>
+<text transform="translate(62,622)" font-size="28" style="fill:rgb(72, 27, 109)">unite state</text>
+<text transform="translate(60,228)" font-size="28" style="fill:rgb(38, 129, 142)">british voters</text>
+<text transform="translate(8,366)" font-size="28" style="fill:rgb(33, 143, 141)">labour party</text>
+<text transform="translate(348,54)" font-size="28" style="fill:rgb(253, 231, 37)">brexit referendum</text>
+<text transform="translate(97,119)" font-size="27" style="fill:rgb(72, 23, 105)">vote remain</text>
+<text transform="translate(145,56)" font-size="27" style="fill:rgb(72, 22, 104)">britain vote</text>
+<text transform="translate(579,119)" font-size="27" style="fill:rgb(70, 7, 90)">central bank</text>
+<text transform="translate(4,175)" font-size="24" style="fill:rgb(72, 193, 110)">british pound</text>
+<text transform="translate(220,554)" font-size="24" style="fill:rgb(43, 116, 142)">britain exit</text>
+<text transform="translate(372,227)" font-size="24" style="fill:rgb(42, 119, 142)">other countries</text>
+<text transform="translate(625,231)" font-size="23" style="fill:rgb(60, 80, 139)">member state</text>
+<text transform="translate(19,138)" font-size="23" style="fill:rgb(57, 85, 140)">agent orange</text>
+<text transform="translate(333,685)" font-size="23" style="fill:rgb(72, 31, 112)">britain vote leave</text>
+<text transform="translate(1,542)" font-size="22" style="fill:rgb(48, 106, 142)">remain campaign</text>
+<text transform="translate(89,768)" font-size="22" style="fill:rgb(139, 214, 70)">invoke article</text>
+<text transform="translate(86,443)" font-size="21" style="fill:rgb(72, 32, 113)">greece spain</text>
+<text transform="translate(667,52)" font-size="21" style="fill:rgb(66, 63, 133)">far right</text>
+<text transform="translate(1,815)" font-size="20" style="fill:rgb(37, 172, 130)">anti immigration</text>
+<text transform="translate(593,337)" font-size="20" style="fill:rgb(181, 222, 43)">brook wohlforth</text>
+<text transform="translate(45,385)" font-size="20" style="fill:rgb(68, 1, 84)">common currency</text>
+<text transform="translate(601,695)" font-size="20" style="fill:rgb(71, 47, 125)">financial crisis</text>
+<text transform="translate(639,566)" font-size="20" style="fill:rgb(244, 230, 30)">kingdom vote</text>
+<text transform="translate(270,750)" font-size="18" style="fill:rgb(176, 221, 47)">unite kingdom vote</text>
+<text transform="translate(335,335)" font-size="18" style="fill:rgb(234, 229, 26)">exit european union</text>
+<text transform="translate(6,674)" font-size="18" style="fill:rgb(168, 219, 52)">exit european</text>
+<text transform="translate(11,299)" font-size="18" style="fill:rgb(39, 128, 142)">alex white</text>
+<text transform="translate(277,611)" font-size="18" style="fill:rgb(67, 61, 132)">alex white alexwhite1812</text>
+<text transform="translate(1,197)" font-size="18" style="fill:rgb(231, 228, 25)">alexwhite1812 june</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="22.45614035087719" style="fill:rgb(0, 0, 0)">baas + MS - C Level - June-2016 - Comm. 5 w. 68 documents</text>
+</svg>

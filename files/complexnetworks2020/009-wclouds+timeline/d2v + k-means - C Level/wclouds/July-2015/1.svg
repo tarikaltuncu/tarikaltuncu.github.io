@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(3,740)" font-size="108" style="fill:rgb(101, 203, 94)">new horizons</text>
+<text transform="translate(39,353)" font-size="105" style="fill:rgb(32, 164, 134)">stock market</text>
+<text transform="translate(192,618)" font-size="91" style="fill:rgb(139, 214, 70)">puerto rico</text>
+<text transform="translate(251,473)" font-size="76" style="fill:rgb(43, 116, 142)">unite state</text>
+<text transform="translate(123,238)" font-size="70" style="fill:rgb(42, 120, 142)">margin trade</text>
+<text transform="translate(150,111)" font-size="69" style="fill:rgb(31, 151, 139)">nuclear program</text>
+<text transform="translate(123,536)" font-size="69" style="fill:rgb(47, 180, 124)">central bank</text>
+<text transform="translate(182,799)" font-size="63" style="fill:rgb(80, 196, 106)">new york</text>
+<text transform="translate(30,159)" font-size="61" style="fill:rgb(34, 167, 133)">central line</text>
+<text transform="translate(339,400)" font-size="61" style="fill:rgb(49, 181, 123)">iran nuclear</text>
+<text transform="translate(1,410)" font-size="52" style="fill:rgb(103, 204, 92)">health care</text>
+<text transform="translate(486,809)" font-size="47" style="fill:rgb(33, 142, 141)">stock price</text>
+<text transform="translate(470,173)" font-size="45" style="fill:rgb(218, 227, 25)">nuclear deal</text>
+<text transform="translate(431,57)" font-size="32" style="fill:rgb(72, 38, 119)">greek government</text>
+<text transform="translate(300,647)" font-size="32" style="fill:rgb(53, 95, 141)">mass incarceration</text>
+<text transform="translate(334,265)" font-size="32" style="fill:rgb(67, 62, 133)">financial crisis</text>
+<text transform="translate(3,61)" font-size="32" style="fill:rgb(155, 217, 60)">leave eurozone</text>
+<text transform="translate(5,443)" font-size="32" style="fill:rgb(69, 55, 129)">greek economy</text>
+<text transform="translate(5,819)" font-size="25" style="fill:rgb(122, 209, 81)">european central bank</text>
+<text transform="translate(502,668)" font-size="25" style="fill:rgb(59, 81, 139)">european central</text>
+<text transform="translate(613,503)" font-size="24" style="fill:rgb(47, 108, 142)">puerto rican</text>
+<text transform="translate(498,762)" font-size="24" style="fill:rgb(68, 59, 132)">standardize test</text>
+<text transform="translate(5,475)" font-size="24" style="fill:rgb(52, 96, 141)">market crash</text>
+<text transform="translate(51,181)" font-size="24" style="fill:rgb(31, 161, 135)">european leaders</text>
+<text transform="translate(22,637)" font-size="24" style="fill:rgb(192, 223, 37)">dwarf planet</text>
+<text transform="translate(636,276)" font-size="24" style="fill:rgb(71, 44, 122)">end life</text>
+<text transform="translate(13,91)" font-size="24" style="fill:rgb(234, 229, 26)">much more</text>
+<text transform="translate(362,289)" font-size="24" style="fill:rgb(229, 228, 25)">chinese stock</text>
+<text transform="translate(25,661)" font-size="24" style="fill:rgb(59, 81, 139)">criminal justice</text>
+<text transform="translate(10,769)" font-size="24" style="fill:rgb(168, 219, 52)">greek people</text>
+<text transform="translate(135,282)" font-size="24" style="fill:rgb(31, 152, 139)">long term</text>
+<text transform="translate(651,247)" font-size="24" style="fill:rgb(68, 58, 131)">other word</text>
+<text transform="translate(108,555)" font-size="24" style="fill:rgb(40, 125, 142)">chinese government</text>
+<text transform="translate(627,204)" font-size="24" style="fill:rgb(71, 16, 99)">right now</text>
+<text transform="translate(621,528)" font-size="24" style="fill:rgb(59, 81, 139)">child leave</text>
+<text transform="translate(35,796)" font-size="24" style="fill:rgb(44, 177, 126)">iran deal</text>
+<text transform="translate(19,596)" font-size="24" style="fill:rgb(105, 205, 91)">power plant</text>
+<text transform="translate(14,258)" font-size="22" style="fill:rgb(36, 135, 142)">stock market crash</text>
+<text transform="translate(370,826)" font-size="22" style="fill:rgb(70, 48, 126)">child leave behind</text>
+<text transform="translate(412,420)" font-size="21" style="fill:rgb(184, 222, 41)">borrow money</text>
+<text transform="translate(23,571)" font-size="21" style="fill:rgb(234, 229, 26)">leave behind</text>
+<text transform="translate(447,554)" font-size="19" style="fill:rgb(72, 22, 104)">european creditors</text>
+<text transform="translate(304,670)" font-size="19" style="fill:rgb(70, 8, 92)">parole board</text>
+<text transform="translate(165,370)" font-size="19" style="fill:rgb(32, 147, 140)">plan parenthood</text>
+<text transform="translate(242,755)" font-size="18" style="fill:rgb(60, 79, 138)">shanghai composite</text>
+<text transform="translate(676,543)" font-size="18" style="fill:rgb(134, 213, 73)">past years</text>
+<text transform="translate(277,171)" font-size="18" style="fill:rgb(33, 142, 141)">greece eurozone</text>
+<text transform="translate(1,223)" font-size="18" style="fill:rgb(69, 53, 129)">more likely</text>
+<text transform="translate(33,114)" font-size="18" style="fill:rgb(42, 176, 127)">greek bank</text>
+<text transform="translate(9,490)" font-size="18" style="fill:rgb(50, 101, 142)">finance minister</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - July-2015 - Comm. 1 w. 250 documents</text>
+</svg>

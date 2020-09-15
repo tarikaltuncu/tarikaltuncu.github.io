@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(10,418)" font-size="138" style="fill:rgb(70, 11, 94)">same sex</text>
+<text transform="translate(4,710)" font-size="120" style="fill:rgb(41, 122, 142)">west africa</text>
+<text transform="translate(93,510)" font-size="97" style="fill:rgb(70, 10, 93)">zehaf bibeau</text>
+<text transform="translate(14,155)" font-size="94" style="fill:rgb(33, 142, 141)">ebola patients</text>
+<text transform="translate(15,781)" font-size="77" style="fill:rgb(80, 196, 106)">same sex marriage</text>
+<text transform="translate(142,253)" font-size="77" style="fill:rgb(71, 44, 122)">sex marriage</text>
+<text transform="translate(212,565)" font-size="73" style="fill:rgb(72, 41, 121)">supreme court</text>
+<text transform="translate(74,309)" font-size="71" style="fill:rgb(30, 155, 138)">hong kong</text>
+<text transform="translate(62,72)" font-size="51" style="fill:rgb(74, 193, 109)">street harassment</text>
+<text transform="translate(473,315)" font-size="51" style="fill:rgb(72, 22, 104)">new york</text>
+<text transform="translate(138,821)" font-size="50" style="fill:rgb(56, 88, 140)">sierra leone</text>
+<text transform="translate(355,606)" font-size="49" style="fill:rgb(35, 169, 131)">unite state</text>
+<text transform="translate(30,604)" font-size="48" style="fill:rgb(31, 154, 138)">read vox</text>
+<text transform="translate(2,186)" font-size="39" style="fill:rgb(184, 222, 41)">washington post</text>
+<text transform="translate(538,189)" font-size="34" style="fill:rgb(173, 220, 48)">show symptoms</text>
+<text transform="translate(509,812)" font-size="33" style="fill:rgb(37, 171, 130)">year old</text>
+<text transform="translate(221,97)" font-size="31" style="fill:rgb(40, 124, 142)">read vox card</text>
+<text transform="translate(2,629)" font-size="29" style="fill:rgb(49, 181, 123)">diagnose ebola</text>
+<text transform="translate(135,732)" font-size="28" style="fill:rgb(67, 61, 132)">vox card stack</text>
+<text transform="translate(5,544)" font-size="28" style="fill:rgb(44, 114, 142)">vox card</text>
+<text transform="translate(602,54)" font-size="28" style="fill:rgb(110, 206, 88)">civil right</text>
+<text transform="translate(589,76)" font-size="28" style="fill:rgb(49, 104, 142)">fox news</text>
+<text transform="translate(380,732)" font-size="27" style="fill:rgb(192, 223, 37)">sexual assault</text>
+<text transform="translate(275,627)" font-size="27" style="fill:rgb(31, 160, 136)">grand jury</text>
+<text transform="translate(574,437)" font-size="24" style="fill:rgb(31, 150, 139)">state department</text>
+<text transform="translate(18,450)" font-size="24" style="fill:rgb(197, 224, 33)">health workers</text>
+<text transform="translate(248,329)" font-size="24" style="fill:rgb(115, 208, 86)">texas nurse</text>
+<text transform="translate(652,638)" font-size="24" style="fill:rgb(60, 80, 139)">learn more</text>
+<text transform="translate(7,330)" font-size="24" style="fill:rgb(86, 198, 103)">circuit court</text>
+<text transform="translate(381,174)" font-size="24" style="fill:rgb(72, 41, 121)">card stack</text>
+<text transform="translate(278,205)" font-size="22" style="fill:rgb(51, 98, 141)">affirmative consent</text>
+<text transform="translate(617,333)" font-size="22" style="fill:rgb(33, 165, 133)">marriage ban</text>
+<text transform="translate(10,561)" font-size="19" style="fill:rgb(58, 83, 139)">watch minute video</text>
+<text transform="translate(680,825)" font-size="19" style="fill:rgb(132, 212, 75)">ebola read</text>
+<text transform="translate(642,729)" font-size="19" style="fill:rgb(33, 166, 133)">police officer</text>
+<text transform="translate(382,432)" font-size="16" style="fill:rgb(70, 192, 111)">health care workers</text>
+<text transform="translate(649,385)" font-size="16" style="fill:rgb(38, 130, 142)">ebola patient</text>
+<text transform="translate(523,824)" font-size="15" style="fill:rgb(31, 153, 138)">incubation period</text>
+<text transform="translate(12,211)" font-size="15" style="fill:rgb(72, 29, 111)">death penalty</text>
+<text transform="translate(458,332)" font-size="15" style="fill:rgb(119, 209, 83)">watch minute</text>
+<text transform="translate(693,210)" font-size="15" style="fill:rgb(44, 114, 142)">war drug</text>
+<text transform="translate(682,585)" font-size="15" style="fill:rgb(71, 16, 99)">peace prize</text>
+<text transform="translate(663,361)" font-size="15" style="fill:rgb(39, 127, 142)">care workers</text>
+<text transform="translate(1,239)" font-size="15" style="fill:rgb(46, 179, 124)">parliament build</text>
+<text transform="translate(86,87)" font-size="15" style="fill:rgb(72, 193, 110)">treat ebola</text>
+<text transform="translate(303,395)" font-size="14" style="fill:rgb(58, 84, 140)">health presbyterian</text>
+<text transform="translate(176,428)" font-size="12" style="fill:rgb(132, 212, 75)">texas health presbyterian</text>
+<text transform="translate(461,269)" font-size="12" style="fill:rgb(42, 118, 142)">ebola read vox</text>
+<text transform="translate(337,355)" font-size="12" style="fill:rgb(30, 157, 137)">michael brown</text>
+<text transform="translate(362,483)" font-size="12" style="fill:rgb(71, 44, 122)">minute video</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - October-2014 - Comm. 4 w. 179 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(97,761)" font-size="123" style="fill:rgb(43, 116, 142)">hong kong</text>
+<text transform="translate(9,421)" font-size="89" style="fill:rgb(66, 63, 133)">ray rice</text>
+<text transform="translate(33,568)" font-size="78" style="fill:rgb(84, 197, 104)">same sex</text>
+<text transform="translate(49,130)" font-size="70" style="fill:rgb(33, 144, 141)">domestic violence</text>
+<text transform="translate(140,297)" font-size="68" style="fill:rgb(63, 71, 136)">police officer</text>
+<text transform="translate(115,216)" font-size="66" style="fill:rgb(32, 163, 134)">islamic state</text>
+<text transform="translate(301,492)" font-size="65" style="fill:rgb(173, 220, 48)">sex marriage</text>
+<text transform="translate(146,623)" font-size="64" style="fill:rgb(127, 211, 78)">same sex marriage</text>
+<text transform="translate(310,344)" font-size="61" style="fill:rgb(72, 41, 121)">border patrol</text>
+<text transform="translate(408,547)" font-size="50" style="fill:rgb(72, 36, 117)">michael brown</text>
+<text transform="translate(434,412)" font-size="50" style="fill:rgb(72, 22, 104)">nude photos</text>
+<text transform="translate(6,60)" font-size="35" style="fill:rgb(56, 88, 140)">police departments</text>
+<text transform="translate(49,356)" font-size="35" style="fill:rgb(67, 62, 133)">middle east</text>
+<text transform="translate(103,652)" font-size="35" style="fill:rgb(72, 28, 110)">islamic state iraq</text>
+<text transform="translate(407,789)" font-size="35" style="fill:rgb(56, 88, 140)">state iraq</text>
+<text transform="translate(68,501)" font-size="35" style="fill:rgb(184, 222, 41)">grand jury</text>
+<text transform="translate(14,810)" font-size="35" style="fill:rgb(72, 28, 110)">supreme court</text>
+<text transform="translate(249,158)" font-size="35" style="fill:rgb(99, 203, 95)">secret service</text>
+<text transform="translate(447,60)" font-size="35" style="fill:rgb(51, 98, 141)">criminal justice</text>
+<text transform="translate(583,677)" font-size="35" style="fill:rgb(72, 20, 103)">iraq syria</text>
+<text transform="translate(275,448)" font-size="34" style="fill:rgb(59, 187, 117)">white house</text>
+<text transform="translate(359,818)" font-size="28" style="fill:rgb(117, 208, 84)">arifleischer september</text>
+<text transform="translate(343,234)" font-size="22" style="fill:rgb(31, 160, 136)">fleischer arifleischer september</text>
+<text transform="translate(138,465)" font-size="22" style="fill:rgb(72, 24, 106)">unite state</text>
+<text transform="translate(663,181)" font-size="22" style="fill:rgb(31, 152, 139)">janay rice</text>
+<text transform="translate(43,154)" font-size="22" style="fill:rgb(31, 162, 135)">justice system</text>
+<text transform="translate(178,679)" font-size="22" style="fill:rgb(72, 20, 103)">ferguson missouri</text>
+<text transform="translate(12,234)" font-size="22" style="fill:rgb(186, 222, 40)">criminal justice system</text>
+<text transform="translate(456,566)" font-size="22" style="fill:rgb(31, 161, 135)">air strike</text>
+<text transform="translate(593,363)" font-size="22" style="fill:rgb(72, 37, 118)">civil right</text>
+<text transform="translate(10,780)" font-size="20" style="fill:rgb(66, 65, 134)">ari fleischer arifleischer</text>
+<text transform="translate(307,362)" font-size="20" style="fill:rgb(46, 179, 124)">fleischer arifleischer</text>
+<text transform="translate(554,158)" font-size="20" style="fill:rgb(72, 22, 104)">use force</text>
+<text transform="translate(606,566)" font-size="20" style="fill:rgb(70, 50, 126)">ari fleischer</text>
+<text transform="translate(486,639)" font-size="20" style="fill:rgb(38, 130, 142)">chovanec prchovanec</text>
+<text transform="translate(66,823)" font-size="16" style="fill:rgb(68, 57, 131)">chovanec prchovanec september</text>
+<text transform="translate(357,580)" font-size="15" style="fill:rgb(178, 221, 45)">patrick chovanec prchovanec</text>
+<text transform="translate(37,251)" font-size="15" style="fill:rgb(63, 72, 137)">prchovanec september</text>
+<text transform="translate(354,246)" font-size="15" style="fill:rgb(184, 222, 41)">self defense</text>
+<text transform="translate(150,440)" font-size="15" style="fill:rgb(72, 41, 121)">darren wilson</text>
+<text transform="translate(163,315)" font-size="15" style="fill:rgb(33, 145, 140)">president obama</text>
+<text transform="translate(21,656)" font-size="15" style="fill:rgb(53, 95, 141)">joe biden</text>
+<text transform="translate(635,81)" font-size="15" style="fill:rgb(39, 127, 142)">jennifer lawrence</text>
+<text transform="translate(117,83)" font-size="15" style="fill:rgb(155, 217, 60)">patrick chovanec</text>
+<text transform="translate(651,435)" font-size="15" style="fill:rgb(34, 167, 133)">video evidence</text>
+<text transform="translate(24,584)" font-size="15" style="fill:rgb(41, 121, 142)">year old</text>
+<text transform="translate(381,746)" font-size="15" style="fill:rgb(68, 57, 131)">kate upton</text>
+<text transform="translate(498,440)" font-size="15" style="fill:rgb(72, 27, 109)">more likely</text>
+<text transform="translate(340,75)" font-size="15" style="fill:rgb(34, 168, 132)">ferguson police</text>
+<text transform="translate(281,516)" font-size="15" style="fill:rgb(71, 45, 123)">hong kongers</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.104477611940297" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - September-2014 - Comm. 4 w. 164 documents</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(117,701)" font-size="62" style="fill:rgb(70, 7, 90)">immigration reform</text>
+<text transform="translate(239,370)" font-size="46" style="fill:rgb(54, 93, 141)">medicaid expansion</text>
+<text transform="translate(131,419)" font-size="44" style="fill:rgb(31, 158, 137)">public sector</text>
+<text transform="translate(294,783)" font-size="42" style="fill:rgb(41, 121, 142)">second generation</text>
+<text transform="translate(227,164)" font-size="42" style="fill:rgb(181, 222, 43)">generation immigrants</text>
+<text transform="translate(238,251)" font-size="40" style="fill:rgb(44, 113, 142)">cantor defeat</text>
+<text transform="translate(429,471)" font-size="39" style="fill:rgb(134, 213, 73)">hillary clinton</text>
+<text transform="translate(15,95)" font-size="38" style="fill:rgb(37, 171, 130)">latino voters</text>
+<text transform="translate(91,602)" font-size="37" style="fill:rgb(70, 8, 92)">representation fee</text>
+<text transform="translate(61,537)" font-size="36" style="fill:rgb(50, 182, 122)">second generation immigrants</text>
+<text transform="translate(455,95)" font-size="34" style="fill:rgb(62, 73, 137)">iraqi government</text>
+<text transform="translate(204,628)" font-size="33" style="fill:rgb(46, 110, 142)">eligible vote</text>
+<text transform="translate(40,305)" font-size="33" style="fill:rgb(37, 171, 130)">immigration bill</text>
+<text transform="translate(478,306)" font-size="32" style="fill:rgb(127, 211, 78)">probable cause</text>
+<text transform="translate(132,466)" font-size="30" style="fill:rgb(50, 182, 122)">third generation</text>
+<text transform="translate(42,206)" font-size="30" style="fill:rgb(72, 35, 116)">first year</text>
+<text transform="translate(458,204)" font-size="30" style="fill:rgb(248, 230, 33)">pass immigration</text>
+<text transform="translate(308,729)" font-size="30" style="fill:rgb(46, 110, 142)">child migrants</text>
+<text transform="translate(320,60)" font-size="30" style="fill:rgb(33, 165, 133)">liberals conservatives</text>
+<text transform="translate(242,818)" font-size="30" style="fill:rgb(52, 97, 141)">everything bring bear</text>
+<text transform="translate(546,576)" font-size="30" style="fill:rgb(40, 125, 142)">improve reform</text>
+<text transform="translate(57,118)" font-size="30" style="fill:rgb(59, 187, 117)">improve reform medicaid</text>
+<text transform="translate(80,496)" font-size="30" style="fill:rgb(39, 128, 142)">look everything bring</text>
+<text transform="translate(469,639)" font-size="30" style="fill:rgb(69, 56, 130)">medicaid want look</text>
+<text transform="translate(456,423)" font-size="30" style="fill:rgb(69, 4, 87)">need improve reform</text>
+<text transform="translate(398,274)" font-size="30" style="fill:rgb(189, 223, 38)">reform medicaid want</text>
+<text transform="translate(8,745)" font-size="25" style="fill:rgb(72, 20, 103)">want look everything</text>
+<text transform="translate(67,781)" font-size="25" style="fill:rgb(70, 192, 111)">colbert viewers</text>
+<text transform="translate(252,189)" font-size="25" style="fill:rgb(53, 95, 141)">humor colbert</text>
+<text transform="translate(235,556)" font-size="25" style="fill:rgb(246, 230, 32)">humor colbert report</text>
+<text transform="translate(139,323)" font-size="23" style="fill:rgb(38, 130, 142)">political humor colbert</text>
+<text transform="translate(511,602)" font-size="23" style="fill:rgb(71, 45, 123)">reportget more daily</text>
+<text transform="translate(606,500)" font-size="23" style="fill:rgb(37, 171, 130)">pass budget</text>
+<text transform="translate(314,647)" font-size="23" style="fill:rgb(103, 204, 92)">latino vote</text>
+<text transform="translate(572,723)" font-size="23" style="fill:rgb(57, 86, 140)">legal status</text>
+<text transform="translate(618,113)" font-size="23" style="fill:rgb(33, 166, 133)">health care</text>
+<text transform="translate(20,720)" font-size="23" style="fill:rgb(33, 145, 140)">latino citizens</text>
+<text transform="translate(53,52)" font-size="23" style="fill:rgb(72, 38, 119)">immigrants children</text>
+<text transform="translate(10,260)" font-size="23" style="fill:rgb(160, 218, 57)">reform medicaid</text>
+<text transform="translate(519,324)" font-size="22" style="fill:rgb(132, 212, 75)">episodes indecision</text>
+<text transform="translate(162,432)" font-size="17" style="fill:rgb(71, 45, 123)">episodes indecision political</text>
+<text transform="translate(551,224)" font-size="17" style="fill:rgb(137, 213, 72)">full episodes indecision</text>
+<text transform="translate(9,361)" font-size="17" style="fill:rgb(35, 169, 131)">indecision political</text>
+<text transform="translate(496,742)" font-size="17" style="fill:rgb(36, 170, 131)">indecision political humor</text>
+<text transform="translate(25,169)" font-size="17" style="fill:rgb(30, 157, 137)">leave office</text>
+<text transform="translate(12,142)" font-size="17" style="fill:rgb(96, 202, 96)">confusion immigration</text>
+<text transform="translate(237,208)" font-size="17" style="fill:rgb(44, 113, 142)">able get always</text>
+<text transform="translate(8,233)" font-size="17" style="fill:rgb(50, 182, 122)">bill enormous post</text>
+<text transform="translate(580,383)" font-size="17" style="fill:rgb(134, 213, 73)">clintons able</text>
+<text transform="translate(23,572)" font-size="17" style="fill:rgb(202, 225, 31)">clintons able get</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - June-2014 - Comm. 2 w. 14 documents</text>
+</svg>

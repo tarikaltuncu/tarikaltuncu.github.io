@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAkwAAsAAAAACxgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfVh2PWNtYXAAAAIEAAAASQAAAFQBGAGZZ2FzcAAACSQAAAAMAAAADAAEAAdnbHlmAAAChAAABboAAAcuad/0iGhlYWQAAAEIAAAANgAAADYBGHknaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADQAAAA0Cw4Hu2xvY2EAAAJQAAAANAAAADQV4xfVbWF4cAAAAWAAAAAYAAAAIAAdADhuYW1lAAAIQAAAAMsAAAFoHBo1AHBvc3QAAAkMAAAAFgAAACD/aQBnAAEAAAABAADZv4i5Xw889QALCAAAAAAAwcfpVAAAAADbZEai//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQZDBnYGYAAUYGNAAACJcAVnicY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwYFBiq2OT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABRjAx+AAAEzQDBAAAAhwCeAKwAiQCFAJwAZgCgAMUA1wC8AFwAoABzAJ4BCADLAIsAoABS//wAUgC2eJxjYGBgYmBgYAZiESDJCKZZGByANA8DB1COhUGBIZOhgKGcoer/f6CoAkMiQzZDEUPl////H/5f+H/B//n/54H1wQEA1gkQqAAAAAAAAAAAAAA0AGQAigC7AOcBDAFaAXoBnQG+AdUCBQIjAkwCfQKbAsoC7QMMAycDVwOAA5d4nFVVDUwTZxj+3rvj2iGBHvRnBA0ct0IYEkdL6WQDdWLCKmSOIDLjCEPEHxZ/wGiQGGSmIusWhyAynYy/MBMdCGHNmOgkFX9G1BBhGpeMESaLC1PCMHOu97n3K3WypHfXS/o+7/M+3/M+JRypfjYlcEI+MRGZEDlWEUUlOsamM9ttSUq0JjbZajEaJF4jiga91ZJs4yvN2qzWA219QIdm675Zdvn8xFBv6+X2a3VdjR+sPnsSMnWaVVPZNQWdl1QdF67RlmzvaasnHGnCPuminoSShYSYFY0iWSW9xor4oZKOU6J5vdEaJenkaBFygsxOt1Zbcuf6/clrt8pcjaCjD08ecrlEPT38bm07HaWzdIbe5t6YGIAOaOonBMhZxDfjHGH4oolRGJTFbhCVKCLpiGwRzGkNe+insPVU+yEPfUZ/hWjQ9AhK01K6kW5La04FBXQQDjEEudYg1hIf10WMKyrCSbpQq8VkjbEhbYW3Jfk7JPNV2l3DjOfN3UFB7jrF1UinIbTRWfcVxEMQBENCc5UMvX9PwdO4iQG6nhZ2sw5O7JCBbCViRL5y6BzXaMYVBTGYZZ0cJWR4n2phjaer48pjeg9CJkZUL+VS6TT9g+NoTWbzamwhQiDY6eyYAolMhS8IEdaLkcTAUCVFkm1mWxJqbEJJokWDQRb0tMJNPZDaO1xVEbdlc0UeOPkB7zJ+YLtcMNCpHFlYVLaFEJ4UU71QjAxfIYtJMqIZNEaDHinGMiMwU+BRxdiS7L4rZq4Jb2GmMeiB3eQoVEkovrxi9KI9sqjlfOe36tC9iekC53vFo4O5y0+MjY/Dqv5JCAFXkeDYFbH2QMv34utZOSeO0OqW2pGUJSU715jPbHIP6tX+yUczEzToSudYXiqbshmnTMDzkdCxkg5PQmJuYmbCr/zeh/SG260N3PwAnJwHBFqqXkXnWD47TXeoVqb+INZbxWCixRMmYPHNZUsKM9tkKcCAknHl25bFl4TQP8EDBd6jkCcGl6YsLStVzxoqvKv0FRV6xuIOoqAlSTC+2MEK6CCNjwgPldXg+pmGcoGjNLeqt1fHxTVCDTWrtfAkm64X9WoyHUMENK4QjwgvIcKL5no66+tbC3kBTsO+pxW+hkA24K/L8ESi2NRJvvPEdjr/02piu+S7sYUdtqWte6dlf05Ga2VE4MpDbRYx88iB3ZznaGmHR21lsnz5SL0qOOpPu919d1EWv6qIr5uvqmm+qHUR/xOVVfsk5UgZ+jkPaxew/Qvw+5jdY9ma4MUV3qUPIGTyHhjpw18gmV6jQ3qUTQANvEZ/wI38i948Du3QTAvoBpYX6L90RPTvoPHFjP68MMwPDFy9CO32kfmB0eh0Vck0XkxGks8DoyhuLjHOoeCgxXmVuXlBEzNPRuwhKIkVm9q63fVGbWZn5R4hsSOhr0s9Jziu7y1mZz/kT81IQuw25IFWj32+BQwLyZmMcwszNNANYYXdD8rHBq+cedNdM7XJfdv1+49PEjtyW5fmLF9Xu/HwScexDGfq2yuyjn3YcAbRXQw9YAfT0swiTGJ7HGaVZIMsYQrz3o/20Qb6GBZkbQU3dVx6v+HjKMjj9ucnQiT9qUY96PFtCaIkCA7flmCuMxirpGMhzjx6IiJw631a7p5qqXdjWNVyN9RU6u0b4VL+cbPqbFSnHKsXYDVYw4yoS1gYmnyGFvRPrw0RNfmPLtACwaHu/i1/MYRzn2AZPPNi1TBWhWMVzyvsM1drD/vvyfMJB9PFFdUXxloLo01ipNk5UBn/shi5qLhpnMsBB+1hQqvj393q+5p7S73oaZs5zkX6WaErGCtMTSTjBwT2nxWLx2BJttuz+0HM1oimlUjPvLLnVG52mqOg5NUURCy9sXZnLxKN7eySaoOyixoYIsIKekTEHZRlG8g22QCYkt5Wrl79lI9Xy7nP9/PpNUe9w+RfL9c7NAAAeJx9jkEOwVAURQ+KmFiAgfwFIIrEWEiMTEgMzKqkmkgrxYAFWIFN2IkFWYDb70uMpLnNfe/dd94HqqwoUfBqwE76+AJNVR9fpM7N+RID7s57P5kyLZ7OV2jwYkJMJJ2kK1s2GClQHciFpBy4kNnUTl3DQ+rR1TcUzTBVJtV0r23DWD7TTv4PLDUloaM7mVxs+QtNEo5yMztNmWs34ixGoNxIs1CdROmtakNb+k9Y2uTR3TP4upm/0bAWNxZ5Y7s+/R/Sl+MobytSNTcAeJxjYGYAg/9pDGlAipEBDQAAKf4B0AAAAAAAAgAFAAL//wAD")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(54,794)" font-size="51" style="fill:rgb(165, 219, 54)">redistricting commission</text>
+<text transform="translate(33,218)" font-size="44" style="fill:rgb(99, 203, 95)">independent commission</text>
+<text transform="translate(64,340)" font-size="43" style="fill:rgb(205, 225, 29)">remain unpopular</text>
+<text transform="translate(317,690)" font-size="42" style="fill:rgb(70, 8, 92)">obamacare successes</text>
+<text transform="translate(245,98)" font-size="41" style="fill:rgb(31, 161, 135)">derangement syndrome</text>
+<text transform="translate(327,600)" font-size="41" style="fill:rgb(137, 213, 72)">sebelius resign</text>
+<text transform="translate(252,271)" font-size="41" style="fill:rgb(184, 222, 41)">sebelius resignation</text>
+<text transform="translate(229,545)" font-size="40" style="fill:rgb(66, 63, 133)">handle redistricting</text>
+<text transform="translate(172,483)" font-size="39" style="fill:rgb(31, 161, 136)">california commission</text>
+<text transform="translate(101,633)" font-size="39" style="fill:rgb(34, 141, 141)">obamacare only percent</text>
+<text transform="translate(244,383)" font-size="39" style="fill:rgb(34, 168, 132)">public say oppose</text>
+<text transform="translate(82,146)" font-size="38" style="fill:rgb(162, 218, 55)">turn ideas</text>
+<text transform="translate(419,736)" font-size="38" style="fill:rgb(105, 205, 91)">let politicians</text>
+<text transform="translate(319,153)" font-size="38" style="fill:rgb(32, 146, 140)">news obamacare</text>
+<text transform="translate(309,428)" font-size="38" style="fill:rgb(251, 231, 35)">percent public say</text>
+<text transform="translate(1,725)" font-size="38" style="fill:rgb(39, 127, 142)">terrible politics</text>
+<text transform="translate(293,56)" font-size="30" style="fill:rgb(216, 226, 25)">policies obamacare</text>
+<text transform="translate(45,507)" font-size="30" style="fill:rgb(176, 221, 47)">kathleen sebelius</text>
+<text transform="translate(538,316)" font-size="30" style="fill:rgb(43, 116, 142)">obamacare only</text>
+<text transform="translate(22,449)" font-size="30" style="fill:rgb(221, 227, 24)">white house</text>
+<text transform="translate(6,818)" font-size="30" style="fill:rgb(63, 72, 137)">law remain unpopular</text>
+<text transform="translate(482,338)" font-size="29" style="fill:rgb(44, 115, 142)">improve obamacare</text>
+<text transform="translate(47,576)" font-size="29" style="fill:rgb(63, 188, 115)">oppose obamacare</text>
+<text transform="translate(311,177)" font-size="29" style="fill:rgb(47, 107, 142)">case conservatism</text>
+<text transform="translate(79,293)" font-size="29" style="fill:rgb(31, 162, 135)">case conservatism successes</text>
+<text transform="translate(408,506)" font-size="29" style="fill:rgb(139, 214, 70)">conservatism successes</text>
+<text transform="translate(489,818)" font-size="29" style="fill:rgb(46, 111, 142)">irony obamacare</text>
+<text transform="translate(10,654)" font-size="22" style="fill:rgb(44, 113, 142)">irony obamacare successes</text>
+<text transform="translate(59,361)" font-size="22" style="fill:rgb(90, 200, 100)">long ted cruz</text>
+<text transform="translate(15,413)" font-size="22" style="fill:rgb(33, 165, 133)">many case conservatism</text>
+<text transform="translate(483,654)" font-size="22" style="fill:rgb(45, 178, 125)">obamacare derangement</text>
+<text transform="translate(328,560)" font-size="18" style="fill:rgb(63, 188, 115)">obamacare derangement syndrome</text>
+<text transform="translate(7,170)" font-size="18" style="fill:rgb(181, 222, 43)">obamacare stop republican</text>
+<text transform="translate(46,682)" font-size="18" style="fill:rgb(70, 48, 126)">obamacare successes many</text>
+<text transform="translate(41,105)" font-size="18" style="fill:rgb(40, 174, 128)">outline plan tweak</text>
+<text transform="translate(68,388)" font-size="18" style="fill:rgb(57, 86, 140)">people rise sign</text>
+<text transform="translate(513,123)" font-size="18" style="fill:rgb(69, 53, 129)">promise obamacare stop</text>
+<text transform="translate(619,175)" font-size="18" style="fill:rgb(43, 117, 142)">really disaster</text>
+<text transform="translate(29,56)" font-size="18" style="fill:rgb(137, 213, 72)">right struggle obamacare</text>
+<text transform="translate(183,231)" font-size="17" style="fill:rgb(112, 207, 87)">struggle obamacare derangement</text>
+<text transform="translate(45,71)" font-size="17" style="fill:rgb(119, 209, 83)">successes many case</text>
+<text transform="translate(28,530)" font-size="17" style="fill:rgb(72, 193, 110)">today right struggle</text>
+<text transform="translate(646,154)" font-size="17" style="fill:rgb(72, 26, 108)">see obamacare</text>
+<text transform="translate(546,750)" font-size="17" style="fill:rgb(37, 133, 142)">call obamacare</text>
+<text transform="translate(654,212)" font-size="17" style="fill:rgb(38, 129, 142)">percent want</text>
+<text transform="translate(402,750)" font-size="17" style="fill:rgb(192, 223, 37)">public say</text>
+<text transform="translate(205,600)" font-size="17" style="fill:rgb(38, 130, 142)">long ted</text>
+<text transform="translate(654,47)" font-size="17" style="fill:rgb(72, 23, 105)">plan tweak</text>
+<text transform="translate(68,263)" font-size="17" style="fill:rgb(186, 222, 40)">struggle obamacare</text>
+<text transform="translate(611,624)" font-size="17" style="fill:rgb(90, 200, 100)">successes many</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.983606557377048" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - April-2014 - Comm. 2 w. 3 documents</text>
+</svg>

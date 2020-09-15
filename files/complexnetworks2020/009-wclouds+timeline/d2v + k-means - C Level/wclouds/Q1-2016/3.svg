@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(1,452)" font-size="88" style="fill:rgb(37, 133, 142)">batman superman</text>
+<text transform="translate(187,720)" font-size="87" style="fill:rgb(239, 229, 28)">super bowl</text>
+<text transform="translate(182,354)" font-size="81" style="fill:rgb(139, 214, 70)">best picture</text>
+<text transform="translate(108,110)" font-size="80" style="fill:rgb(42, 119, 142)">comic book</text>
+<text transform="translate(146,555)" font-size="73" style="fill:rgb(35, 169, 131)">star war</text>
+<text transform="translate(161,231)" font-size="72" style="fill:rgb(55, 91, 141)">force awaken</text>
+<text transform="translate(23,611)" font-size="70" style="fill:rgb(162, 218, 55)">wonder woman</text>
+<text transform="translate(83,816)" font-size="68" style="fill:rgb(31, 148, 140)">mad max</text>
+<text transform="translate(346,151)" font-size="53" style="fill:rgb(147, 215, 65)">motion picture</text>
+<text transform="translate(426,787)" font-size="52" style="fill:rgb(231, 228, 25)">big short</text>
+<text transform="translate(3,151)" font-size="52" style="fill:rgb(134, 213, 73)">kanye west</text>
+<text transform="translate(91,649)" font-size="49" style="fill:rgb(223, 227, 24)">golden globes</text>
+<text transform="translate(521,528)" font-size="49" style="fill:rgb(71, 46, 124)">walk dead</text>
+<text transform="translate(100,493)" font-size="47" style="fill:rgb(41, 175, 127)">david bowie</text>
+<text transform="translate(480,269)" font-size="47" style="fill:rgb(72, 38, 119)">fury road</text>
+<text transform="translate(85,270)" font-size="46" style="fill:rgb(42, 119, 142)">mad max fury</text>
+<text transform="translate(554,611)" font-size="46" style="fill:rgb(31, 161, 136)">max fury</text>
+<text transform="translate(464,385)" font-size="39" style="fill:rgb(110, 206, 88)">max fury road</text>
+<text transform="translate(146,383)" font-size="37" style="fill:rgb(54, 93, 141)">broad city</text>
+<text transform="translate(24,749)" font-size="36" style="fill:rgb(76, 194, 108)">win best</text>
+<text transform="translate(484,555)" font-size="35" style="fill:rgb(38, 130, 142)">harry potter</text>
+<text transform="translate(205,179)" font-size="35" style="fill:rgb(35, 169, 131)">make murderer</text>
+<text transform="translate(522,824)" font-size="35" style="fill:rgb(208, 225, 28)">second season</text>
+<text transform="translate(4,702)" font-size="35" style="fill:rgb(63, 71, 136)">new york</text>
+<text transform="translate(465,641)" font-size="35" style="fill:rgb(69, 56, 130)">box office</text>
+<text transform="translate(532,480)" font-size="35" style="fill:rgb(155, 217, 60)">first season</text>
+<text transform="translate(586,84)" font-size="32" style="fill:rgb(35, 137, 142)">los angeles</text>
+<text transform="translate(6,331)" font-size="32" style="fill:rgb(55, 91, 141)">iron fist</text>
+<text transform="translate(1,53)" font-size="26" style="fill:rgb(36, 170, 131)">crazy girlfriend</text>
+<text transform="translate(14,771)" font-size="26" style="fill:rgb(42, 118, 142)">house card</text>
+<text transform="translate(350,736)" font-size="20" style="fill:rgb(70, 52, 128)">kanye west kanyewest</text>
+<text transform="translate(601,175)" font-size="20" style="fill:rgb(147, 215, 65)">west kanyewest</text>
+<text transform="translate(16,539)" font-size="20" style="fill:rgb(35, 169, 131)">black hole</text>
+<text transform="translate(629,737)" font-size="20" style="fill:rgb(37, 133, 142)">golden globe</text>
+<text transform="translate(18,179)" font-size="20" style="fill:rgb(147, 215, 65)">make sense</text>
+<text transform="translate(202,757)" font-size="20" style="fill:rgb(157, 217, 59)">kanyewest february</text>
+<text transform="translate(108,283)" font-size="17" style="fill:rgb(32, 146, 140)">west kanyewest february</text>
+<text transform="translate(602,290)" font-size="17" style="fill:rgb(202, 225, 31)">leonardo dicaprio</text>
+<text transform="translate(320,510)" font-size="17" style="fill:rgb(229, 228, 25)">learn more</text>
+<text transform="translate(11,218)" font-size="17" style="fill:rgb(72, 41, 121)">captain america</text>
+<text transform="translate(27,510)" font-size="17" style="fill:rgb(170, 220, 50)">todd vanderwerff</text>
+<text transform="translate(336,663)" font-size="17" style="fill:rgb(46, 109, 142)">cloverfield lane</text>
+<text transform="translate(416,398)" font-size="17" style="fill:rgb(62, 76, 138)">warner bros</text>
+<text transform="translate(412,45)" font-size="17" style="fill:rgb(52, 96, 141)">pee wee</text>
+<text transform="translate(10,376)" font-size="17" style="fill:rgb(31, 159, 136)">scott kelly</text>
+<text transform="translate(564,46)" font-size="17" style="fill:rgb(37, 172, 130)">take place</text>
+<text transform="translate(672,208)" font-size="17" style="fill:rgb(31, 151, 139)">dark knight</text>
+<text transform="translate(35,344)" font-size="17" style="fill:rgb(36, 134, 142)">best actress</text>
+<text transform="translate(1,297)" font-size="17" style="fill:rgb(253, 231, 37)">gravitational wave</text>
+<text transform="translate(384,803)" font-size="17" style="fill:rgb(160, 218, 57)">much more</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + k-means - C Level - Q1-2016 - Comm. 3 w. 486 documents</text>
+</svg>

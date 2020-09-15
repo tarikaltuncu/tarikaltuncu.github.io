@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(14,470)" font-size="83" style="fill:rgb(226, 228, 24)">national anthem</text>
+<text transform="translate(113,126)" font-size="73" style="fill:rgb(101, 203, 94)">police officer</text>
+<text transform="translate(77,709)" font-size="70" style="fill:rgb(39, 128, 142)">police shoot</text>
+<text transform="translate(59,294)" font-size="70" style="fill:rgb(62, 74, 137)">black live</text>
+<text transform="translate(70,595)" font-size="68" style="fill:rgb(147, 215, 65)">black people</text>
+<text transform="translate(253,784)" font-size="66" style="fill:rgb(33, 145, 140)">stop frisk</text>
+<text transform="translate(379,178)" font-size="64" style="fill:rgb(70, 51, 127)">live matter</text>
+<text transform="translate(157,362)" font-size="62" style="fill:rgb(70, 10, 93)">black live matter</text>
+<text transform="translate(12,517)" font-size="60" style="fill:rgb(231, 228, 25)">take knee</text>
+<text transform="translate(8,204)" font-size="60" style="fill:rgb(66, 65, 134)">shoot kill</text>
+<text transform="translate(333,515)" font-size="49" style="fill:rgb(72, 33, 115)">police brutality</text>
+<text transform="translate(379,217)" font-size="49" style="fill:rgb(44, 115, 142)">north carolina</text>
+<text transform="translate(456,637)" font-size="47" style="fill:rgb(194, 223, 35)">keith lamont</text>
+<text transform="translate(505,255)" font-size="47" style="fill:rgb(72, 22, 104)">bad dude</text>
+<text transform="translate(398,814)" font-size="38" style="fill:rgb(50, 182, 122)">criminal justice</text>
+<text transform="translate(5,623)" font-size="36" style="fill:rgb(241, 229, 29)">violent crime</text>
+<text transform="translate(96,391)" font-size="36" style="fill:rgb(46, 179, 124)">keith lamont scott</text>
+<text transform="translate(522,393)" font-size="36" style="fill:rgb(88, 199, 101)">lamont scott</text>
+<text transform="translate(14,812)" font-size="36" style="fill:rgb(229, 228, 25)">colin kaepernick</text>
+<text transform="translate(20,60)" font-size="36" style="fill:rgb(155, 217, 60)">officer shoot</text>
+<text transform="translate(327,61)" font-size="36" style="fill:rgb(82, 197, 105)">charlotte north</text>
+<text transform="translate(2,648)" font-size="32" style="fill:rgb(69, 56, 130)">charlotte north carolina</text>
+<text transform="translate(513,300)" font-size="32" style="fill:rgb(38, 130, 142)">law enforcement</text>
+<text transform="translate(71,227)" font-size="29" style="fill:rgb(208, 225, 28)">kaepernick protest</text>
+<text transform="translate(2,758)" font-size="24" style="fill:rgb(39, 126, 142)">racial disparities</text>
+<text transform="translate(513,536)" font-size="24" style="fill:rgb(39, 128, 142)">african americans</text>
+<text transform="translate(156,730)" font-size="24" style="fill:rgb(139, 214, 70)">mass incarceration</text>
+<text transform="translate(559,562)" font-size="23" style="fill:rgb(31, 154, 138)">prison sentence</text>
+<text transform="translate(590,583)" font-size="23" style="fill:rgb(69, 53, 129)">justice system</text>
+<text transform="translate(2,110)" font-size="22" style="fill:rgb(61, 77, 138)">year old</text>
+<text transform="translate(128,143)" font-size="19" style="fill:rgb(31, 161, 135)">criminal justice system</text>
+<text transform="translate(458,726)" font-size="19" style="fill:rgb(64, 189, 114)">black communities</text>
+<text transform="translate(203,412)" font-size="19" style="fill:rgb(41, 123, 142)">big bad dude</text>
+<text transform="translate(10,533)" font-size="19" style="fill:rgb(34, 139, 141)">racial disparities police</text>
+<text transform="translate(588,655)" font-size="19" style="fill:rgb(108, 205, 90)">disparities police</text>
+<text transform="translate(686,758)" font-size="19" style="fill:rgb(71, 19, 101)">new york</text>
+<text transform="translate(459,317)" font-size="19" style="fill:rgb(49, 181, 123)">tulsa oklahoma</text>
+<text transform="translate(585,676)" font-size="19" style="fill:rgb(72, 35, 116)">quarterback colin</text>
+<text transform="translate(506,268)" font-size="16" style="fill:rgb(56, 89, 140)">quarterback colin kaepernick</text>
+<text transform="translate(293,552)" font-size="16" style="fill:rgb(223, 227, 24)">officer shoot kill</text>
+<text transform="translate(667,709)" font-size="16" style="fill:rgb(38, 129, 142)">new york city</text>
+<text transform="translate(43,355)" font-size="16" style="fill:rgb(46, 110, 142)">york city</text>
+<text transform="translate(389,535)" font-size="16" style="fill:rgb(37, 131, 142)">murder rate</text>
+<text transform="translate(396,828)" font-size="16" style="fill:rgb(57, 86, 140)">affirmative action</text>
+<text transform="translate(420,413)" font-size="16" style="fill:rgb(49, 104, 142)">police violence</text>
+<text transform="translate(121,308)" font-size="16" style="fill:rgb(66, 64, 134)">terence crutcher</text>
+<text transform="translate(644,409)" font-size="16" style="fill:rgb(63, 71, 136)">protest police</text>
+<text transform="translate(48,74)" font-size="16" style="fill:rgb(52, 182, 121)">hyde amendment</text>
+<text transform="translate(631,315)" font-size="16" style="fill:rgb(231, 228, 25)">black athletes</text>
+<text transform="translate(320,744)" font-size="16" style="fill:rgb(53, 183, 121)">knee national</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.104477611940297" style="fill:rgb(0, 0, 0)">tfidf+lsa + MS - C Level - September-2016 - Comm. 3 w. 76 documents</text>
+</svg>

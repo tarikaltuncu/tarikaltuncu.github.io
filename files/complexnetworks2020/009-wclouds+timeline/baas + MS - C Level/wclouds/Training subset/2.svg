@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(74,243)" font-size="109" style="fill:rgb(48, 105, 142)">game throne</text>
+<text transform="translate(211,338)" font-size="91" style="fill:rgb(31, 149, 139)">comic book</text>
+<text transform="translate(175,142)" font-size="87" style="fill:rgb(42, 119, 142)">walk dead</text>
+<text transform="translate(282,556)" font-size="85" style="fill:rgb(124, 210, 80)">new york</text>
+<text transform="translate(377,466)" font-size="84" style="fill:rgb(31, 152, 139)">star war</text>
+<text transform="translate(19,665)" font-size="81" style="fill:rgb(110, 206, 88)">batman superman</text>
+<text transform="translate(79,745)" font-size="79" style="fill:rgb(72, 26, 108)">captain america</text>
+<text transform="translate(79,394)" font-size="71" style="fill:rgb(33, 144, 141)">todd vanderwerff</text>
+<text transform="translate(292,800)" font-size="70" style="fill:rgb(42, 119, 142)">first season</text>
+<text transform="translate(3,450)" font-size="64" style="fill:rgb(56, 88, 140)">super bowl</text>
+<text transform="translate(69,590)" font-size="43" style="fill:rgb(226, 228, 24)">stranger things</text>
+<text transform="translate(145,497)" font-size="43" style="fill:rgb(62, 73, 137)">civil war</text>
+<text transform="translate(7,800)" font-size="39" style="fill:rgb(70, 50, 126)">gilmore girls</text>
+<text transform="translate(540,590)" font-size="39" style="fill:rgb(105, 205, 91)">year old</text>
+<text transform="translate(5,66)" font-size="38" style="fill:rgb(55, 90, 140)">harry potter</text>
+<text transform="translate(285,66)" font-size="38" style="fill:rgb(41, 123, 142)">second season</text>
+<text transform="translate(3,529)" font-size="38" style="fill:rgb(34, 168, 132)">donald trump</text>
+<text transform="translate(158,272)" font-size="35" style="fill:rgb(88, 199, 101)">video game</text>
+<text transform="translate(152,170)" font-size="35" style="fill:rgb(34, 139, 141)">social media</text>
+<text transform="translate(1,306)" font-size="35" style="fill:rgb(70, 192, 111)">tell story</text>
+<text transform="translate(426,495)" font-size="35" style="fill:rgb(60, 79, 138)">make sense</text>
+<text transform="translate(544,171)" font-size="35" style="fill:rgb(66, 65, 134)">wonder woman</text>
+<text transform="translate(584,67)" font-size="35" style="fill:rgb(213, 226, 26)">first time</text>
+<text transform="translate(32,694)" font-size="35" style="fill:rgb(68, 191, 112)">much more</text>
+<text transform="translate(7,330)" font-size="30" style="fill:rgb(46, 110, 142)">take place</text>
+<text transform="translate(639,125)" font-size="30" style="fill:rgb(253, 231, 37)">too much</text>
+<text transform="translate(353,824)" font-size="30" style="fill:rgb(31, 152, 139)">real life</text>
+<text transform="translate(21,547)" font-size="24" style="fill:rgb(181, 222, 43)">suicide squad</text>
+<text transform="translate(549,821)" font-size="24" style="fill:rgb(46, 109, 142)">box office</text>
+<text transform="translate(59,819)" font-size="24" style="fill:rgb(30, 157, 137)">even more</text>
+<text transform="translate(8,100)" font-size="24" style="fill:rgb(221, 227, 24)">pop culture</text>
+<text transform="translate(636,413)" font-size="23" style="fill:rgb(68, 1, 84)">warner bros</text>
+<text transform="translate(7,135)" font-size="23" style="fill:rgb(236, 229, 27)">star trek</text>
+<text transform="translate(491,694)" font-size="23" style="fill:rgb(69, 56, 130)">come back</text>
+<text transform="translate(432,263)" font-size="23" style="fill:rgb(52, 182, 121)">force awaken</text>
+<text transform="translate(230,608)" font-size="23" style="fill:rgb(155, 217, 60)">los angeles</text>
+<text transform="translate(646,90)" font-size="23" style="fill:rgb(34, 168, 132)">right now</text>
+<text transform="translate(632,608)" font-size="23" style="fill:rgb(200, 224, 32)">little bite</text>
+<text transform="translate(639,141)" font-size="21" style="fill:rgb(59, 81, 139)">best picture</text>
+<text transform="translate(7,163)" font-size="21" style="fill:rgb(46, 110, 142)">high school</text>
+<text transform="translate(481,83)" font-size="20" style="fill:rgb(31, 154, 138)">other people</text>
+<text transform="translate(410,615)" font-size="20" style="fill:rgb(33, 144, 141)">sexual assault</text>
+<text transform="translate(522,413)" font-size="20" style="fill:rgb(55, 91, 141)">iron man</text>
+<text transform="translate(222,822)" font-size="20" style="fill:rgb(119, 209, 83)">make feel</text>
+<text transform="translate(343,684)" font-size="20" style="fill:rgb(70, 11, 94)">spider man</text>
+<text transform="translate(605,267)" font-size="20" style="fill:rgb(181, 222, 43)">years ago</text>
+<text transform="translate(2,484)" font-size="20" style="fill:rgb(223, 227, 24)">people color</text>
+<text transform="translate(668,495)" font-size="20" style="fill:rgb(72, 33, 115)">late night</text>
+<text transform="translate(163,85)" font-size="20" style="fill:rgb(33, 144, 141)">learn more</text>
+<text transform="translate(690,525)" font-size="20" style="fill:rgb(40, 124, 142)">last year</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">baas + MS - C Level - Training subset - Comm. 2 w. 2185 documents</text>
+</svg>

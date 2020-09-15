@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(42,238)" font-size="108" style="fill:rgb(43, 117, 142)">north korea</text>
+<text transform="translate(151,670)" font-size="89" style="fill:rgb(32, 146, 140)">saudi arabia</text>
+<text transform="translate(207,129)" font-size="66" style="fill:rgb(72, 31, 112)">middle east</text>
+<text transform="translate(375,718)" font-size="59" style="fill:rgb(59, 187, 117)">nuclear test</text>
+<text transform="translate(85,362)" font-size="59" style="fill:rgb(63, 71, 136)">hydrogen bomb</text>
+<text transform="translate(344,542)" font-size="58" style="fill:rgb(43, 116, 142)">sunni shia</text>
+<text transform="translate(303,443)" font-size="55" style="fill:rgb(157, 217, 59)">hong kong</text>
+<text transform="translate(43,298)" font-size="55" style="fill:rgb(52, 96, 141)">unite state</text>
+<text transform="translate(335,793)" font-size="52" style="fill:rgb(168, 219, 52)">foreign policy</text>
+<text transform="translate(8,726)" font-size="50" style="fill:rgb(69, 5, 89)">saudi regime</text>
+<text transform="translate(276,585)" font-size="47" style="fill:rgb(42, 120, 142)">north korean</text>
+<text transform="translate(1,488)" font-size="45" style="fill:rgb(69, 56, 130)">nuclear weapons</text>
+<text transform="translate(437,298)" font-size="45" style="fill:rgb(72, 41, 121)">nuclear deal</text>
+<text transform="translate(227,67)" font-size="45" style="fill:rgb(49, 104, 142)">north koreans</text>
+<text transform="translate(509,163)" font-size="44" style="fill:rgb(31, 153, 138)">hard liners</text>
+<text transform="translate(69,437)" font-size="42" style="fill:rgb(61, 77, 138)">west bank</text>
+<text transform="translate(4,808)" font-size="41" style="fill:rgb(68, 57, 131)">islamic state</text>
+<text transform="translate(50,540)" font-size="40" style="fill:rgb(56, 185, 119)">arab spring</text>
+<text transform="translate(481,394)" font-size="35" style="fill:rgb(50, 182, 122)">nuclear program</text>
+<text transform="translate(79,594)" font-size="35" style="fill:rgb(70, 10, 93)">civil war</text>
+<text transform="translate(442,745)" font-size="33" style="fill:rgb(66, 65, 134)">american sailors</text>
+<text transform="translate(462,482)" font-size="33" style="fill:rgb(152, 216, 62)">test hydrogen</text>
+<text transform="translate(19,86)" font-size="33" style="fill:rgb(35, 137, 142)">kim jong</text>
+<text transform="translate(9,764)" font-size="32" style="fill:rgb(236, 229, 27)">iran nuclear deal</text>
+<text transform="translate(587,325)" font-size="32" style="fill:rgb(115, 208, 86)">rebel group</text>
+<text transform="translate(3,155)" font-size="32" style="fill:rgb(92, 200, 99)">iran moderate</text>
+<text transform="translate(589,66)" font-size="32" style="fill:rgb(37, 171, 130)">status quo</text>
+<text transform="translate(543,360)" font-size="31" style="fill:rgb(70, 11, 94)">iranian water</text>
+<text transform="translate(397,609)" font-size="30" style="fill:rgb(62, 73, 137)">iran incident</text>
+<text transform="translate(618,566)" font-size="30" style="fill:rgb(160, 218, 57)">peace deal</text>
+<text transform="translate(599,427)" font-size="30" style="fill:rgb(72, 32, 113)">french jews</text>
+<text transform="translate(2,116)" font-size="28" style="fill:rgb(56, 185, 119)">royal family</text>
+<text transform="translate(294,387)" font-size="28" style="fill:rgb(70, 50, 126)">saudi royal</text>
+<text transform="translate(24,394)" font-size="22" style="fill:rgb(48, 106, 142)">saudi royal family</text>
+<text transform="translate(42,610)" font-size="21" style="fill:rgb(241, 229, 29)">test hydrogen bomb</text>
+<text transform="translate(86,173)" font-size="21" style="fill:rgb(68, 57, 131)">iran nuclear</text>
+<text transform="translate(153,458)" font-size="21" style="fill:rgb(65, 68, 135)">iran hard</text>
+<text transform="translate(197,315)" font-size="21" style="fill:rgb(71, 13, 96)">persian gulf</text>
+<text transform="translate(495,257)" font-size="21" style="fill:rgb(70, 8, 92)">muslim brotherhood</text>
+<text transform="translate(4,49)" font-size="21" style="fill:rgb(33, 166, 133)">afghan government</text>
+<text transform="translate(139,826)" font-size="21" style="fill:rgb(59, 82, 139)">central america</text>
+<text transform="translate(389,824)" font-size="21" style="fill:rgb(147, 215, 65)">north korea nuclear</text>
+<text transform="translate(279,146)" font-size="21" style="fill:rgb(37, 172, 130)">korea nuclear</text>
+<text transform="translate(629,590)" font-size="20" style="fill:rgb(72, 193, 110)">nuclear weapon</text>
+<text transform="translate(665,117)" font-size="20" style="fill:rgb(45, 113, 142)">iraq syria</text>
+<text transform="translate(84,503)" font-size="20" style="fill:rgb(71, 14, 97)">detain sailors</text>
+<text transform="translate(417,83)" font-size="20" style="fill:rgb(47, 108, 142)">drift iranian</text>
+<text transform="translate(17,556)" font-size="20" style="fill:rgb(46, 111, 142)">mighty current</text>
+<text transform="translate(199,254)" font-size="20" style="fill:rgb(49, 102, 142)">iran hard liners</text>
+<text transform="translate(621,451)" font-size="19" style="fill:rgb(59, 81, 139)">foreign minister</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">baas + MS - C Level - January-2016 - Comm. 5 w. 50 documents</text>
+</svg>

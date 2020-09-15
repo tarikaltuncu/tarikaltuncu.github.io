@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(8,304)" font-size="105" style="fill:rgb(44, 115, 142)">stand grind</text>
+<text transform="translate(92,600)" font-size="84" style="fill:rgb(36, 135, 142)">serial killers</text>
+<text transform="translate(69,760)" font-size="83" style="fill:rgb(64, 70, 136)">north carolina</text>
+<text transform="translate(55,452)" font-size="76" style="fill:rgb(42, 176, 127)">anti lgbtq</text>
+<text transform="translate(85,178)" font-size="75" style="fill:rgb(61, 188, 116)">black pete</text>
+<text transform="translate(30,657)" font-size="74" style="fill:rgb(33, 165, 133)">lgbtq people</text>
+<text transform="translate(16,88)" font-size="72" style="fill:rgb(38, 173, 129)">trans people</text>
+<text transform="translate(83,806)" font-size="59" style="fill:rgb(66, 63, 133)">gender identity</text>
+<text transform="translate(210,511)" font-size="54" style="fill:rgb(170, 220, 50)">stand grind laws</text>
+<text transform="translate(447,345)" font-size="53" style="fill:rgb(76, 194, 108)">grind laws</text>
+<text transform="translate(4,369)" font-size="49" style="fill:rgb(32, 146, 140)">public defender</text>
+<text transform="translate(445,390)" font-size="42" style="fill:rgb(82, 197, 105)">anti lgbtq law</text>
+<text transform="translate(557,108)" font-size="42" style="fill:rgb(71, 42, 122)">lgbtq law</text>
+<text transform="translate(1,212)" font-size="41" style="fill:rgb(137, 213, 72)">police shoot</text>
+<text transform="translate(374,207)" font-size="35" style="fill:rgb(67, 62, 133)">protect lgbtq people</text>
+<text transform="translate(476,688)" font-size="35" style="fill:rgb(70, 50, 126)">castle doctrine</text>
+<text transform="translate(510,450)" font-size="35" style="fill:rgb(31, 158, 137)">protect lgbtq</text>
+<text transform="translate(531,156)" font-size="35" style="fill:rgb(39, 126, 142)">fixer upper</text>
+<text transform="translate(20,321)" font-size="21" style="fill:rgb(34, 167, 133)">lgbtq people discrimination</text>
+<text transform="translate(12,515)" font-size="20" style="fill:rgb(71, 14, 97)">criminal justice</text>
+<text transform="translate(539,53)" font-size="20" style="fill:rgb(59, 187, 117)">people discrimination</text>
+<text transform="translate(190,389)" font-size="19" style="fill:rgb(52, 182, 121)">violent crime murder</text>
+<text transform="translate(590,648)" font-size="19" style="fill:rgb(70, 50, 126)">grant clemency</text>
+<text transform="translate(651,531)" font-size="19" style="fill:rgb(46, 111, 142)">use clemency</text>
+<text transform="translate(354,697)" font-size="19" style="fill:rgb(70, 52, 128)">repeal hb2</text>
+<text transform="translate(52,694)" font-size="19" style="fill:rgb(52, 97, 141)">public defenders</text>
+<text transform="translate(391,223)" font-size="19" style="fill:rgb(49, 104, 142)">civil right</text>
+<text transform="translate(42,104)" font-size="19" style="fill:rgb(40, 174, 128)">align gender identity</text>
+<text transform="translate(110,236)" font-size="19" style="fill:rgb(202, 225, 31)">latino people</text>
+<text transform="translate(621,821)" font-size="19" style="fill:rgb(147, 215, 65)">align gender</text>
+<text transform="translate(372,823)" font-size="19" style="fill:rgb(72, 35, 116)">self defense</text>
+<text transform="translate(350,127)" font-size="19" style="fill:rgb(132, 212, 75)">brook say</text>
+<text transform="translate(38,490)" font-size="19" style="fill:rgb(56, 89, 140)">violent crime</text>
+<text transform="translate(60,544)" font-size="19" style="fill:rgb(72, 31, 112)">transgender people</text>
+<text transform="translate(619,792)" font-size="19" style="fill:rgb(229, 228, 25)">ferguson effect</text>
+<text transform="translate(632,69)" font-size="19" style="fill:rgb(46, 109, 142)">serial killer</text>
+<text transform="translate(136,826)" font-size="19" style="fill:rgb(74, 193, 109)">crime murder</text>
+<text transform="translate(386,467)" font-size="19" style="fill:rgb(49, 181, 123)">same sex</text>
+<text transform="translate(120,470)" font-size="19" style="fill:rgb(134, 213, 73)">use bathroom</text>
+<text transform="translate(614,621)" font-size="19" style="fill:rgb(72, 32, 113)">people use</text>
+<text transform="translate(1,396)" font-size="19" style="fill:rgb(62, 76, 138)">prior complete</text>
+<text transform="translate(549,414)" font-size="18" style="fill:rgb(32, 146, 140)">prior complete survey</text>
+<text transform="translate(485,529)" font-size="18" style="fill:rgb(194, 223, 35)">local ordinance</text>
+<text transform="translate(664,702)" font-size="18" style="fill:rgb(45, 112, 142)">duty retreat</text>
+<text transform="translate(626,472)" font-size="18" style="fill:rgb(68, 191, 112)">stand grind law</text>
+<text transform="translate(556,170)" font-size="18" style="fill:rgb(94, 201, 98)">pat mccrory</text>
+<text transform="translate(596,132)" font-size="18" style="fill:rgb(31, 151, 139)">sexual orientation</text>
+<text transform="translate(61,707)" font-size="14" style="fill:rgb(74, 193, 109)">public accommodations</text>
+<text transform="translate(641,545)" font-size="14" style="fill:rgb(66, 64, 134)">police officer</text>
+<text transform="translate(554,237)" font-size="14" style="fill:rgb(66, 63, 133)">increase murder</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="21.333333333333332" style="fill:rgb(0, 0, 0)">d2v + MS - C Level - December-2016 - Comm. 4 w. 24 documents</text>
+</svg>
