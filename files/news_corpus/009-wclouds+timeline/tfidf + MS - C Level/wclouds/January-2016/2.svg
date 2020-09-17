@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(72,587)" font-size="138" style="fill:rgb(53, 183, 121)">more gun</text>
+<text transform="translate(2,355)" font-size="120" style="fill:rgb(40, 174, 128)">gun control</text>
+<text transform="translate(3,717)" font-size="110" style="fill:rgb(66, 64, 134)">gun violence</text>
+<text transform="translate(12,216)" font-size="82" style="fill:rgb(31, 153, 138)">criminal justice</text>
+<text transform="translate(18,472)" font-size="78" style="fill:rgb(44, 113, 142)">justice system</text>
+<text transform="translate(1,104)" font-size="74" style="fill:rgb(63, 72, 137)">federal government</text>
+<text transform="translate(107,789)" font-size="74" style="fill:rgb(200, 224, 32)">sexual assault</text>
+<text transform="translate(6,263)" font-size="54" style="fill:rgb(248, 230, 33)">police officer</text>
+<text transform="translate(24,631)" font-size="54" style="fill:rgb(132, 212, 75)">gun deaths</text>
+<text transform="translate(258,395)" font-size="51" style="fill:rgb(92, 200, 99)">background check</text>
+<text transform="translate(2,823)" font-size="43" style="fill:rgb(165, 219, 54)">statutes limitations</text>
+<text transform="translate(397,137)" font-size="42" style="fill:rgb(49, 104, 142)">executive action</text>
+<text transform="translate(35,143)" font-size="42" style="fill:rgb(110, 206, 88)">federal land</text>
+<text transform="translate(567,813)" font-size="42" style="fill:rgb(62, 73, 137)">same sex</text>
+<text transform="translate(70,503)" font-size="39" style="fill:rgb(49, 103, 142)">law enforcement</text>
+<text transform="translate(473,496)" font-size="27" style="fill:rgb(72, 31, 112)">solitary confinement</text>
+<text transform="translate(641,620)" font-size="26" style="fill:rgb(72, 193, 110)">gun show</text>
+<text transform="translate(405,51)" font-size="23" style="fill:rgb(70, 10, 93)">criminal justice system</text>
+<text transform="translate(506,253)" font-size="23" style="fill:rgb(38, 130, 142)">cliven bundy</text>
+<text transform="translate(658,645)" font-size="22" style="fill:rgb(68, 191, 112)">ruby ridge</text>
+<text transform="translate(90,399)" font-size="22" style="fill:rgb(44, 114, 142)">civil right</text>
+<text transform="translate(562,413)" font-size="22" style="fill:rgb(68, 59, 132)">wildlife refuge</text>
+<text transform="translate(366,735)" font-size="22" style="fill:rgb(39, 128, 142)">more gun deaths</text>
+<text transform="translate(83,736)" font-size="22" style="fill:rgb(34, 168, 132)">gun control measure</text>
+<text transform="translate(147,284)" font-size="22" style="fill:rgb(70, 7, 90)">militia members</text>
+<text transform="translate(146,650)" font-size="22" style="fill:rgb(71, 44, 122)">control measure</text>
+<text transform="translate(71,371)" font-size="17" style="fill:rgb(137, 213, 72)">racial disparities</text>
+<text transform="translate(380,624)" font-size="17" style="fill:rgb(72, 20, 103)">police kill</text>
+<text transform="translate(15,161)" font-size="17" style="fill:rgb(61, 78, 138)">gun laws</text>
+<text transform="translate(560,281)" font-size="17" style="fill:rgb(63, 71, 136)">same sex marriage</text>
+<text transform="translate(397,281)" font-size="17" style="fill:rgb(67, 61, 132)">sex marriage</text>
+<text transform="translate(359,601)" font-size="17" style="fill:rgb(226, 228, 24)">black people</text>
+<text transform="translate(421,414)" font-size="17" style="fill:rgb(56, 88, 140)">gun problem</text>
+<text transform="translate(492,150)" font-size="17" style="fill:rgb(108, 205, 90)">good guy gun</text>
+<text transform="translate(252,423)" font-size="17" style="fill:rgb(52, 182, 121)">seat belt</text>
+<text transform="translate(23,281)" font-size="17" style="fill:rgb(90, 200, 100)">ammon bundy</text>
+<text transform="translate(560,230)" font-size="17" style="fill:rgb(108, 205, 90)">black live matter</text>
+<text transform="translate(505,639)" font-size="15" style="fill:rgb(33, 145, 140)">gun show loophole</text>
+<text transform="translate(674,433)" font-size="15" style="fill:rgb(213, 226, 26)">show loophole</text>
+<text transform="translate(694,464)" font-size="15" style="fill:rgb(49, 103, 142)">guy gun</text>
+<text transform="translate(674,255)" font-size="15" style="fill:rgb(46, 110, 142)">live matter</text>
+<text transform="translate(63,418)" font-size="15" style="fill:rgb(71, 47, 125)">black live</text>
+<text transform="translate(12,775)" font-size="15" style="fill:rgb(37, 131, 142)">more likely</text>
+<text transform="translate(393,165)" font-size="15" style="fill:rgb(78, 195, 107)">use force</text>
+<text transform="translate(523,827)" font-size="15" style="fill:rgb(48, 106, 142)">restrictions firearms</text>
+<text transform="translate(672,729)" font-size="15" style="fill:rgb(90, 200, 100)">supreme court</text>
+<text transform="translate(385,199)" font-size="15" style="fill:rgb(192, 223, 37)">stun gun</text>
+<text transform="translate(386,649)" font-size="15" style="fill:rgb(53, 183, 121)">action gun</text>
+<text transform="translate(486,263)" font-size="12" style="fill:rgb(72, 28, 110)">president barack obama</text>
+<text transform="translate(152,43)" font-size="12" style="fill:rgb(44, 113, 142)">president barack</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="19.692307692307693" style="fill:rgb(0, 0, 0)">tfidf + MS - C Level (5) - January-2016 - Comm. 2 w. 64 documents</text>
+</svg>

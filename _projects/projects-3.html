@@ -6,17 +6,28 @@ author_profile: true
 permalink: /complexnetworks2020/
 ---
 
-<p>Below are the interactive timeline plots showing the trends in clusters together with their word clouds on particular months.
-Hover your cursor on data points to show wordcloud created using the articles published in given month and grouped in particular cluster.</p>
+<p>
+	We provide interactive timeline plots below to complement the qualitative analyses that the main article contains.
+	Each interactive timeline plot indicates trends in the coarse level topic clusters over the year with monthly precision.
+	Each data point has a wordcloud of the news articles published in that month that are clustered into its particular topic.
+	Please hover your cursor on data points to see wordcloud for any data point.
+</p>
 
-<h4><i>tfidf+lsa</i> features with Markov Stability partitioning at coarse level</h4>
-<iframe src="/files/complexnetworks2020/009-wclouds+timeline/tfidf+lsa + MS - C Level/tfidf+lsa + MS - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
-
-<h4><i>d2v</i> features with Markov Stability partitioning at coarse level</h4>
+<h4>Coarse level Markov Stability topics of geometric graph from <i>d2v</i> features</h4>
 <iframe src="/files/complexnetworks2020/009-wclouds+timeline/d2v + MS - C Level/d2v + MS - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
 
-<h4><i>doc2vec</i> features with k-means partitioning at coarse level</h4>
-<iframe src="/files/complexnetworks2020/009-wclouds+timeline/d2v + k-means - C Level/d2v + k-means - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
+<h4>Coarse level Markov Stability topics of geometric graph from <i>tfidf</i> features</h4>
+<iframe src="/files/complexnetworks2020/009-wclouds+timeline/tfidf + MS - C Level/d2v + MS - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
 
-<h4><i>baas</i> features with Markov Stability partitioning at coarse level</h4>
+<p> 
+	Below we present timeline plots for some of the other experiments that we did not cover in the qualitative analysis section of the article. Still, they show a good comparison of our framework to the alternatives.
+</p>
+
+<h4>Coarse level Markov Stability topics of geometric graph from <i>tfidf+lsa</i> features</h4>
+<iframe src="/files/complexnetworks2020/009-wclouds+timeline/tfidf+lsa + MS - C Level/tfidf+lsa + MS - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
+
+<h4>Coarse level Markov Stability topics of geometric graph from <i>baas</i> features</h4>
 <iframe src="/files/complexnetworks2020/009-wclouds+timeline/baas + MS - C Level/baas + MS - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>
+
+<h4>Coarse level k-means topics of geometric graph from <i>d2v</i> features </h4>
+<iframe src="/files/complexnetworks2020/009-wclouds+timeline/d2v + k-means - C Level/d2v + k-means - C Level_monthly.html" height="353" width="1000" scrolling="no" style="border:none;"></iframe>

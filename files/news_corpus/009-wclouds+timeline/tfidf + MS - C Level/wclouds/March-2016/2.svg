@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(18,743)" font-size="119" style="fill:rgb(31, 161, 136)">same sex</text>
+<text transform="translate(13,178)" font-size="94" style="fill:rgb(94, 201, 98)">north carolina</text>
+<text transform="translate(104,282)" font-size="94" style="fill:rgb(132, 212, 75)">lgbtq people</text>
+<text transform="translate(11,656)" font-size="85" style="fill:rgb(38, 130, 142)">mental health</text>
+<text transform="translate(14,419)" font-size="78" style="fill:rgb(72, 20, 103)">criminal justice</text>
+<text transform="translate(80,500)" font-size="77" style="fill:rgb(210, 226, 27)">anti lgbtq</text>
+<text transform="translate(48,813)" font-size="77" style="fill:rgb(38, 129, 142)">mental illness</text>
+<text transform="translate(127,79)" font-size="61" style="fill:rgb(37, 133, 142)">religious freedom</text>
+<text transform="translate(82,564)" font-size="59" style="fill:rgb(70, 48, 126)">gender identity</text>
+<text transform="translate(234,339)" font-size="45" style="fill:rgb(34, 139, 141)">tough crime</text>
+<text transform="translate(260,209)" font-size="39" style="fill:rgb(69, 56, 130)">sexual orientation</text>
+<text transform="translate(310,107)" font-size="35" style="fill:rgb(48, 105, 142)">supreme court</text>
+<text transform="translate(606,573)" font-size="35" style="fill:rgb(147, 215, 65)">new york</text>
+<text transform="translate(474,445)" font-size="27" style="fill:rgb(49, 181, 123)">lgbtq discrimination</text>
+<text transform="translate(542,499)" font-size="26" style="fill:rgb(54, 92, 141)">justice system</text>
+<text transform="translate(533,342)" font-size="26" style="fill:rgb(72, 38, 119)">same sex couple</text>
+<text transform="translate(540,764)" font-size="26" style="fill:rgb(66, 190, 113)">excuse school</text>
+<text transform="translate(597,690)" font-size="26" style="fill:rgb(37, 133, 142)">sex couple</text>
+<text transform="translate(8,339)" font-size="26" style="fill:rgb(50, 182, 122)">police officer</text>
+<text transform="translate(634,472)" font-size="26" style="fill:rgb(192, 223, 37)">mass shoot</text>
+<text transform="translate(4,202)" font-size="26" style="fill:rgb(58, 83, 139)">unconscious bias</text>
+<text transform="translate(30,101)" font-size="26" style="fill:rgb(129, 211, 77)">death penalty</text>
+<text transform="translate(127,584)" font-size="25" style="fill:rgb(71, 44, 122)">north carolina law</text>
+<text transform="translate(601,736)" font-size="25" style="fill:rgb(62, 73, 137)">carolina law</text>
+<text transform="translate(316,225)" font-size="21" style="fill:rgb(64, 69, 136)">discrimination base</text>
+<text transform="translate(557,521)" font-size="21" style="fill:rgb(53, 94, 141)">eternity street</text>
+<text transform="translate(101,435)" font-size="21" style="fill:rgb(71, 13, 96)">birth control</text>
+<text transform="translate(583,96)" font-size="17" style="fill:rgb(33, 142, 141)">public accommodations</text>
+<text transform="translate(34,522)" font-size="17" style="fill:rgb(71, 16, 99)">capitol police</text>
+<text transform="translate(23,597)" font-size="17" style="fill:rgb(152, 216, 62)">pardon attorney</text>
+<text transform="translate(237,827)" font-size="17" style="fill:rgb(35, 137, 142)">unconscious bias train</text>
+<text transform="translate(668,640)" font-size="17" style="fill:rgb(57, 86, 140)">people mental</text>
+<text transform="translate(64,352)" font-size="16" style="fill:rgb(71, 16, 99)">criminal justice system</text>
+<text transform="translate(29,306)" font-size="16" style="fill:rgb(157, 217, 59)">los angeles</text>
+<text transform="translate(652,299)" font-size="16" style="fill:rgb(78, 195, 107)">implicit bias</text>
+<text transform="translate(150,673)" font-size="16" style="fill:rgb(50, 101, 142)">ban discrimination</text>
+<text transform="translate(665,111)" font-size="16" style="fill:rgb(53, 95, 141)">gender affirm</text>
+<text transform="translate(348,670)" font-size="16" style="fill:rgb(155, 217, 60)">anti lgbtq discrimination</text>
+<text transform="translate(577,825)" font-size="14" style="fill:rgb(178, 221, 45)">orientation gender identity</text>
+<text transform="translate(653,538)" font-size="14" style="fill:rgb(46, 179, 124)">orientation gender</text>
+<text transform="translate(519,353)" font-size="14" style="fill:rgb(101, 203, 94)">sexual orientation gender</text>
+<text transform="translate(23,255)" font-size="14" style="fill:rgb(69, 53, 129)">hate crime</text>
+<text transform="translate(22,756)" font-size="14" style="fill:rgb(62, 76, 138)">people mental illness</text>
+<text transform="translate(536,317)" font-size="14" style="fill:rgb(176, 221, 47)">mental health system</text>
+<text transform="translate(3,50)" font-size="14" style="fill:rgb(70, 7, 90)">drug test</text>
+<text transform="translate(412,355)" font-size="14" style="fill:rgb(71, 14, 97)">homicide rate</text>
+<text transform="translate(432,586)" font-size="14" style="fill:rgb(71, 42, 122)">bias train</text>
+<text transform="translate(661,593)" font-size="14" style="fill:rgb(63, 72, 137)">resource officer</text>
+<text transform="translate(641,711)" font-size="14" style="fill:rgb(76, 194, 108)">school resource</text>
+<text transform="translate(369,118)" font-size="14" style="fill:rgb(32, 146, 140)">school resource officer</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.317460317460316" style="fill:rgb(0, 0, 0)">tfidf + MS - C Level (5) - March-2016 - Comm. 2 w. 55 documents</text>
+</svg>

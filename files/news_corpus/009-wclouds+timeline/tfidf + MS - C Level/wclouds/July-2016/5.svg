@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(31,167)" font-size="114" style="fill:rgb(72, 36, 117)">unite state</text>
+<text transform="translate(12,314)" font-size="109" style="fill:rgb(40, 174, 128)">coup attempt</text>
+<text transform="translate(5,634)" font-size="94" style="fill:rgb(55, 90, 140)">european union</text>
+<text transform="translate(20,771)" font-size="89" style="fill:rgb(50, 100, 142)">prime minister</text>
+<text transform="translate(160,464)" font-size="81" style="fill:rgb(45, 178, 125)">bastille day</text>
+<text transform="translate(19,534)" font-size="80" style="fill:rgb(72, 40, 120)">coup leaders</text>
+<text transform="translate(48,214)" font-size="60" style="fill:rgb(66, 65, 134)">recep tayyip</text>
+<text transform="translate(251,679)" font-size="56" style="fill:rgb(55, 91, 141)">turkish military</text>
+<text transform="translate(230,358)" font-size="52" style="fill:rgb(223, 227, 24)">gülen movement</text>
+<text transform="translate(282,811)" font-size="51" style="fill:rgb(189, 223, 38)">nice france</text>
+<text transform="translate(227,68)" font-size="46" style="fill:rgb(71, 17, 100)">president recep</text>
+<text transform="translate(263,386)" font-size="35" style="fill:rgb(49, 102, 142)">president recep tayyip</text>
+<text transform="translate(496,202)" font-size="35" style="fill:rgb(144, 215, 67)">foreign policy</text>
+<text transform="translate(244,567)" font-size="33" style="fill:rgb(92, 200, 99)">turkish politics</text>
+<text transform="translate(277,97)" font-size="33" style="fill:rgb(69, 55, 129)">italian bank</text>
+<text transform="translate(9,677)" font-size="33" style="fill:rgb(66, 63, 133)">coup fail</text>
+<text transform="translate(500,236)" font-size="32" style="fill:rgb(37, 133, 142)">military coup</text>
+<text transform="translate(609,505)" font-size="32" style="fill:rgb(68, 1, 84)">trump say</text>
+<text transform="translate(165,708)" font-size="32" style="fill:rgb(44, 115, 142)">brexit vote</text>
+<text transform="translate(8,815)" font-size="27" style="fill:rgb(31, 150, 139)">turkish democracy</text>
+<text transform="translate(9,389)" font-size="27" style="fill:rgb(68, 1, 84)">turkey coup</text>
+<text transform="translate(128,244)" font-size="21" style="fill:rgb(155, 217, 60)">recep tayyip erdogan</text>
+<text transform="translate(597,543)" font-size="21" style="fill:rgb(30, 156, 137)">tayyip erdogan</text>
+<text transform="translate(33,576)" font-size="21" style="fill:rgb(208, 225, 28)">drive crowd</text>
+<text transform="translate(583,702)" font-size="20" style="fill:rgb(36, 134, 142)">mustafa kemal</text>
+<text transform="translate(23,69)" font-size="20" style="fill:rgb(82, 197, 105)">clean break</text>
+<text transform="translate(21,437)" font-size="20" style="fill:rgb(31, 152, 139)">vote leave</text>
+<text transform="translate(76,361)" font-size="20" style="fill:rgb(117, 208, 84)">donald trump</text>
+<text transform="translate(35,480)" font-size="19" style="fill:rgb(86, 198, 103)">constitutional change</text>
+<text transform="translate(655,820)" font-size="19" style="fill:rgb(62, 73, 137)">deep state</text>
+<text transform="translate(28,96)" font-size="19" style="fill:rgb(70, 48, 126)">arm force</text>
+<text transform="translate(99,789)" font-size="19" style="fill:rgb(132, 212, 75)">nice matin</text>
+<text transform="translate(650,796)" font-size="19" style="fill:rgb(110, 206, 88)">shia militias</text>
+<text transform="translate(92,337)" font-size="19" style="fill:rgb(31, 150, 139)">turkish arm</text>
+<text transform="translate(398,827)" font-size="19" style="fill:rgb(42, 176, 127)">turkish arm force</text>
+<text transform="translate(383,695)" font-size="19" style="fill:rgb(33, 165, 133)">truck drive crowd</text>
+<text transform="translate(666,576)" font-size="19" style="fill:rgb(33, 166, 133)">truck driver</text>
+<text transform="translate(448,478)" font-size="17" style="fill:rgb(43, 117, 142)">national holiday</text>
+<text transform="translate(2,456)" font-size="17" style="fill:rgb(200, 224, 32)">iraqi government</text>
+<text transform="translate(708,91)" font-size="17" style="fill:rgb(48, 106, 142)">fail coup</text>
+<text transform="translate(181,411)" font-size="17" style="fill:rgb(71, 45, 123)">attempt turkey</text>
+<text transform="translate(13,46)" font-size="16" style="fill:rgb(251, 231, 35)">coup attempt turkey</text>
+<text transform="translate(644,59)" font-size="16" style="fill:rgb(41, 122, 142)">local authority</text>
+<text transform="translate(484,409)" font-size="16" style="fill:rgb(39, 126, 142)">kemal atatürk</text>
+<text transform="translate(35,828)" font-size="16" style="fill:rgb(31, 162, 135)">mustafa kemal atatürk</text>
+<text transform="translate(298,478)" font-size="16" style="fill:rgb(216, 226, 25)">human right</text>
+<text transform="translate(657,406)" font-size="16" style="fill:rgb(49, 102, 142)">true trump say</text>
+<text transform="translate(1,247)" font-size="16" style="fill:rgb(66, 64, 134)">european far</text>
+<text transform="translate(685,333)" font-size="16" style="fill:rgb(58, 84, 140)">truck drive</text>
+<text transform="translate(17,701)" font-size="16" style="fill:rgb(69, 53, 129)">far right</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.64516129032258" style="fill:rgb(0, 0, 0)">tfidf + MS - C Level (5) - July-2016 - Comm. 5 w. 52 documents</text>
+</svg>

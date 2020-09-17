@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="832">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(113,132)" font-size="102" style="fill:rgb(221, 227, 24)">north korea</text>
+<text transform="translate(5,432)" font-size="86" style="fill:rgb(62, 74, 137)">attack brussels</text>
+<text transform="translate(41,257)" font-size="82" style="fill:rgb(37, 131, 142)">nuclear weapons</text>
+<text transform="translate(116,652)" font-size="78" style="fill:rgb(49, 104, 142)">foreign policy</text>
+<text transform="translate(192,350)" font-size="77" style="fill:rgb(67, 62, 133)">unite state</text>
+<text transform="translate(33,489)" font-size="74" style="fill:rgb(69, 56, 130)">terrorist attack</text>
+<text transform="translate(261,749)" font-size="71" style="fill:rgb(216, 226, 25)">middle east</text>
+<text transform="translate(26,558)" font-size="71" style="fill:rgb(253, 231, 37)">nuclear deal</text>
+<text transform="translate(123,801)" font-size="66" style="fill:rgb(234, 229, 26)">pro israel</text>
+<text transform="translate(223,188)" font-size="64" style="fill:rgb(38, 129, 142)">brussels attack</text>
+<text transform="translate(1,696)" font-size="49" style="fill:rgb(239, 229, 28)">south korea</text>
+<text transform="translate(1,292)" font-size="45" style="fill:rgb(70, 10, 93)">hard liners</text>
+<text transform="translate(535,780)" font-size="43" style="fill:rgb(101, 203, 94)">status quo</text>
+<text transform="translate(1,63)" font-size="40" style="fill:rgb(44, 113, 142)">terror attack</text>
+<text transform="translate(32,742)" font-size="39" style="fill:rgb(86, 198, 103)">kill least</text>
+<text transform="translate(521,66)" font-size="39" style="fill:rgb(70, 10, 93)">saudi arabia</text>
+<text transform="translate(528,535)" font-size="37" style="fill:rgb(229, 228, 25)">least people</text>
+<text transform="translate(522,816)" font-size="29" style="fill:rgb(157, 217, 59)">foreign fighters</text>
+<text transform="translate(543,681)" font-size="29" style="fill:rgb(35, 138, 141)">mar pdt</text>
+<text transform="translate(31,333)" font-size="29" style="fill:rgb(84, 197, 104)">far right</text>
+<text transform="translate(289,581)" font-size="29" style="fill:rgb(32, 146, 140)">islamic state</text>
+<text transform="translate(318,281)" font-size="29" style="fill:rgb(76, 194, 108)">paris attack</text>
+<text transform="translate(25,159)" font-size="29" style="fill:rgb(30, 156, 137)">iraq syria</text>
+<text transform="translate(538,571)" font-size="29" style="fill:rgb(69, 5, 89)">support israel</text>
+<text transform="translate(410,372)" font-size="27" style="fill:rgb(168, 219, 52)">kill least people</text>
+<text transform="translate(148,823)" font-size="25" style="fill:rgb(229, 228, 25)">terrorist attack brussels</text>
+<text transform="translate(22,189)" font-size="25" style="fill:rgb(70, 7, 90)">human right</text>
+<text transform="translate(4,578)" font-size="25" style="fill:rgb(105, 205, 91)">supreme leader</text>
+<text transform="translate(618,282)" font-size="25" style="fill:rgb(70, 10, 93)">donald trump</text>
+<text transform="translate(394,598)" font-size="22" style="fill:rgb(33, 145, 140)">tuesday morning</text>
+<text transform="translate(30,813)" font-size="22" style="fill:rgb(34, 141, 141)">suu kyi</text>
+<text transform="translate(410,206)" font-size="22" style="fill:rgb(165, 219, 54)">ibrahim bakraoui</text>
+<text transform="translate(180,506)" font-size="20" style="fill:rgb(66, 64, 134)">security guarantee</text>
+<text transform="translate(2,85)" font-size="20" style="fill:rgb(31, 161, 136)">kim jong</text>
+<text transform="translate(3,356)" font-size="19" style="fill:rgb(31, 149, 139)">japan south korea</text>
+<text transform="translate(463,699)" font-size="19" style="fill:rgb(139, 214, 70)">right wing</text>
+<text transform="translate(14,635)" font-size="19" style="fill:rgb(32, 164, 134)">good deal</text>
+<text transform="translate(36,757)" font-size="19" style="fill:rgb(59, 82, 139)">barack obama</text>
+<text transform="translate(141,373)" font-size="19" style="fill:rgb(54, 92, 141)">japan south</text>
+<text transform="translate(686,685)" font-size="19" style="fill:rgb(34, 140, 141)">aung san</text>
+<text transform="translate(362,293)" font-size="19" style="fill:rgb(181, 222, 43)">aung san suu</text>
+<text transform="translate(715,341)" font-size="19" style="fill:rgb(197, 224, 33)">san suu</text>
+<text transform="translate(167,595)" font-size="19" style="fill:rgb(72, 35, 116)">san suu kyi</text>
+<text transform="translate(5,604)" font-size="19" style="fill:rgb(60, 80, 139)">photo post</text>
+<text transform="translate(649,299)" font-size="19" style="fill:rgb(72, 35, 116)">central bank</text>
+<text transform="translate(621,203)" font-size="18" style="fill:rgb(64, 70, 136)">brussels airport</text>
+<text transform="translate(27,505)" font-size="18" style="fill:rgb(55, 91, 141)">attack paris</text>
+<text transform="translate(13,111)" font-size="18" style="fill:rgb(72, 27, 109)">trump say</text>
+<text transform="translate(664,600)" font-size="18" style="fill:rgb(63, 71, 136)">anne hidalgo</text>
+<text transform="translate(39,306)" font-size="18" style="fill:rgb(31, 148, 140)">raúl castro</text>
+<text x="50%" y="2%" dominant-baseline="middle" text-anchor="middle" font-size="20.317460317460316" style="fill:rgb(0, 0, 0)">tfidf + MS - C Level (5) - March-2016 - Comm. 5 w. 84 documents</text>
+</svg>
